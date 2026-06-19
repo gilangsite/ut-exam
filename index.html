@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Platform Kuis Ujian</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Platform Kuis</p>
+          <h1>Latihan Ujian</h1>
+        </div>
+        <button id="changeCourseBtn" class="ghost-button hidden" type="button">
+          Ganti Matkul
+        </button>
+      </header>
+
+      <section id="courseScreen" class="screen">
+        <div class="section-head">
+          <h2>Pilih Mata Kuliah</h2>
+          <p>Semua soal diambil dari dokumen markdown di folder ini.</p>
+        </div>
+        <div id="courseGrid" class="course-grid" aria-label="Daftar mata kuliah"></div>
+      </section>
+
+      <section id="quizScreen" class="screen hidden" aria-live="polite">
+        <div class="quiz-head">
+          <div>
+            <p id="courseLabel" class="eyebrow"></p>
+            <h2 id="quizTitle"></h2>
+          </div>
+          <div class="score-chip">
+            <span id="liveScore">0</span>
+            <span>/</span>
+            <span id="liveTotal">0</span>
+          </div>
+        </div>
+
+        <div class="progress" aria-hidden="true">
+          <span id="progressBar"></span>
+        </div>
+
+        <article class="question-card">
+          <div class="question-meta">
+            <span id="questionCounter"></span>
+            <span id="questionKey"></span>
+          </div>
+          <h3 id="questionText"></h3>
+          <div id="optionsList" class="options-list"></div>
+        </article>
+      </section>
+
+      <section id="finishScreen" class="screen hidden">
+        <div class="finish-hero">
+          <p id="finishCourse" class="eyebrow"></p>
+          <h2 id="finishScore"></h2>
+          <p id="finishDetail"></p>
+          <div class="finish-actions">
+            <button id="retryBtn" class="primary-button" type="button">Ulangi</button>
+            <button id="finishChangeCourseBtn" class="ghost-button" type="button">
+              Ganti Matkul
+            </button>
+          </div>
+        </div>
+
+        <div class="section-head review-head">
+          <h2>Review Jawaban</h2>
+          <p id="mistakeSummary"></p>
+        </div>
+        <div id="reviewList" class="review-list"></div>
+      </section>
+    </main>
+
+    <dialog id="resultDialog" class="result-dialog" aria-labelledby="resultTitle">
+      <div class="dialog-body">
+        <p id="resultStatus" class="result-status"></p>
+        <h2 id="resultTitle"></h2>
+        <div class="answer-lines">
+          <p id="selectedAnswer"></p>
+          <p id="correctAnswer"></p>
+        </div>
+        <div id="resultExplanation" class="explanation"></div>
+        <button id="nextQuestionBtn" class="primary-button full-button" type="button">
+          Lanjut
+        </button>
+      </div>
+    </dialog>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
