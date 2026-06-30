@@ -11,6 +11,8 @@
   --primary-dark: #0f5a35;
   --danger: #b33b3b;
   --danger-soft: #fff0ef;
+  --review: #8a5a00;
+  --review-soft: #fff6df;
   --success-soft: #edf8f1;
   --shadow: 0 22px 60px rgba(30, 35, 32, 0.11);
   --radius: 8px;
@@ -117,6 +119,7 @@ button {
 }
 
 .course-card {
+  min-width: 0;
   min-height: 164px;
   padding: 18px;
   text-align: left;
@@ -145,6 +148,7 @@ button {
 .course-card p {
   margin: 12px 0 0;
   color: var(--muted);
+  overflow-wrap: anywhere;
 }
 
 .course-count {
@@ -372,6 +376,11 @@ button {
   background: var(--danger-soft);
 }
 
+.review-status.review {
+  color: var(--review);
+  background: var(--review-soft);
+}
+
 .review-answer {
   margin-top: 14px;
   padding-top: 14px;
@@ -419,6 +428,10 @@ button {
 
 .result-status.wrong {
   color: var(--danger);
+}
+
+.result-status.review {
+  color: var(--review);
 }
 
 .answer-lines {

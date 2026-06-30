@@ -24,6 +24,21 @@ const courses = [
     title: "Manajemen Keuangan",
     source: "EMBS4210_-_Manajemen_Keuangan.md",
   },
+  {
+    id: "pemasaran-strategik",
+    title: "Pemasaran Strategik",
+    source: "quiz_pemasaran_strategik_audit.md",
+  },
+  {
+    id: "manajemen-rantai-pasokan",
+    title: "Manajemen Rantai Pasokan",
+    source: "quiz_embs4328_manajemen_rantai_pasokan_audit.md",
+  },
+  {
+    id: "audit-sdm",
+    title: "Audit SDM",
+    source: "quiz_embs4322_audit_sdm_audit.md",
+  },
 ];
 
 const order = ["A", "B", "C", "D"];
@@ -40,6 +55,10 @@ function cleanText(value) {
     .replace(/\n{3,}/g, "\n\n")
     .replace(/[ \t]{2,}/g, " ")
     .trim();
+}
+
+function cleanQuizText(value) {
+  return cleanText(value.replace(/^>\s?/gm, "")).replace(/`/g, "").trim();
 }
 
 function extractCorrectLabels(block, options) {
@@ -260,9 +279,109 @@ function splitQuestionBlocks(markdown) {
   });
 }
 
+function splitAuditQuestionBlocks(markdown) {
+  const matches = [...markdown.matchAll(/^#{2,3}\s+Q(\d+)/gm)];
+  return matches.map((match, index) => {
+    const start = match.index + match[0].length;
+    const end = matches[index + 1]?.index ?? markdown.length;
+    return {
+      number: Number(match[1]),
+      block: markdown.slice(start, end).trim(),
+    };
+  });
+}
+
+function extractAuditField(block, label) {
+  const escaped = label.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const bold = block.match(new RegExp(`\\*\\*${escaped}:\\*\\*\\s*([^\\n]+)`, "i"));
+  if (bold) {
+    return cleanQuizText(bold[1]);
+  }
+
+  const list = block.match(
+    new RegExp(`-\\s+\\*\\*${escaped}\\*\\*:\\s*\\\`?([^\\\`\\n]+)\\\`?`, "i"),
+  );
+  return list ? cleanQuizText(list[1]) : "";
+}
+
+function parseAuditOptions(block) {
+  const match = block.match(
+    /\*\*(?:Choices|Pilihan):\*\*\s*([\s\S]*?)(?=\n\s*\*\*(?:Kunci Dokumen|Jawaban Final|Status Audit|Pembahasan|Metadata):\*\*|\n---|\n#{2,3}\s+Q|\s*$)/i,
+  );
+  if (!match) {
+    return [];
+  }
+
+  const options = [];
+  for (const line of match[1].split("\n")) {
+    const option = line.match(/^\s*-\s*\*\*([A-D])\.\*\*\s*(.*)$/);
+    if (option) {
+      options.push({
+        label: option[1].toUpperCase(),
+        text: cleanQuizText(option[2]),
+      });
+      continue;
+    }
+
+    if (line.trim() && options.length) {
+      const last = options[options.length - 1];
+      last.text = cleanQuizText(`${last.text} ${line.trim()}`);
+    }
+  }
+
+  return order
+    .filter((label) => options.some((option) => option.label === label))
+    .map((label) => options.find((option) => option.label === label));
+}
+
+function parseAuditQuestion({ number, block }) {
+  const questionMatch = block.match(
+    /\*\*(?:Question|Pertanyaan):\*\*\s*([\s\S]*?)(?=\n\s*\*\*(?:Choices|Pilihan):\*\*)/i,
+  );
+  const explanationMatch = block.match(
+    /\*\*Pembahasan:\*\*\s*([\s\S]*?)(?=\n\s*\*\*Metadata:\*\*|\n---|\n#{2,3}\s+Q|\s*$)/i,
+  );
+  const originalKey =
+    extractAuditField(block, "Kunci Dokumen") || extractAuditField(block, "original_key");
+  const finalAnswer =
+    extractAuditField(block, "Jawaban Final") || extractAuditField(block, "answer");
+  const auditStatus =
+    extractAuditField(block, "Status Audit") || extractAuditField(block, "status_audit");
+  const finalLabels = (finalAnswer.match(/[A-D]/g) || []).filter((label) =>
+    order.includes(label),
+  );
+  const needsReview = /PERLU_REVISI|REVIEW|BERMASALAH/i.test(
+    `${finalAnswer} ${auditStatus}`,
+  );
+  const correctLabels = needsReview ? [] : [...new Set(finalLabels)];
+  let explanation = explanationMatch
+    ? cleanQuizText(explanationMatch[1])
+    : "Dokumen audit tidak menyertakan pembahasan rinci.";
+
+  if (needsReview) {
+    explanation = `Audit menandai soal ini perlu revisi opsi. ${explanation}`;
+  } else if (originalKey && finalAnswer && originalKey !== finalAnswer) {
+    explanation = `Audit mengoreksi kunci dokumen dari ${originalKey} menjadi ${finalAnswer}. ${explanation}`;
+  }
+
+  return {
+    number,
+    question: questionMatch ? cleanQuizText(questionMatch[1]) : "",
+    options: parseAuditOptions(block),
+    correctLabels,
+    explanation,
+    needsReview,
+    auditStatus: auditStatus || "Sesuai",
+    originalKey,
+  };
+}
+
 function parseCourse(course) {
   const markdown = readFileSync(resolve(root, course.source), "utf8");
-  const questions = splitQuestionBlocks(markdown).map(({ number, block }) => {
+  const auditBlocks = splitAuditQuestionBlocks(markdown);
+  const questions = auditBlocks.length
+    ? auditBlocks.map(parseAuditQuestion)
+    : splitQuestionBlocks(markdown).map(({ number, block }) => {
     const parsed = parseOptionsAndQuestion(block);
     const correctLabels = extractCorrectLabels(block, parsed.options);
     const explanationFromBody = extractExplanation(block);
@@ -277,6 +396,7 @@ function parseCourse(course) {
       options: parsed.options.map(({ label, text }) => ({ label, text })),
       correctLabels,
       explanation,
+      needsReview: false,
     };
   });
 
@@ -294,8 +414,14 @@ const audit = data.map((course) => ({
   withoutFourOptions: course.questions
     .filter((question) => question.options.length !== 4)
     .map((question) => question.number),
+  withoutEnoughOptions: course.questions
+    .filter((question) => question.options.length < 2)
+    .map((question) => question.number),
   withoutKey: course.questions
-    .filter((question) => question.correctLabels.length === 0)
+    .filter((question) => !question.needsReview && question.correctLabels.length === 0)
+    .map((question) => question.number),
+  reviewOnly: course.questions
+    .filter((question) => question.needsReview)
     .map((question) => question.number),
 }));
 
@@ -307,7 +433,7 @@ writeFileSync(
 console.table(audit);
 
 const hasProblems = audit.some(
-  (item) => item.withoutFourOptions.length || item.withoutKey.length,
+  (item) => item.withoutEnoughOptions.length || item.withoutKey.length,
 );
 
 if (hasProblems) {

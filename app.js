@@ -50,6 +50,10 @@ function formatAnswer(question, label) {
 }
 
 function formatCorrectAnswer(question) {
+  if (question.needsReview || question.correctLabels.length === 0) {
+    return "Audit: opsi jawaban perlu direvisi";
+  }
+
   return question.correctLabels
     .map((label) => formatAnswer(question, label))
     .join(" / ");
@@ -57,6 +61,10 @@ function formatCorrectAnswer(question) {
 
 function currentScore() {
   return state.answers.filter((answer) => answer?.isCorrect).length;
+}
+
+function scorableTotal() {
+  return state.course.questions.filter((question) => !question.needsReview).length;
 }
 
 function renderParagraphs(container, text) {
@@ -107,7 +115,7 @@ function startCourse(courseId) {
   state.course = course;
   state.index = 0;
   state.answers = Array.from({ length: course.questions.length }, () => null);
-  elements.liveTotal.textContent = String(course.questions.length);
+  elements.liveTotal.textContent = String(scorableTotal());
   showScreen(elements.quizScreen);
   renderQuestion();
 }
@@ -121,7 +129,9 @@ function renderQuestion() {
   elements.liveScore.textContent = String(currentScore());
   elements.progressBar.style.width = `${progress}%`;
   elements.questionCounter.textContent = `Soal ${state.index + 1} dari ${state.course.questions.length}`;
-  elements.questionKey.textContent = `Nomor ${question.number}`;
+  elements.questionKey.textContent = question.needsReview
+    ? `Nomor ${question.number} - Perlu review`
+    : `Nomor ${question.number}`;
   elements.questionText.textContent = question.question;
   elements.optionsList.replaceChildren();
 
@@ -147,23 +157,36 @@ function renderQuestion() {
 
 function chooseAnswer(label) {
   const question = state.course.questions[state.index];
-  const isCorrect = question.correctLabels.includes(label);
+  const isReviewOnly = question.needsReview || question.correctLabels.length === 0;
+  const isCorrect = !isReviewOnly && question.correctLabels.includes(label);
 
   state.answers[state.index] = {
     label,
     isCorrect,
+    isReviewOnly,
   };
 
   elements.liveScore.textContent = String(currentScore());
-  showResult(question, label, isCorrect);
+  showResult(question, label, isCorrect, isReviewOnly);
 }
 
-function showResult(question, label, isCorrect) {
-  elements.resultStatus.textContent = isCorrect ? "Jawaban benar" : "Jawaban salah";
-  elements.resultStatus.className = `result-status ${isCorrect ? "correct" : "wrong"}`;
-  elements.resultTitle.textContent = isCorrect ? "Benar" : "Belum tepat";
+function showResult(question, label, isCorrect, isReviewOnly) {
+  const statusClass = isReviewOnly ? "review" : isCorrect ? "correct" : "wrong";
+  elements.resultStatus.textContent = isReviewOnly
+    ? "Perlu review"
+    : isCorrect
+      ? "Jawaban benar"
+      : "Jawaban salah";
+  elements.resultStatus.className = `result-status ${statusClass}`;
+  elements.resultTitle.textContent = isReviewOnly
+    ? "Opsi perlu revisi"
+    : isCorrect
+      ? "Benar"
+      : "Belum tepat";
   elements.selectedAnswer.textContent = `Pilihan kamu: ${formatAnswer(question, label)}`;
-  elements.correctAnswer.textContent = `Kunci: ${formatCorrectAnswer(question)}`;
+  elements.correctAnswer.textContent = question.needsReview
+    ? formatCorrectAnswer(question)
+    : `Kunci: ${formatCorrectAnswer(question)}`;
   renderParagraphs(elements.resultExplanation, question.explanation);
   elements.nextQuestionBtn.textContent =
     state.index + 1 === state.course.questions.length ? "Lihat Skor" : "Lanjut";
@@ -183,18 +206,24 @@ function goNext() {
 }
 
 function renderFinish() {
-  const total = state.course.questions.length;
+  const total = scorableTotal();
   const score = currentScore();
-  const wrongAnswers = state.answers.filter((answer) => answer && !answer.isCorrect);
-  const percentage = Math.round((score / total) * 100);
+  const reviewOnlyCount = state.course.questions.filter((question) => question.needsReview).length;
+  const wrongAnswers = state.answers.filter(
+    (answer) => answer && !answer.isCorrect && !answer.isReviewOnly,
+  );
+  const percentage = total ? Math.round((score / total) * 100) : 0;
 
   elements.finishCourse.textContent = state.course.title;
   elements.finishScore.textContent = `${score}/${total}`;
-  elements.finishDetail.textContent = `Skor akhir ${percentage}%. Jawaban salah: ${wrongAnswers.length}.`;
+  elements.finishDetail.textContent =
+    reviewOnlyCount > 0
+      ? `Skor akhir ${percentage}%. Jawaban salah: ${wrongAnswers.length}. Soal review-only: ${reviewOnlyCount}.`
+      : `Skor akhir ${percentage}%. Jawaban salah: ${wrongAnswers.length}.`;
   elements.mistakeSummary.textContent =
-    wrongAnswers.length === 0
+    wrongAnswers.length === 0 && reviewOnlyCount === 0
       ? "Semua jawaban kamu benar."
-      : `Ada ${wrongAnswers.length} soal yang perlu dicek ulang.`;
+      : `Ada ${wrongAnswers.length} jawaban salah dan ${reviewOnlyCount} soal review-only.`;
 
   renderReview();
   showScreen(elements.finishScreen);
@@ -205,6 +234,7 @@ function renderReview() {
 
   state.course.questions.forEach((question, index) => {
     const answer = state.answers[index];
+    const isReviewOnly = question.needsReview || Boolean(answer?.isReviewOnly);
     const isCorrect = Boolean(answer?.isCorrect);
     const card = document.createElement("article");
     card.className = "review-card";
@@ -216,8 +246,8 @@ function renderReview() {
     title.textContent = `Soal ${index + 1}. ${question.question}`;
 
     const status = document.createElement("span");
-    status.className = `review-status ${isCorrect ? "correct" : "wrong"}`;
-    status.textContent = isCorrect ? "Benar" : "Salah";
+    status.className = `review-status ${isReviewOnly ? "review" : isCorrect ? "correct" : "wrong"}`;
+    status.textContent = isReviewOnly ? "Review" : isCorrect ? "Benar" : "Salah";
 
     top.append(title, status);
 
@@ -230,7 +260,9 @@ function renderReview() {
       : "Jawaban kamu: tidak dijawab";
 
     const correct = document.createElement("p");
-    correct.textContent = `Kunci: ${formatCorrectAnswer(question)}`;
+    correct.textContent = question.needsReview
+      ? formatCorrectAnswer(question)
+      : `Kunci: ${formatCorrectAnswer(question)}`;
 
     const explanation = document.createElement("div");
     explanation.className = "explanation";

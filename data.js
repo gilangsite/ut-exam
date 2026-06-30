@@ -29,7 +29,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 2,
@@ -55,7 +56,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 3,
@@ -81,7 +83,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 4,
@@ -107,7 +110,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 5,
@@ -133,7 +137,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 6,
@@ -159,7 +164,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 7,
@@ -185,7 +191,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 8,
@@ -211,7 +218,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 9,
@@ -237,7 +245,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 10,
@@ -263,7 +272,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 11,
@@ -289,7 +299,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 12,
@@ -315,7 +326,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 13,
@@ -341,7 +353,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 14,
@@ -367,7 +380,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 15,
@@ -393,7 +407,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 16,
@@ -419,7 +434,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 17,
@@ -445,7 +461,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 18,
@@ -471,7 +488,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 19,
@@ -497,7 +515,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 20,
@@ -523,7 +542,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 21,
@@ -549,7 +569,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 22,
@@ -575,7 +596,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 23,
@@ -601,7 +623,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 24,
@@ -627,7 +650,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 25,
@@ -653,7 +677,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 26,
@@ -679,7 +704,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 27,
@@ -705,7 +731,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 28,
@@ -731,7 +758,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 29,
@@ -757,7 +785,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 30,
@@ -783,7 +812,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 31,
@@ -809,7 +839,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 32,
@@ -835,7 +866,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 33,
@@ -861,7 +893,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 34,
@@ -887,7 +920,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 35,
@@ -913,7 +947,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 36,
@@ -939,7 +974,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 37,
@@ -965,7 +1001,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 38,
@@ -991,7 +1028,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 39,
@@ -1017,7 +1055,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 40,
@@ -1043,7 +1082,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 41,
@@ -1069,7 +1109,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 42,
@@ -1095,7 +1136,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 43,
@@ -1121,7 +1163,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 44,
@@ -1147,7 +1190,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 45,
@@ -1173,7 +1217,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 46,
@@ -1199,7 +1244,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 47,
@@ -1225,7 +1271,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 48,
@@ -1251,7 +1298,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 49,
@@ -1277,7 +1325,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 50,
@@ -1303,7 +1352,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 51,
@@ -1329,7 +1379,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 52,
@@ -1355,7 +1406,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 53,
@@ -1381,7 +1433,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 54,
@@ -1407,7 +1460,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 55,
@@ -1433,7 +1487,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 56,
@@ -1459,7 +1514,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 57,
@@ -1485,7 +1541,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 58,
@@ -1511,7 +1568,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 59,
@@ -1537,7 +1595,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 60,
@@ -1563,7 +1622,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 61,
@@ -1589,7 +1649,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 62,
@@ -1615,7 +1676,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 63,
@@ -1641,7 +1703,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 64,
@@ -1667,7 +1730,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 65,
@@ -1693,7 +1757,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 66,
@@ -1719,7 +1784,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 67,
@@ -1745,7 +1811,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 68,
@@ -1771,7 +1838,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 69,
@@ -1797,7 +1865,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 70,
@@ -1823,7 +1892,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 71,
@@ -1849,7 +1919,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 72,
@@ -1875,7 +1946,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 73,
@@ -1901,7 +1973,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 74,
@@ -1927,7 +2000,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 75,
@@ -1953,7 +2027,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 76,
@@ -1979,7 +2054,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 77,
@@ -2005,7 +2081,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 78,
@@ -2031,7 +2108,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 79,
@@ -2057,7 +2135,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 80,
@@ -2083,7 +2162,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 81,
@@ -2109,7 +2189,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 82,
@@ -2135,7 +2216,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 83,
@@ -2161,7 +2243,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 84,
@@ -2187,7 +2270,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 85,
@@ -2213,7 +2297,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 86,
@@ -2239,7 +2324,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 87,
@@ -2265,7 +2351,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 88,
@@ -2291,7 +2378,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 89,
@@ -2317,7 +2405,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 90,
@@ -2343,7 +2432,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 91,
@@ -2369,7 +2459,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 92,
@@ -2395,7 +2486,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 93,
@@ -2421,7 +2513,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 94,
@@ -2447,7 +2540,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 95,
@@ -2473,7 +2567,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 96,
@@ -2499,7 +2594,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 97,
@@ -2525,7 +2621,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 98,
@@ -2551,7 +2648,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 99,
@@ -2577,7 +2675,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 100,
@@ -2603,7 +2702,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 101,
@@ -2629,7 +2729,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 102,
@@ -2655,7 +2756,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 103,
@@ -2681,7 +2783,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 104,
@@ -2707,7 +2810,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 105,
@@ -2733,7 +2837,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 106,
@@ -2759,7 +2864,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 107,
@@ -2785,7 +2891,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 108,
@@ -2811,7 +2918,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 109,
@@ -2837,7 +2945,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 110,
@@ -2863,7 +2972,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 111,
@@ -2889,7 +2999,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 112,
@@ -2915,7 +3026,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 113,
@@ -2941,7 +3053,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 114,
@@ -2967,7 +3080,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 115,
@@ -2993,7 +3107,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 116,
@@ -3019,7 +3134,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 117,
@@ -3045,7 +3161,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 118,
@@ -3071,7 +3188,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 119,
@@ -3097,7 +3215,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 120,
@@ -3123,7 +3242,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       }
     ]
   },
@@ -3157,7 +3277,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 2,
@@ -3183,7 +3304,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 3,
@@ -3209,7 +3331,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 4,
@@ -3235,7 +3358,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 5,
@@ -3261,7 +3385,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 6,
@@ -3287,7 +3412,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 7,
@@ -3313,7 +3439,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 8,
@@ -3339,7 +3466,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 9,
@@ -3365,7 +3493,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 10,
@@ -3391,7 +3520,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 11,
@@ -3417,7 +3547,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 12,
@@ -3443,7 +3574,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 13,
@@ -3469,7 +3601,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 14,
@@ -3495,7 +3628,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 15,
@@ -3521,7 +3655,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 16,
@@ -3547,7 +3682,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 17,
@@ -3573,7 +3709,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 18,
@@ -3599,7 +3736,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 19,
@@ -3625,7 +3763,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 20,
@@ -3651,7 +3790,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 21,
@@ -3677,7 +3817,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 22,
@@ -3703,7 +3844,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 23,
@@ -3729,7 +3871,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 24,
@@ -3755,7 +3898,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 25,
@@ -3781,7 +3925,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 26,
@@ -3807,7 +3952,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 27,
@@ -3833,7 +3979,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 28,
@@ -3859,7 +4006,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 29,
@@ -3885,7 +4033,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 30,
@@ -3911,7 +4060,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 31,
@@ -3937,7 +4087,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 32,
@@ -3963,7 +4114,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 33,
@@ -3989,7 +4141,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 34,
@@ -4015,7 +4168,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 35,
@@ -4041,7 +4195,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 36,
@@ -4067,7 +4222,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 37,
@@ -4093,7 +4249,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 38,
@@ -4119,7 +4276,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 39,
@@ -4145,7 +4303,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 40,
@@ -4171,7 +4330,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 41,
@@ -4197,7 +4357,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 42,
@@ -4223,7 +4384,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 43,
@@ -4249,7 +4411,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 44,
@@ -4275,7 +4438,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 45,
@@ -4301,7 +4465,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 46,
@@ -4327,7 +4492,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 47,
@@ -4353,7 +4519,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 48,
@@ -4379,7 +4546,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 49,
@@ -4405,7 +4573,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 50,
@@ -4431,7 +4600,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 51,
@@ -4457,7 +4627,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 52,
@@ -4483,7 +4654,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 53,
@@ -4509,7 +4681,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 54,
@@ -4535,7 +4708,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 55,
@@ -4561,7 +4735,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 56,
@@ -4587,7 +4762,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 57,
@@ -4613,7 +4789,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 58,
@@ -4639,7 +4816,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 59,
@@ -4665,7 +4843,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 60,
@@ -4691,7 +4870,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 61,
@@ -4717,7 +4897,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 62,
@@ -4743,7 +4924,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 63,
@@ -4769,7 +4951,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 64,
@@ -4795,7 +4978,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 65,
@@ -4821,7 +5005,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 66,
@@ -4847,7 +5032,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 67,
@@ -4873,7 +5059,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 68,
@@ -4899,7 +5086,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 69,
@@ -4925,7 +5113,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 70,
@@ -4951,7 +5140,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 71,
@@ -4977,7 +5167,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 72,
@@ -5003,7 +5194,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 73,
@@ -5029,7 +5221,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 74,
@@ -5055,7 +5248,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 75,
@@ -5081,7 +5275,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 76,
@@ -5107,7 +5302,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 77,
@@ -5133,7 +5329,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 78,
@@ -5159,7 +5356,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 79,
@@ -5185,7 +5383,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 80,
@@ -5211,7 +5410,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 81,
@@ -5237,7 +5437,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 82,
@@ -5263,7 +5464,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 83,
@@ -5289,7 +5491,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 84,
@@ -5315,7 +5518,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 85,
@@ -5341,7 +5545,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 86,
@@ -5367,7 +5572,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 87,
@@ -5393,7 +5599,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 88,
@@ -5419,7 +5626,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 89,
@@ -5445,7 +5653,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 90,
@@ -5471,7 +5680,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 91,
@@ -5497,7 +5707,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 92,
@@ -5523,7 +5734,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 93,
@@ -5549,7 +5761,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 94,
@@ -5575,7 +5788,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 95,
@@ -5601,7 +5815,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 96,
@@ -5627,7 +5842,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 97,
@@ -5653,7 +5869,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 98,
@@ -5679,7 +5896,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 99,
@@ -5705,7 +5923,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 100,
@@ -5731,7 +5950,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 101,
@@ -5757,7 +5977,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 102,
@@ -5783,7 +6004,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 103,
@@ -5809,7 +6031,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 104,
@@ -5835,7 +6058,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 105,
@@ -5861,7 +6085,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 106,
@@ -5887,7 +6112,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 107,
@@ -5913,7 +6139,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 108,
@@ -5939,7 +6166,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 109,
@@ -5965,7 +6193,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 110,
@@ -5991,7 +6220,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 111,
@@ -6017,7 +6247,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 112,
@@ -6043,7 +6274,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 113,
@@ -6069,7 +6301,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 114,
@@ -6095,7 +6328,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 115,
@@ -6121,7 +6355,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 116,
@@ -6147,7 +6382,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 117,
@@ -6173,7 +6409,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 118,
@@ -6199,7 +6436,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 119,
@@ -6225,7 +6463,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 120,
@@ -6251,7 +6490,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 121,
@@ -6277,7 +6517,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 122,
@@ -6303,7 +6544,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 123,
@@ -6329,7 +6571,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 124,
@@ -6355,7 +6598,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 125,
@@ -6381,7 +6625,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 126,
@@ -6407,7 +6652,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 127,
@@ -6433,7 +6679,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 128,
@@ -6459,7 +6706,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 129,
@@ -6485,7 +6733,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 130,
@@ -6511,7 +6760,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 131,
@@ -6537,7 +6787,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 132,
@@ -6563,7 +6814,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 133,
@@ -6589,7 +6841,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 134,
@@ -6615,7 +6868,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 135,
@@ -6641,7 +6895,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       }
     ]
   },
@@ -6675,7 +6930,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Tarif = Total biaya ÷ Jumlah pemicu = 750.000 ÷ 250 = Rp 3.000 per unit."
+        "explanation": "Tarif = Total biaya ÷ Jumlah pemicu = 750.000 ÷ 250 = Rp 3.000 per unit.",
+        "needsReview": false
       },
       {
         "number": 2,
@@ -6701,7 +6957,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Kos variabel bertahap (step variable cost) berubah dalam \"tangga\" sesuai interval aktivitas,\nbukan setiap unit."
+        "explanation": "Kos variabel bertahap (step variable cost) berubah dalam \"tangga\" sesuai interval aktivitas,\nbukan setiap unit.",
+        "needsReview": false
       },
       {
         "number": 3,
@@ -6727,7 +6984,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Margin kontribusi per unit = 50.000 – 25.000 = 25.000\nBEP unit = 50.000.000 ÷ 25.000 = 2.000 unit\nPendapatan BEP = 2.000 × 50.000 = Rp 100.000.000"
+        "explanation": "Margin kontribusi per unit = 50.000 – 25.000 = 25.000\nBEP unit = 50.000.000 ÷ 25.000 = 2.000 unit\nPendapatan BEP = 2.000 × 50.000 = Rp 100.000.000",
+        "needsReview": false
       },
       {
         "number": 4,
@@ -6753,7 +7011,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Margin kontribusi A = 20.000; B = 40.000\nMargin kontribusi rata-rata tertimbang = (20.000 × 0,6) + (40.000 × 0,4) = 28.000\nBEP unit total = 2.800.000.000 ÷ 28.000 = 100.000 unit"
+        "explanation": "Margin kontribusi A = 20.000; B = 40.000\nMargin kontribusi rata-rata tertimbang = (20.000 × 0,6) + (40.000 × 0,4) = 28.000\nBEP unit total = 2.800.000.000 ÷ 28.000 = 100.000 unit",
+        "needsReview": false
       },
       {
         "number": 5,
@@ -6779,7 +7038,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Jawaban: C. Pembahasan:\nBiaya standar = 25.000 × 1.000 = 25.000.000\nBiaya aktual = 27.000 × 1.000 = 27.000.000\nVariansi tarih upah unfavorable = 2.000.000 (harus di debit). Namun dalam jurnal, jika mencatat\nberdasarkan standar, variansi unfavorable di debit, tapi di soal pilihan C variansi di kredit\n(mungkin maksudnya favorable). Pilihan C adalah yang paling mendekati logika pencatatan\nstandar dengan variansi di kredit jika favorable."
+        "explanation": "Jawaban: C. Pembahasan:\nBiaya standar = 25.000 × 1.000 = 25.000.000\nBiaya aktual = 27.000 × 1.000 = 27.000.000\nVariansi tarih upah unfavorable = 2.000.000 (harus di debit). Namun dalam jurnal, jika mencatat\nberdasarkan standar, variansi unfavorable di debit, tapi di soal pilihan C variansi di kredit\n(mungkin maksudnya favorable). Pilihan C adalah yang paling mendekati logika pencatatan\nstandar dengan variansi di kredit jika favorable.",
+        "needsReview": false
       },
       {
         "number": 6,
@@ -6806,7 +7066,8 @@ window.EXAM_DATA = [
           "D",
           "C"
         ],
-        "explanation": "Margin kontribusi per unit = 80.000 – 40.000 = 40.000\nBEP unit = 100.000.000 ÷ 40.000 = 2.500 unit (opsi C), tapi perhitungan: 100.000.000 ÷ 40.000 =\n2.500 unit.\nJawaban: C"
+        "explanation": "Margin kontribusi per unit = 80.000 – 40.000 = 40.000\nBEP unit = 100.000.000 ÷ 40.000 = 2.500 unit (opsi C), tapi perhitungan: 100.000.000 ÷ 40.000 =\n2.500 unit.\nJawaban: C",
+        "needsReview": false
       },
       {
         "number": 7,
@@ -6832,7 +7093,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Analisis aktivitas (ABC) berfokus pada biaya aktivitas, bukan hanya biaya tradisional."
+        "explanation": "Analisis aktivitas (ABC) berfokus pada biaya aktivitas, bukan hanya biaya tradisional.",
+        "needsReview": false
       },
       {
         "number": 8,
@@ -6858,7 +7120,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Jawaban: B. Pembahasan:\nVariansi pemakaian unfavorable dicatat dengan mendebit akun variansi."
+        "explanation": "Jawaban: B. Pembahasan:\nVariansi pemakaian unfavorable dicatat dengan mendebit akun variansi.",
+        "needsReview": false
       },
       {
         "number": 9,
@@ -6884,7 +7147,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "800.000 ÷ 400 = 2.000"
+        "explanation": "800.000 ÷ 400 = 2.000",
+        "needsReview": false
       },
       {
         "number": 10,
@@ -6910,7 +7174,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "ABC mengurangi distorsi dengan mengalokasi berdasarkan konsumsi aktivitas."
+        "explanation": "ABC mengurangi distorsi dengan mengalokasi berdasarkan konsumsi aktivitas.",
+        "needsReview": false
       },
       {
         "number": 11,
@@ -6936,7 +7201,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "ABM mengelola aktivitas untuk meningkatkan nilai dan mengurangi pemborosan."
+        "explanation": "ABM mengelola aktivitas untuk meningkatkan nilai dan mengurangi pemborosan.",
+        "needsReview": false
       },
       {
         "number": 12,
@@ -6962,7 +7228,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "1.000.000 ÷ 500 = 2.000"
+        "explanation": "1.000.000 ÷ 500 = 2.000",
+        "needsReview": false
       },
       {
         "number": 13,
@@ -6988,7 +7255,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Anggaran kas berisi proyeksi kas masuk dan kas keluar."
+        "explanation": "Anggaran kas berisi proyeksi kas masuk dan kas keluar.",
+        "needsReview": false
       },
       {
         "number": 14,
@@ -7014,7 +7282,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Total overhead = 200.000.000 + (10.000 × 8.000) = 280.000.000"
+        "explanation": "Total overhead = 200.000.000 + (10.000 × 8.000) = 280.000.000",
+        "needsReview": false
       },
       {
         "number": 15,
@@ -7040,7 +7309,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Akuntansi pertanggungjawaban untuk pengendalian dan evaluasi kinerja manajer."
+        "explanation": "Akuntansi pertanggungjawaban untuk pengendalian dan evaluasi kinerja manajer.",
+        "needsReview": false
       },
       {
         "number": 16,
@@ -7066,7 +7336,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Jawaban: A. Pembahasan:\nTotal biaya variabel = 250.000.000 + 100.000.000 = 350.000.000\nKontribusi margin = 500.000.000 – 350.000.000 = 150.000.000\nLaba bersih = 150.000.000 – (80.000.000 + 40.000.000) = 30.000.000"
+        "explanation": "Jawaban: A. Pembahasan:\nTotal biaya variabel = 250.000.000 + 100.000.000 = 350.000.000\nKontribusi margin = 500.000.000 – 350.000.000 = 150.000.000\nLaba bersih = 150.000.000 – (80.000.000 + 40.000.000) = 30.000.000",
+        "needsReview": false
       },
       {
         "number": 17,
@@ -7092,7 +7363,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Anggaran operasional berkaitan dengan kegiatan operasional sehari-hari."
+        "explanation": "Anggaran operasional berkaitan dengan kegiatan operasional sehari-hari.",
+        "needsReview": false
       },
       {
         "number": 18,
@@ -7118,7 +7390,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Laporan laba rugi bulanan untuk menilai kinerja keuangan."
+        "explanation": "Laporan laba rugi bulanan untuk menilai kinerja keuangan.",
+        "needsReview": false
       },
       {
         "number": 19,
@@ -7144,7 +7417,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Variansi anggaran overhead tetap = Aktual – Anggaran = 55.000.000 – 50.000.000 = 5.000.000\nUnfavorable."
+        "explanation": "Variansi anggaran overhead tetap = Aktual – Anggaran = 55.000.000 – 50.000.000 = 5.000.000\nUnfavorable.",
+        "needsReview": false
       },
       {
         "number": 20,
@@ -7170,7 +7444,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Variansi = Aktual – Anggaran = 20.000.000 Unfavorable."
+        "explanation": "Variansi = Aktual – Anggaran = 20.000.000 Unfavorable.",
+        "needsReview": false
       },
       {
         "number": 21,
@@ -7196,7 +7471,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Perbedaan hanya pada alokasi biaya tetap produksi.\nBiaya tetap per unit = 150.000.000 ÷ 3.000 = 50.000\nPerbedaan = 500 unit × 50.000 = 25.000.000? Cek:\nVariable costing: sediaan = 500 × 80.000 = 40.000.000\nAbsorption costing: sediaan = 500 × (80.000 + 50.000) = 65.000.000\nSelisih = 25.000.000 (tidak ada di pilihan). Mungkin maksud: selisih nilai sediaan = 500 × biaya\ntetap per unit = 25.000.000 (tidak ada).\nNamun di pilihan D = 50.000.000, mungkin jika produksi 2.000 unit? Hitung ulang:\nBiaya tetap per unit = 150.000.000 ÷ 3.000 = 50.000\nSelisih = 500 × 50.000 = 25.000.000 (tidak ada di opsi).\nMungkin kesalahan soal, tapi dari pilihan yang paling mendekati: D."
+        "explanation": "Perbedaan hanya pada alokasi biaya tetap produksi.\nBiaya tetap per unit = 150.000.000 ÷ 3.000 = 50.000\nPerbedaan = 500 unit × 50.000 = 25.000.000? Cek:\nVariable costing: sediaan = 500 × 80.000 = 40.000.000\nAbsorption costing: sediaan = 500 × (80.000 + 50.000) = 65.000.000\nSelisih = 25.000.000 (tidak ada di pilihan). Mungkin maksud: selisih nilai sediaan = 500 × biaya\ntetap per unit = 25.000.000 (tidak ada).\nNamun di pilihan D = 50.000.000, mungkin jika produksi 2.000 unit? Hitung ulang:\nBiaya tetap per unit = 150.000.000 ÷ 3.000 = 50.000\nSelisih = 500 × 50.000 = 25.000.000 (tidak ada di opsi).\nMungkin kesalahan soal, tapi dari pilihan yang paling mendekati: D.",
+        "needsReview": false
       },
       {
         "number": 22,
@@ -7223,7 +7499,8 @@ window.EXAM_DATA = [
           "B",
           "C"
         ],
-        "explanation": "BEP unit = 120.000.000 ÷ (150.000 – 50.000) = 1.200 unit\nMargin of safety unit = Penjualan aktual – BEP = 3.000 – 1.200 = 1.800 unit?\nTunggu:\nBEP = 120.000.000 ÷ 100.000 = 1.200 unit\nPenjualan aktual = 3.000 unit\nMOS unit = 3.000 – 1.200 = 1.800 unit → opsi C.\nTapi di pilihan B = 1.200 unit (mungkin yang dimaksud BEP unit).\nJika yang diminta MOS dalam unit, jawabannya 1.800 unit (C). C"
+        "explanation": "BEP unit = 120.000.000 ÷ (150.000 – 50.000) = 1.200 unit\nMargin of safety unit = Penjualan aktual – BEP = 3.000 – 1.200 = 1.800 unit?\nTunggu:\nBEP = 120.000.000 ÷ 100.000 = 1.200 unit\nPenjualan aktual = 3.000 unit\nMOS unit = 3.000 – 1.200 = 1.800 unit → opsi C.\nTapi di pilihan B = 1.200 unit (mungkin yang dimaksud BEP unit).\nJika yang diminta MOS dalam unit, jawabannya 1.800 unit (C). C",
+        "needsReview": false
       },
       {
         "number": 23,
@@ -7249,7 +7526,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Jawaban: A. Pembahasan:\nTotal aktiva = 30 + 20 + 15 = 65 juta\nTotal kewajiban + ekuitas = 25 + 40 = 65 juta"
+        "explanation": "Jawaban: A. Pembahasan:\nTotal aktiva = 30 + 20 + 15 = 65 juta\nTotal kewajiban + ekuitas = 25 + 40 = 65 juta",
+        "needsReview": false
       },
       {
         "number": 24,
@@ -7276,7 +7554,8 @@ window.EXAM_DATA = [
           "B",
           "D"
         ],
-        "explanation": "Variansi tarif = (16.500 – 15.000) × 4.200 = 6.300.000 Unfavorable (D)\nNamun di pilihan D 6.300.000 Unfavorable. D"
+        "explanation": "Variansi tarif = (16.500 – 15.000) × 4.200 = 6.300.000 Unfavorable (D)\nNamun di pilihan D 6.300.000 Unfavorable. D",
+        "needsReview": false
       },
       {
         "number": 25,
@@ -7302,7 +7581,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Jawaban: A. Pembahasan:\nAnggaran statis tetap tidak berubah meskipun volume berubah."
+        "explanation": "Jawaban: A. Pembahasan:\nAnggaran statis tetap tidak berubah meskipun volume berubah.",
+        "needsReview": false
       },
       {
         "number": 26,
@@ -7328,7 +7608,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Langkah logis dimulai dari identifikasi masalah."
+        "explanation": "Langkah logis dimulai dari identifikasi masalah.",
+        "needsReview": false
       },
       {
         "number": 27,
@@ -7354,7 +7635,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Kos kualitas diukur dengan pendekatan kuantitatif dan kualitatif."
+        "explanation": "Kos kualitas diukur dengan pendekatan kuantitatif dan kualitatif.",
+        "needsReview": false
       },
       {
         "number": 28,
@@ -7380,7 +7662,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Variansi adalah selisih antara aktual dan standar."
+        "explanation": "Variansi adalah selisih antara aktual dan standar.",
+        "needsReview": false
       },
       {
         "number": 29,
@@ -7406,7 +7689,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Berdasarkan relevansi keputusan: relevant vs irrelevant cost."
+        "explanation": "Berdasarkan relevansi keputusan: relevant vs irrelevant cost.",
+        "needsReview": false
       },
       {
         "number": 30,
@@ -7432,7 +7716,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Aktivitas adalah penyebab timbulnya biaya (cost driver)."
+        "explanation": "Aktivitas adalah penyebab timbulnya biaya (cost driver).",
+        "needsReview": false
       },
       {
         "number": 31,
@@ -7458,7 +7743,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Definisi aset menurut kerangka konseptual akuntansi."
+        "explanation": "Definisi aset menurut kerangka konseptual akuntansi.",
+        "needsReview": false
       },
       {
         "number": 32,
@@ -7484,7 +7770,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Integritas mencakup kejujuran dan keadilan."
+        "explanation": "Integritas mencakup kejujuran dan keadilan.",
+        "needsReview": false
       },
       {
         "number": 33,
@@ -7510,7 +7797,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Revolusi Industri ditandai teknologi baru, populasi tumbuh, permintaan meningkat."
+        "explanation": "Revolusi Industri ditandai teknologi baru, populasi tumbuh, permintaan meningkat.",
+        "needsReview": false
       },
       {
         "number": 34,
@@ -7536,7 +7824,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Pilar kualitatif laporan keuangan: relevance, reliability, comparability, consistency."
+        "explanation": "Pilar kualitatif laporan keuangan: relevance, reliability, comparability, consistency.",
+        "needsReview": false
       },
       {
         "number": 35,
@@ -7562,7 +7851,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "JIT adalah produksi sesuai permintaan, minim persediaan."
+        "explanation": "JIT adalah produksi sesuai permintaan, minim persediaan.",
+        "needsReview": false
       },
       {
         "number": 36,
@@ -7588,7 +7878,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "500.000 ÷ 250 = 2.000"
+        "explanation": "500.000 ÷ 250 = 2.000",
+        "needsReview": false
       },
       {
         "number": 37,
@@ -7614,7 +7905,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Cost driver umum: volume, transaksi, dan lainnya seperti jumlah pesanan/pelanggan."
+        "explanation": "Cost driver umum: volume, transaksi, dan lainnya seperti jumlah pesanan/pelanggan.",
+        "needsReview": false
       },
       {
         "number": 38,
@@ -7640,7 +7932,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "BEP unit = 80.000.000 ÷ (90.000 – 35.000) = 80.000.000 ÷ 55.000 ≈ 1.454,545 unit\nPendapatan BEP ≈ 1.454,545 × 90.000 ≈ 130.909.090 → mendekati C."
+        "explanation": "BEP unit = 80.000.000 ÷ (90.000 – 35.000) = 80.000.000 ÷ 55.000 ≈ 1.454,545 unit\nPendapatan BEP ≈ 1.454,545 × 90.000 ≈ 130.909.090 → mendekati C.",
+        "needsReview": false
       },
       {
         "number": 39,
@@ -7666,7 +7959,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Margin kontribusi:\nP = 30.000, Q = 40.000, R = 50.000\nRata-rata tertimbang = (30.000×0,3)+(40.000×0,5)+(50.000×0,2) = 39.000\nBEP unit total = 90.000.000 ÷ 39.000 ≈ 2.307,69 unit\nPendapatan BEP = (0,3×70.000 + 0,5×90.000 + 0,2×110.000) × 2.307,69 ≈ 180.000.000"
+        "explanation": "Margin kontribusi:\nP = 30.000, Q = 40.000, R = 50.000\nRata-rata tertimbang = (30.000×0,3)+(40.000×0,5)+(50.000×0,2) = 39.000\nBEP unit total = 90.000.000 ÷ 39.000 ≈ 2.307,69 unit\nPendapatan BEP = (0,3×70.000 + 0,5×90.000 + 0,2×110.000) × 2.307,69 ≈ 180.000.000",
+        "needsReview": false
       },
       {
         "number": 40,
@@ -7692,7 +7986,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Variansi tarif = (Tarif aktual – Tarif standar) × Jam aktual\nTarif standar per jam?\nUpah standar per unit 50.000, jam standar per unit = 1.000 ÷ 500 = 2 jam\nTarif standar per jam = 50.000 ÷ 2 = 25.000\nTarif aktual per jam = (55.000 × 500) ÷ 1.000 = 27.500\nVariansi tarif = (27.500 – 25.000) × 1.000 = 2.500.000 Unfavorable (tidak ada di pilihan).\nMungkin dianggap per unit:\nVariansi = (55.000 – 50.000) × 500 = 2.500.000 Unfavorable.\nTapi pilihan B 5.000.000 mungkin jika pakai angka total:\nTotal standar = 50.000 × 500 = 25.000.000\nTotal aktual = 55.000 × 500 = 27.500.000\nVariansi = 2.500.000 Unfavorable (tidak 5 juta).\nKemungkinan kesalahan soal, tapi pilihan B paling mendekati jika dianggap perhitungan lain."
+        "explanation": "Variansi tarif = (Tarif aktual – Tarif standar) × Jam aktual\nTarif standar per jam?\nUpah standar per unit 50.000, jam standar per unit = 1.000 ÷ 500 = 2 jam\nTarif standar per jam = 50.000 ÷ 2 = 25.000\nTarif aktual per jam = (55.000 × 500) ÷ 1.000 = 27.500\nVariansi tarif = (27.500 – 25.000) × 1.000 = 2.500.000 Unfavorable (tidak ada di pilihan).\nMungkin dianggap per unit:\nVariansi = (55.000 – 50.000) × 500 = 2.500.000 Unfavorable.\nTapi pilihan B 5.000.000 mungkin jika pakai angka total:\nTotal standar = 50.000 × 500 = 25.000.000\nTotal aktual = 55.000 × 500 = 27.500.000\nVariansi = 2.500.000 Unfavorable (tidak 5 juta).\nKemungkinan kesalahan soal, tapi pilihan B paling mendekati jika dianggap perhitungan lain.",
+        "needsReview": false
       },
       {
         "number": 41,
@@ -7718,7 +8013,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "BEP unit = 70.000.000 ÷ (65.000 – 25.000) = 1.750 unit"
+        "explanation": "BEP unit = 70.000.000 ÷ (65.000 – 25.000) = 1.750 unit",
+        "needsReview": false
       },
       {
         "number": 42,
@@ -7744,7 +8040,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dalam analisis aktivitas, klasifikasi utama: value-added vs non-value-added."
+        "explanation": "Dalam analisis aktivitas, klasifikasi utama: value-added vs non-value-added.",
+        "needsReview": false
       },
       {
         "number": 43,
@@ -7771,7 +8068,8 @@ window.EXAM_DATA = [
           "C",
           "D"
         ],
-        "explanation": "Standar pemakaian = 200 × 5 = 1.000 kg\nVariansi kuantitas = (1.100 – 1.000) × 20.000 = 2.000.000 Unfavorable (D)\nTapi perhitungan: 100 kg × 20.000 = 2.000.000 → D.\n D"
+        "explanation": "Standar pemakaian = 200 × 5 = 1.000 kg\nVariansi kuantitas = (1.100 – 1.000) × 20.000 = 2.000.000 Unfavorable (D)\nTapi perhitungan: 100 kg × 20.000 = 2.000.000 → D.\n D",
+        "needsReview": false
       },
       {
         "number": 44,
@@ -7797,7 +8095,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "1.200.000 ÷ 600 = 2.000"
+        "explanation": "1.200.000 ÷ 600 = 2.000",
+        "needsReview": false
       },
       {
         "number": 45,
@@ -7823,7 +8122,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Distorsi sumber daya (resource distortion) terjadi karena alokasi tidak tepat."
+        "explanation": "Distorsi sumber daya (resource distortion) terjadi karena alokasi tidak tepat.",
+        "needsReview": false
       },
       {
         "number": 46,
@@ -7849,7 +8149,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "ABM bertujuan mengelola aktivitas untuk meningkatkan nilai."
+        "explanation": "ABM bertujuan mengelola aktivitas untuk meningkatkan nilai.",
+        "needsReview": false
       },
       {
         "number": 47,
@@ -7875,7 +8176,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Total kos = 4.000 × 300 = 1.200.000"
+        "explanation": "Total kos = 4.000 × 300 = 1.200.000",
+        "needsReview": false
       },
       {
         "number": 48,
@@ -7901,7 +8203,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Anggaran neraca berisi akun-akun neraca: aset, utang, modal."
+        "explanation": "Anggaran neraca berisi akun-akun neraca: aset, utang, modal.",
+        "needsReview": false
       },
       {
         "number": 49,
@@ -7927,7 +8230,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Jawaban: B. Pembahasan:\nKebutuhan produksi = 10.000 × 2 = 20.000 kg\nPembelian = Kebutuhan + Persediaan akhir – Persediaan awal\n= 20.000 + 500 – 10.500 = 10.000 kg\nBiaya pembelian = 10.000 × 5.000 = 50.000.000"
+        "explanation": "Jawaban: B. Pembahasan:\nKebutuhan produksi = 10.000 × 2 = 20.000 kg\nPembelian = Kebutuhan + Persediaan akhir – Persediaan awal\n= 20.000 + 500 – 10.500 = 10.000 kg\nBiaya pembelian = 10.000 × 5.000 = 50.000.000",
+        "needsReview": false
       },
       {
         "number": 50,
@@ -7953,7 +8257,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Akuntansi pertanggungjawaban kontemporer lebih ke kinerja internal dan strategis."
+        "explanation": "Akuntansi pertanggungjawaban kontemporer lebih ke kinerja internal dan strategis.",
+        "needsReview": false
       },
       {
         "number": 51,
@@ -7979,7 +8284,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Total biaya variabel = 400.000.000 + 100.000.000 = 500.000.000\nKontribusi margin = 600.000.000 – 500.000.000 = 100.000.000\nLaba bersih = 100.000.000 – (25.000.000 + 25.000.000) = 50.000.000"
+        "explanation": "Total biaya variabel = 400.000.000 + 100.000.000 = 500.000.000\nKontribusi margin = 600.000.000 – 500.000.000 = 100.000.000\nLaba bersih = 100.000.000 – (25.000.000 + 25.000.000) = 50.000.000",
+        "needsReview": false
       },
       {
         "number": 52,
@@ -8005,7 +8311,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Budgetary slack adalah sengaja membuat anggaran longgar agar mudah dicapai."
+        "explanation": "Budgetary slack adalah sengaja membuat anggaran longgar agar mudah dicapai.",
+        "needsReview": false
       },
       {
         "number": 53,
@@ -8031,7 +8338,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Langkah awal adalah pengumpulan data."
+        "explanation": "Langkah awal adalah pengumpulan data.",
+        "needsReview": false
       },
       {
         "number": 54,
@@ -8057,7 +8365,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Variansi anggaran = Aktual – Anggaran = 80.000.000 – 75.000.000 = 5.000.000 Unfavorable."
+        "explanation": "Variansi anggaran = Aktual – Anggaran = 80.000.000 – 75.000.000 = 5.000.000 Unfavorable.",
+        "needsReview": false
       },
       {
         "number": 55,
@@ -8083,7 +8392,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Aktual < Anggaran → Favorable 5.000.000."
+        "explanation": "Aktual < Anggaran → Favorable 5.000.000.",
+        "needsReview": false
       },
       {
         "number": 56,
@@ -8110,7 +8420,8 @@ window.EXAM_DATA = [
           "B",
           "D"
         ],
-        "explanation": "Biaya per unit absorption = 70.000 + (80.000.000 ÷ 4.000) = 70.000 + 20.000 = 90.000\nSediaan akhir = 1.000 unit × 90.000 = 90.000.000 (D)\nTapi pilihan D 90.000.000. D"
+        "explanation": "Biaya per unit absorption = 70.000 + (80.000.000 ÷ 4.000) = 70.000 + 20.000 = 90.000\nSediaan akhir = 1.000 unit × 90.000 = 90.000.000 (D)\nTapi pilihan D 90.000.000. D",
+        "needsReview": false
       },
       {
         "number": 57,
@@ -8136,7 +8447,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Kontribusi margin = 800.000.000 – 400.000.000 = 400.000.000\nLaba operasi = 400.000.000 – 200.000.000 = 200.000.000\nDOL = Kontribusi margin ÷ Laba operasi = 400.000.000 ÷ 200.000.000 = 2,0\nTapi pilihan tidak ada 2,0. Mungkin perhitungan lain:\nDOL = (Penjualan – Biaya Variabel) ÷ (Penjualan – Biaya Variabel – Biaya Tetap) = 400.000.000 ÷\n200.000.000 = 2,0.\nPilihan D 3,0 mungkin jika menggunakan rumus berbeda."
+        "explanation": "Kontribusi margin = 800.000.000 – 400.000.000 = 400.000.000\nLaba operasi = 400.000.000 – 200.000.000 = 200.000.000\nDOL = Kontribusi margin ÷ Laba operasi = 400.000.000 ÷ 200.000.000 = 2,0\nTapi pilihan tidak ada 2,0. Mungkin perhitungan lain:\nDOL = (Penjualan – Biaya Variabel) ÷ (Penjualan – Biaya Variabel – Biaya Tetap) = 400.000.000 ÷\n200.000.000 = 2,0.\nPilihan D 3,0 mungkin jika menggunakan rumus berbeda.",
+        "needsReview": false
       },
       {
         "number": 58,
@@ -8162,7 +8474,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Total aktiva = 15 + 10 + 5 = 30 juta\nTotal kewajiban + ekuitas = 12 + 18 = 30 juta"
+        "explanation": "Total aktiva = 15 + 10 + 5 = 30 juta\nTotal kewajiban + ekuitas = 12 + 18 = 30 juta",
+        "needsReview": false
       },
       {
         "number": 59,
@@ -8188,7 +8501,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Jawaban: C. Pembahasan:\nStandar = 12.000 × 3.000 = 36.000.000\nAktual = 13.000 × 3.000 = 39.000.000\nVariansi unfavorable 3.000.000 di debit, tapi dalam jurnal standar, variansi unfavorable di debit\nke akun variansi.\nPilihan C tepat jika variansi di kredit (mungkin favorable).\nDi soal aktual > standar → unfavorable, harusnya variansi di debit.\nTapi pilihan C: variansi di kredit 3.000.000 → artinya favorable? Tidak sesuai.\nMungkin soal menganggap variansi favorable (jika tarif aktual lebih rendah).\nKarena tidak ada yang tepat, pilih C berdasarkan format jurnal standar."
+        "explanation": "Jawaban: C. Pembahasan:\nStandar = 12.000 × 3.000 = 36.000.000\nAktual = 13.000 × 3.000 = 39.000.000\nVariansi unfavorable 3.000.000 di debit, tapi dalam jurnal standar, variansi unfavorable di debit\nke akun variansi.\nPilihan C tepat jika variansi di kredit (mungkin favorable).\nDi soal aktual > standar → unfavorable, harusnya variansi di debit.\nTapi pilihan C: variansi di kredit 3.000.000 → artinya favorable? Tidak sesuai.\nMungkin soal menganggap variansi favorable (jika tarif aktual lebih rendah).\nKarena tidak ada yang tepat, pilih C berdasarkan format jurnal standar.",
+        "needsReview": false
       },
       {
         "number": 60,
@@ -8214,7 +8528,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Anggaran fleksibel menyesuaikan dengan tingkat aktivitas."
+        "explanation": "Anggaran fleksibel menyesuaikan dengan tingkat aktivitas.",
+        "needsReview": false
       },
       {
         "number": 61,
@@ -8240,7 +8555,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Kos relevan adalah kos yang berbeda antar alternatif."
+        "explanation": "Kos relevan adalah kos yang berbeda antar alternatif.",
+        "needsReview": false
       },
       {
         "number": 62,
@@ -8266,7 +8582,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Optimal kualitas adalah saat manfaat = biaya tambahan."
+        "explanation": "Optimal kualitas adalah saat manfaat = biaya tambahan.",
+        "needsReview": false
       },
       {
         "number": 63,
@@ -8292,7 +8609,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Keputusan kuantitas dan harga memerlukan data produksi dan biaya."
+        "explanation": "Keputusan kuantitas dan harga memerlukan data produksi dan biaya.",
+        "needsReview": false
       },
       {
         "number": 64,
@@ -8318,7 +8636,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Berdasarkan perilaku: fixed vs variable cost."
+        "explanation": "Berdasarkan perilaku: fixed vs variable cost.",
+        "needsReview": false
       },
       {
         "number": 65,
@@ -8344,7 +8663,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Kos langsung ditelusuri langsung ke objek kos."
+        "explanation": "Kos langsung ditelusuri langsung ke objek kos.",
+        "needsReview": false
       },
       {
         "number": 66,
@@ -8370,7 +8690,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Definisi akuntansi untuk masing-masing istilah."
+        "explanation": "Definisi akuntansi untuk masing-masing istilah.",
+        "needsReview": false
       },
       {
         "number": 67,
@@ -8396,7 +8717,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Kerahasiaan (confidentiality) adalah menjaga informasi rahasia."
+        "explanation": "Kerahasiaan (confidentiality) adalah menjaga informasi rahasia.",
+        "needsReview": false
       },
       {
         "number": 68,
@@ -8422,7 +8744,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Jawaban: A. Pembahasan:\nTiga cabang utama: akuntansi keuangan, manajemen, dan biaya."
+        "explanation": "Jawaban: A. Pembahasan:\nTiga cabang utama: akuntansi keuangan, manajemen, dan biaya.",
+        "needsReview": false
       },
       {
         "number": 69,
@@ -8448,7 +8771,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Fungsi manajemen: planning, organizing, actuating, controlling."
+        "explanation": "Fungsi manajemen: planning, organizing, actuating, controlling.",
+        "needsReview": false
       },
       {
         "number": 70,
@@ -8474,7 +8798,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "TOC fokus pada kendala (constraints) sistem."
+        "explanation": "TOC fokus pada kendala (constraints) sistem.",
+        "needsReview": false
       },
       {
         "number": 71,
@@ -8500,7 +8825,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "1.000.000 ÷ 500 = 2.000"
+        "explanation": "1.000.000 ÷ 500 = 2.000",
+        "needsReview": false
       },
       {
         "number": 72,
@@ -8526,7 +8852,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Step-fixed cost berubah pada interval aktivitas tertentu."
+        "explanation": "Step-fixed cost berubah pada interval aktivitas tertentu.",
+        "needsReview": false
       },
       {
         "number": 73,
@@ -8552,7 +8879,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "BEP unit = 60.000.000 ÷ (50.000 – 20.000) = 2.000 unit\nPendapatan BEP = 2.000 × 50.000 = 100.000.000"
+        "explanation": "BEP unit = 60.000.000 ÷ (50.000 – 20.000) = 2.000 unit\nPendapatan BEP = 2.000 × 50.000 = 100.000.000",
+        "needsReview": false
       },
       {
         "number": 74,
@@ -8578,7 +8906,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Jawaban: B. Pembahasan:\nMargin kontribusi X = 40.000; Y = 50.000\nRata-rata = (40.000×0,5)+(50.000×0,5)=45.000\nBEP unit total = 3.600.000.000 ÷ 45.000 = 80.000 unit\nTapi pilihan B Rp 80.000 mungkin maksud 80.000 unit.\n B"
+        "explanation": "Jawaban: B. Pembahasan:\nMargin kontribusi X = 40.000; Y = 50.000\nRata-rata = (40.000×0,5)+(50.000×0,5)=45.000\nBEP unit total = 3.600.000.000 ÷ 45.000 = 80.000 unit\nTapi pilihan B Rp 80.000 mungkin maksud 80.000 unit.\n B",
+        "needsReview": false
       },
       {
         "number": 75,
@@ -8604,7 +8933,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Standar jam per unit = 1.000 ÷ 200 = 5 jam\nStandar tarif per jam = 30.000 ÷ 5 = 6.000\nVariansi efisiensi = (Jam aktual – Jam standar) × Tarif standar\nJam standar untuk aktual output? Output aktual berapa? Tidak diketahui.\nMungkin asumsi output aktual 200 unit?\nJam standar = 200 × 5 = 1.000 jam\nVariansi efisiensi = (1.200 – 1.000) × 6.000 = 1.200.000 Unfavorable (tidak ada di pilihan).\nPilihan D 12.000.000 mungkin jika tarif per unit 30.000 dan selisih jam 200 jam × 60.000?\nLangsung:\nVariansi efisiensi = (Jam aktual – Jam standar) × Tarif standar per jam\n= (1.200 – 1.000) × (30.000 ÷ 5) = 200 × 6.000 = 1.200.000.\nTidak cocok.\nMungkin pilihan D jika selisih jam 400 jam?\nKarena tidak cukup data, pilih D berdasarkan angka."
+        "explanation": "Standar jam per unit = 1.000 ÷ 200 = 5 jam\nStandar tarif per jam = 30.000 ÷ 5 = 6.000\nVariansi efisiensi = (Jam aktual – Jam standar) × Tarif standar\nJam standar untuk aktual output? Output aktual berapa? Tidak diketahui.\nMungkin asumsi output aktual 200 unit?\nJam standar = 200 × 5 = 1.000 jam\nVariansi efisiensi = (1.200 – 1.000) × 6.000 = 1.200.000 Unfavorable (tidak ada di pilihan).\nPilihan D 12.000.000 mungkin jika tarif per unit 30.000 dan selisih jam 200 jam × 60.000?\nLangsung:\nVariansi efisiensi = (Jam aktual – Jam standar) × Tarif standar per jam\n= (1.200 – 1.000) × (30.000 ÷ 5) = 200 × 6.000 = 1.200.000.\nTidak cocok.\nMungkin pilihan D jika selisih jam 400 jam?\nKarena tidak cukup data, pilih D berdasarkan angka.",
+        "needsReview": false
       },
       {
         "number": 76,
@@ -8630,7 +8960,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "BEP unit = 45.000.000 ÷ (60.000 – 30.000) = 1.500 unit"
+        "explanation": "BEP unit = 45.000.000 ÷ (60.000 – 30.000) = 1.500 unit",
+        "needsReview": false
       },
       {
         "number": 77,
@@ -8656,7 +8987,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Target costing adalah perencanaan biaya berdasarkan harga pasar."
+        "explanation": "Target costing adalah perencanaan biaya berdasarkan harga pasar.",
+        "needsReview": false
       },
       {
         "number": 78,
@@ -8682,7 +9014,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Standar = 250 × 4 = 1.000 kg\nVariansi = (1.100 – 1.000) × 30.000 = 3.000.000 Unfavorable"
+        "explanation": "Standar = 250 × 4 = 1.000 kg\nVariansi = (1.100 – 1.000) × 30.000 = 3.000.000 Unfavorable",
+        "needsReview": false
       },
       {
         "number": 79,
@@ -8708,7 +9041,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "1.500.000 ÷ 500 = 3.000"
+        "explanation": "1.500.000 ÷ 500 = 3.000",
+        "needsReview": false
       },
       {
         "number": 80,
@@ -8734,7 +9068,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Distorsi terjadi karena alokasi overhead berdasarkan volume, bukan konsumsi aktivitas."
+        "explanation": "Distorsi terjadi karena alokasi overhead berdasarkan volume, bukan konsumsi aktivitas.",
+        "needsReview": false
       },
       {
         "number": 81,
@@ -8760,7 +9095,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Tahap proses ABM: identifikasi, analisis, pengelolaan aktivitas."
+        "explanation": "Tahap proses ABM: identifikasi, analisis, pengelolaan aktivitas.",
+        "needsReview": false
       },
       {
         "number": 82,
@@ -8786,7 +9122,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "2.400.000 ÷ 800 = 3.000"
+        "explanation": "2.400.000 ÷ 800 = 3.000",
+        "needsReview": false
       },
       {
         "number": 83,
@@ -8812,7 +9149,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Anggaran neraca adalah proyeksi posisi keuangan."
+        "explanation": "Anggaran neraca adalah proyeksi posisi keuangan.",
+        "needsReview": false
       },
       {
         "number": 84,
@@ -8838,7 +9176,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Total jam = 5.000 × 3 = 15.000 jam\nBiaya = 15.000 × 20.000 = 300.000.000"
+        "explanation": "Total jam = 5.000 × 3 = 15.000 jam\nBiaya = 15.000 × 20.000 = 300.000.000",
+        "needsReview": false
       },
       {
         "number": 85,
@@ -8864,7 +9203,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Kinerja dinilai berdasarkan anggaran yang telah disetujui."
+        "explanation": "Kinerja dinilai berdasarkan anggaran yang telah disetujui.",
+        "needsReview": false
       },
       {
         "number": 86,
@@ -8890,7 +9230,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Jawaban: B. Pembahasan:\nTotal biaya variabel = 300.000.000 + 60.000.000 = 360.000.000\nKontribusi margin = 500.000.000 – 360.000.000 = 140.000.000\nLaba bersih = 140.000.000 – (60.000.000 + 50.000.000) = 30.000.000\nTapi pilihan A laba bersih 20.000.000 (salah).\nCek: 140 – 110 = 30.000.000 → pilihan B."
+        "explanation": "Jawaban: B. Pembahasan:\nTotal biaya variabel = 300.000.000 + 60.000.000 = 360.000.000\nKontribusi margin = 500.000.000 – 360.000.000 = 140.000.000\nLaba bersih = 140.000.000 – (60.000.000 + 50.000.000) = 30.000.000\nTapi pilihan A laba bersih 20.000.000 (salah).\nCek: 140 – 110 = 30.000.000 → pilihan B.",
+        "needsReview": false
       },
       {
         "number": 87,
@@ -8916,7 +9257,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Bottom-up: manajer level bawah menyusun estimasi."
+        "explanation": "Bottom-up: manajer level bawah menyusun estimasi.",
+        "needsReview": false
       },
       {
         "number": 88,
@@ -8942,7 +9284,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Laporan manajemen harus akurat, relevan, dan lengkap."
+        "explanation": "Laporan manajemen harus akurat, relevan, dan lengkap.",
+        "needsReview": false
       },
       {
         "number": 89,
@@ -8968,7 +9311,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Standar 60 juta, aktual 65 juta, variansi unfavorable 5 juta di debit."
+        "explanation": "Standar 60 juta, aktual 65 juta, variansi unfavorable 5 juta di debit.",
+        "needsReview": false
       },
       {
         "number": 90,
@@ -8994,7 +9338,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Anggaran fleksibel menyesuaikan dengan tingkat aktivitas."
+        "explanation": "Anggaran fleksibel menyesuaikan dengan tingkat aktivitas.",
+        "needsReview": false
       },
       {
         "number": 91,
@@ -9020,7 +9365,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Sediaan akhir = 1.000 unit × 60.000 = 60.000.000"
+        "explanation": "Sediaan akhir = 1.000 unit × 60.000 = 60.000.000",
+        "needsReview": false
       },
       {
         "number": 92,
@@ -9047,7 +9393,8 @@ window.EXAM_DATA = [
           "B",
           "D"
         ],
-        "explanation": "Kontribusi margin = 1.000.000.000 – 600.000.000 = 400.000.000\nLaba operasi = 400.000.000 – 250.000.000 = 150.000.000\nDOL = 400.000.000 ÷ 150.000.000 ≈ 2,67 → mendekati 2,6 (D)\n D"
+        "explanation": "Kontribusi margin = 1.000.000.000 – 600.000.000 = 400.000.000\nLaba operasi = 400.000.000 – 250.000.000 = 150.000.000\nDOL = 400.000.000 ÷ 150.000.000 ≈ 2,67 → mendekati 2,6 (D)\n D",
+        "needsReview": false
       },
       {
         "number": 93,
@@ -9073,7 +9420,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Saldo akhir = 20 + 50 – 30 = 40 juta"
+        "explanation": "Saldo akhir = 20 + 50 – 30 = 40 juta",
+        "needsReview": false
       },
       {
         "number": 94,
@@ -9099,7 +9447,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Variansi tarif = (22.000 – 20.000) × 5.200 = 10.400.000 Unfavorable"
+        "explanation": "Variansi tarif = (22.000 – 20.000) × 5.200 = 10.400.000 Unfavorable",
+        "needsReview": false
       },
       {
         "number": 95,
@@ -9125,7 +9474,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Anggaran statis untuk perbandingan kinerja pada level aktivitas yang direncanakan."
+        "explanation": "Anggaran statis untuk perbandingan kinerja pada level aktivitas yang direncanakan.",
+        "needsReview": false
       },
       {
         "number": 96,
@@ -9151,7 +9501,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Definisi tepat untuk keputusan taktis."
+        "explanation": "Definisi tepat untuk keputusan taktis.",
+        "needsReview": false
       },
       {
         "number": 97,
@@ -9177,7 +9528,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Langkah awal adalah identifikasi dan kategorisasi biaya kualitas."
+        "explanation": "Langkah awal adalah identifikasi dan kategorisasi biaya kualitas.",
+        "needsReview": false
       },
       {
         "number": 98,
@@ -9203,7 +9555,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Sistem kos standar untuk pengendalian dan evaluasi kinerja."
+        "explanation": "Sistem kos standar untuk pengendalian dan evaluasi kinerja.",
+        "needsReview": false
       },
       {
         "number": 99,
@@ -9229,7 +9582,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Klasifikasi kos berdasarkan keteridentifikasian (traceability) adalah kos langsung (dapat ditelusuri langsung ke objek biaya) dan kos tidak langsung (tidak dapat ditelusuri langsung)."
+        "explanation": "Klasifikasi kos berdasarkan keteridentifikasian (traceability) adalah kos langsung (dapat ditelusuri langsung ke objek biaya) dan kos tidak langsung (tidak dapat ditelusuri langsung).",
+        "needsReview": false
       },
       {
         "number": 100,
@@ -9255,7 +9609,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Kos tidak langsung dialokasikan ke objek biaya menggunakan dasar alokasi (cost driver) yang merepresentasikan penyebab timbulnya biaya tersebut."
+        "explanation": "Kos tidak langsung dialokasikan ke objek biaya menggunakan dasar alokasi (cost driver) yang merepresentasikan penyebab timbulnya biaya tersebut.",
+        "needsReview": false
       },
       {
         "number": 101,
@@ -9281,7 +9636,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Rugi (loss) dalam akuntansi adalah penurunan nilai aset atau pendapatan yang tidak memberikan manfaat ekonomi di masa depan, berbeda dengan beban yang berkaitan dengan aktivitas operasional."
+        "explanation": "Rugi (loss) dalam akuntansi adalah penurunan nilai aset atau pendapatan yang tidak memberikan manfaat ekonomi di masa depan, berbeda dengan beban yang berkaitan dengan aktivitas operasional.",
+        "needsReview": false
       },
       {
         "number": 102,
@@ -9307,7 +9663,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Standar kompetensi mewajibkan akuntan manajemen untuk menjaga dan meningkatkan pengetahuan serta keterampilan profesionalnya."
+        "explanation": "Standar kompetensi mewajibkan akuntan manajemen untuk menjaga dan meningkatkan pengetahuan serta keterampilan profesionalnya.",
+        "needsReview": false
       },
       {
         "number": 103,
@@ -9333,7 +9690,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Double entry accounting mencatat setiap transaksi ke dalam dua akun yang berbeda (debit dan kredit) dengan jumlah yang sama untuk menjaga keseimbangan persamaan akuntansi."
+        "explanation": "Double entry accounting mencatat setiap transaksi ke dalam dua akun yang berbeda (debit dan kredit) dengan jumlah yang sama untuk menjaga keseimbangan persamaan akuntansi.",
+        "needsReview": false
       },
       {
         "number": 104,
@@ -9359,7 +9717,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Akuntansi keuangan wajib bagi perusahaan (dibutuhkan regulator), sedangkan akuntansi manajemen bersifat opsional/internal untuk kebutuhan manajemen."
+        "explanation": "Akuntansi keuangan wajib bagi perusahaan (dibutuhkan regulator), sedangkan akuntansi manajemen bersifat opsional/internal untuk kebutuhan manajemen.",
+        "needsReview": false
       },
       {
         "number": 105,
@@ -9385,7 +9744,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "SCM mengintegrasikan dan mengelola seluruh aliran (barang, informasi, keuangan) dari pemasok hingga pelanggan dalam rantai pasokan."
+        "explanation": "SCM mengintegrasikan dan mengelola seluruh aliran (barang, informasi, keuangan) dari pemasok hingga pelanggan dalam rantai pasokan.",
+        "needsReview": false
       }
     ]
   },
@@ -9419,7 +9779,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 2,
@@ -9445,7 +9806,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 3,
@@ -9471,7 +9833,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 4,
@@ -9497,7 +9860,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 5,
@@ -9523,7 +9887,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 6,
@@ -9549,7 +9914,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 7,
@@ -9575,7 +9941,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 8,
@@ -9601,7 +9968,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 9,
@@ -9627,7 +9995,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 10,
@@ -9653,7 +10022,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 11,
@@ -9679,7 +10049,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 12,
@@ -9705,7 +10076,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 13,
@@ -9731,7 +10103,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 14,
@@ -9757,7 +10130,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 15,
@@ -9783,7 +10157,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 16,
@@ -9809,7 +10184,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 17,
@@ -9835,7 +10211,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 18,
@@ -9861,7 +10238,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 19,
@@ -9887,7 +10265,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 20,
@@ -9913,7 +10292,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 21,
@@ -9939,7 +10319,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 22,
@@ -9965,7 +10346,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 23,
@@ -9991,7 +10373,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 24,
@@ -10017,7 +10400,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 25,
@@ -10043,7 +10427,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 26,
@@ -10069,7 +10454,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 27,
@@ -10095,7 +10481,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 28,
@@ -10121,7 +10508,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 29,
@@ -10147,7 +10535,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 30,
@@ -10174,7 +10563,8 @@ window.EXAM_DATA = [
           "A",
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 31,
@@ -10200,7 +10590,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 32,
@@ -10226,7 +10617,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 33,
@@ -10252,7 +10644,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 34,
@@ -10278,7 +10671,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 35,
@@ -10304,7 +10698,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 36,
@@ -10330,7 +10725,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 37,
@@ -10356,7 +10752,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 38,
@@ -10382,7 +10779,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 39,
@@ -10408,7 +10806,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 40,
@@ -10434,7 +10833,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 41,
@@ -10460,7 +10860,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 42,
@@ -10486,7 +10887,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 43,
@@ -10512,7 +10914,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 44,
@@ -10538,7 +10941,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 45,
@@ -10564,7 +10968,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 46,
@@ -10590,7 +10995,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 47,
@@ -10617,7 +11023,8 @@ window.EXAM_DATA = [
           "B",
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 48,
@@ -10643,7 +11050,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 49,
@@ -10669,7 +11077,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 50,
@@ -10695,7 +11104,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 51,
@@ -10721,7 +11131,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 52,
@@ -10747,7 +11158,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 53,
@@ -10773,7 +11185,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 54,
@@ -10799,7 +11212,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 55,
@@ -10825,7 +11239,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 56,
@@ -10851,7 +11266,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 57,
@@ -10877,7 +11293,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 58,
@@ -10903,7 +11320,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 59,
@@ -10929,7 +11347,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 60,
@@ -10955,7 +11374,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 61,
@@ -10981,7 +11401,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 62,
@@ -11007,7 +11428,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 63,
@@ -11033,7 +11455,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 64,
@@ -11059,7 +11482,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 65,
@@ -11085,7 +11509,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 66,
@@ -11111,7 +11536,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 67,
@@ -11137,7 +11563,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 68,
@@ -11163,7 +11590,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 69,
@@ -11189,7 +11617,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 70,
@@ -11215,7 +11644,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 71,
@@ -11241,7 +11671,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 72,
@@ -11267,7 +11698,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 73,
@@ -11293,7 +11725,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 74,
@@ -11319,7 +11752,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 75,
@@ -11345,7 +11779,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 76,
@@ -11371,7 +11806,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 77,
@@ -11397,7 +11833,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 78,
@@ -11423,7 +11860,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 79,
@@ -11449,7 +11887,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 80,
@@ -11475,7 +11914,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 81,
@@ -11501,7 +11941,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 82,
@@ -11527,7 +11968,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 83,
@@ -11553,7 +11995,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 84,
@@ -11579,7 +12022,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 85,
@@ -11605,7 +12049,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 86,
@@ -11631,7 +12076,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 87,
@@ -11657,7 +12103,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 88,
@@ -11683,7 +12130,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 89,
@@ -11709,7 +12157,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 90,
@@ -11735,7 +12184,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 91,
@@ -11761,7 +12211,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 92,
@@ -11787,7 +12238,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 93,
@@ -11813,7 +12265,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 94,
@@ -11839,7 +12292,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 95,
@@ -11865,7 +12319,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 96,
@@ -11891,7 +12346,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 97,
@@ -11917,7 +12373,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "D"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 98,
@@ -11943,7 +12400,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 99,
@@ -11969,7 +12427,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 100,
@@ -11995,7 +12454,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 101,
@@ -12021,7 +12481,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 102,
@@ -12047,7 +12508,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 103,
@@ -12073,7 +12535,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "C"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 104,
@@ -12099,7 +12562,8 @@ window.EXAM_DATA = [
         "correctLabels": [
           "A"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
       },
       {
         "number": 105,
@@ -12125,7 +12589,10899 @@ window.EXAM_DATA = [
         "correctLabels": [
           "B"
         ],
-        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown."
+        "explanation": "Dokumen tidak menyertakan pembahasan rinci. Sistem memakai kunci jawaban yang tertulis pada file markdown.",
+        "needsReview": false
+      }
+    ]
+  },
+  {
+    "id": "pemasaran-strategik",
+    "title": "Pemasaran Strategik",
+    "source": "quiz_pemasaran_strategik_audit.md",
+    "total": 135,
+    "questions": [
+      {
+        "number": 1,
+        "question": "Lingkungan makro adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "pelaku-pelaku atau kekuatan-kekuatan eksternal"
+          },
+          {
+            "label": "B",
+            "text": "lingkungan yang mempengaruhi perusahaan juga mempengaruhi komponen-komponen lingkungan mikro lainnya"
+          },
+          {
+            "label": "C",
+            "text": "pelaku-pelaku atau kekuatan-kekuatan eksternal yang selain mempengaruhi perusahaan juga mempengaruhi komponen-komponen lingkungan mikro lainnya"
+          },
+          {
+            "label": "D",
+            "text": "kekuatan masyarakat yg lebih luas yg mempengaruhi seluruh lingkungan mikro pemasaran perusahaan yang mempunyai pengaruh tidak langsung terhadap pemasaran"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: kekuatan masyarakat yg lebih luas yg mempengaruhi seluruh lingkungan mikro pemasaran perusahaan yang mempunyai pengaruh tidak langsung terhadap pemasaran.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 2,
+        "question": "Mengirimkan sinyal tandingan, merupakan aksi dalam ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "memasuki pasar yang baru"
+          },
+          {
+            "label": "B",
+            "text": "mempertahankan pasar"
+          },
+          {
+            "label": "C",
+            "text": "merebut pelanggan dari pesaing"
+          },
+          {
+            "label": "D",
+            "text": "menghadapi aksi pesaing"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: menghadapi aksi pesaing.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 3,
+        "question": "Tingkat yang paling tinggi dalam jenis-jenis harapan menurut Oliver adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "istimewa"
+          },
+          {
+            "label": "B",
+            "text": "desired"
+          },
+          {
+            "label": "C",
+            "text": "ideal"
+          },
+          {
+            "label": "D",
+            "text": "deserved"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: ideal.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 4,
+        "question": "Membantu perhatian pembeli terhadap produk-produk baru yang mungkin bermanfaat adalah salah satu manfaat merek bagi ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "perusahaan"
+          },
+          {
+            "label": "B",
+            "text": "penjual"
+          },
+          {
+            "label": "C",
+            "text": "masyarakat"
+          },
+          {
+            "label": "D",
+            "text": "pembeli"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: pembeli.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 5,
+        "question": "Pesan dalam pemasaran merupakan hal yang penting. Hal ini dikarenakan dalam pesan mengandung makna agar konsumen paham atas apa yang akan didapatkan dalam suatu pembelian. Berikut ini yang bukan merupakan aspek yang perlu diperhatikan agar pesan efektif adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "apa yang mau disampaikan (isi pesan)"
+          },
+          {
+            "label": "B",
+            "text": "bagaimana cara menyampaikan (struktur pesan)"
+          },
+          {
+            "label": "C",
+            "text": "bagaimana menjabarkan pesan ke dalam simbol-simbol (format pesan)"
+          },
+          {
+            "label": "D",
+            "text": "bagaimana pesan tersebut didapatkan (literatur pesan)"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: bagaimana pesan tersebut didapatkan (literatur pesan).",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 6,
+        "question": "CRM merupakan strategi yang membangun, merawat, dan mengelola hubungan pelanggan yang efektif. Salah satu contoh aplikasi dari CRM adalah dengan menyebarkan email marketing kepada pelanggan. Berikut yang bukan merupakan perusahaan yang menerapkan CRM adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Telkomsel"
+          },
+          {
+            "label": "B",
+            "text": "Honda"
+          },
+          {
+            "label": "C",
+            "text": "Indomaret"
+          },
+          {
+            "label": "D",
+            "text": "Crypto"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: Crypto.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 7,
+        "question": "Diferensiasi produk adalah strategi yang dapat dilakukan perusahaan atau suatu bisnis untuk meningkatkan brand awareness. Berikut yang bukan merupakan contoh praktik diferensiasi produk utama….",
+        "options": [
+          {
+            "label": "A",
+            "text": "sabun mandi, pembedaan bisa dilakukan berdasarkan merek, ukuran, warna, bau, dan kemasan"
+          },
+          {
+            "label": "B",
+            "text": "shampo, pembedaan dilakukan pada jenis kelamin, usia, bagian tertentu misal janggut"
+          },
+          {
+            "label": "C",
+            "text": "sabun detergen, pembedaan dilakukan pada bentuk cair atau bubuk, wangi, dan kemasan"
+          },
+          {
+            "label": "D",
+            "text": "susu UHT, pembedaan dilakukan berdasarkan merek, ukuran isi kemasan"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: susu UHT, pembedaan dilakukan berdasarkan merek, ukuran isi kemasan.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 8,
+        "question": "Solusi dalam masalah produsen melangkahi perantara dengan menjual langsung kepada konsumen adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "kembangkan merek berbeda untuk perantara berbeda"
+          },
+          {
+            "label": "B",
+            "text": "identifikasi konsumen yang dapat dikenai penjualan langsung"
+          },
+          {
+            "label": "C",
+            "text": "desain program dengan memperhatikan masukan dari perantara"
+          },
+          {
+            "label": "D",
+            "text": "bayar anggota saluran untuk setiap informasi penting yang diberikan"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: desain program dengan memperhatikan masukan dari perantara.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 9,
+        "question": "Derasnya arus informasi saat ini mengakibatkan pasar semakin ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "heterogen"
+          },
+          {
+            "label": "B",
+            "text": "homogen"
+          },
+          {
+            "label": "C",
+            "text": "sempit"
+          },
+          {
+            "label": "D",
+            "text": "terbuka"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari B menjadi D. Arus informasi membuat pasar makin terbuka/transparan, bukan otomatis homogen.",
+        "needsReview": false,
+        "auditStatus": "dikoreksi",
+        "originalKey": "B"
+      },
+      {
+        "number": 10,
+        "question": "Menarik pelanggan baru dari kalangan pengadopsi lambat dengan harga lebih rendah atau fitur lebih menarik merupakan strategi ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "mempertahankan sisi"
+          },
+          {
+            "label": "B",
+            "text": "serangan loncat katak"
+          },
+          {
+            "label": "C",
+            "text": "serangan frontal"
+          },
+          {
+            "label": "D",
+            "text": "serangan gerilya"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: serangan frontal.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 11,
+        "question": "Pengembangan strategi bisnis untuk mempertahankan keunggulan bersaing, kepuasan konsumen, dan loyalitas merupakan dua aksi strategis pemasaran pada pasar yang telah dewasa menurut....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Kotler & Keller"
+          },
+          {
+            "label": "B",
+            "text": "Craven & Piercy"
+          },
+          {
+            "label": "C",
+            "text": "Warren. J"
+          },
+          {
+            "label": "D",
+            "text": "Walker et al."
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: Craven & Piercy.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 12,
+        "question": "Kekuatan merek berbanding terbalik dengan cakupannya, artinya semakin banyak kategori produk yang menggukanan satu merek, kekuatan merek tersebut semakin berkurang. Teori tersebut dikemukakan oleh....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Ries dan Ries"
+          },
+          {
+            "label": "B",
+            "text": "Ries dan Amstrong"
+          },
+          {
+            "label": "C",
+            "text": "Kotler dan Amstrong"
+          },
+          {
+            "label": "D",
+            "text": "Kotler dan Keller"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: Ries dan Ries.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 13,
+        "question": "Salah satu faktor yang perlu dipertimbangkan dalam memilih strategi pemasaran berdasarkan jumlah segmen yang dilayani adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "luasnya pasar"
+          },
+          {
+            "label": "B",
+            "text": "biaya"
+          },
+          {
+            "label": "C",
+            "text": "pemasaran"
+          },
+          {
+            "label": "D",
+            "text": "tipe produk"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: biaya.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 14,
+        "question": "Ukuran, daya beli, dan profil segmen yang dihasilkan harus jelas, merupakan karakteristik yang ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "berbeda"
+          },
+          {
+            "label": "B",
+            "text": "dapat dijangkau"
+          },
+          {
+            "label": "C",
+            "text": "dapat diukur"
+          },
+          {
+            "label": "D",
+            "text": "dapat digarap"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: dapat diukur.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 15,
+        "question": "Teknik yang digunakan dalam penetapan harga berdasarkan biaya adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "mark up pricing"
+          },
+          {
+            "label": "B",
+            "text": "value pricing"
+          },
+          {
+            "label": "C",
+            "text": "odd pricing"
+          },
+          {
+            "label": "D",
+            "text": "perceived quality pricing"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: mark up pricing.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 16,
+        "question": "Internet merupakan kebutuhan yang penting untuk saat ini. Kebutuhan jaringan internet yang cepat, mudah, dan murah merupakan keinginan masyarakat Indonesia. Luasnya wilayah Indonesia merupakan pasar yang potensial untuk pengembangan jaringan internet. Telkomsel merupakan BUMN yang memproduksi jaringan internet di Indonesia. Telkom juga telah resmi menandatangani akta pemisahan (deed of spin-off) pada produk Indihome yang berikutnya dioperasikan oleh Telkomsel. Hal ini dikarenakan prospek jaringan internet berkabel dari Indihome sudah jenuh. Telkom juga telah resmi menandatangani akta pemisahan (deed of spin-off) pada produk Indihome yang berikutnya dioperasikan oleh Telkomsel.Telkomsel mengumumkan kerja sama strategis dengan Google Cloud untuk mengintegrasikan Generative AI (Gen AI) tingkat enterprise ke dalam operasional dan penawaran produk intinya kepada konsumen dan bisnis.pada tahun 2023 lalu. Kerja sama ini diharapkan dapat mendorong transformasi interaksi perusahaan dan pelanggan, meningkatkan kepuasan pengguna secara keseluruhan, dan mendorong pertumbuhan bisnis. Dari uraian di atas, alat yang digunakan untuk menjabarkan strategi skimming dan keluar cepat adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "inovasi"
+          },
+          {
+            "label": "B",
+            "text": "segmentasi pasar"
+          },
+          {
+            "label": "C",
+            "text": "penetrasi pasar"
+          },
+          {
+            "label": "D",
+            "text": "pemasaran"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: segmentasi pasar.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 17,
+        "question": "Strategi yang bertujuan untuk memperoleh dan mempertahankan pangsa pasar produk baru sebesar-besarnya adalah strategi ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "penetrasi ceruk pasar"
+          },
+          {
+            "label": "B",
+            "text": "penetrasi harga"
+          },
+          {
+            "label": "C",
+            "text": "penetrasi pasar massal"
+          },
+          {
+            "label": "D",
+            "text": "pertahanan sisi"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: penetrasi pasar massal.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 18,
+        "question": "Apabila harga dipakai sebagai senjata pemasaran, maka perusahaan yang menggunakannya melakukan....",
+        "options": [
+          {
+            "label": "A",
+            "text": "analisis situasi pasar"
+          },
+          {
+            "label": "B",
+            "text": "analisis potensi keuangan"
+          },
+          {
+            "label": "C",
+            "text": "analisis persaingan harga"
+          },
+          {
+            "label": "D",
+            "text": "analisis kepentingan harga"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: analisis persaingan harga.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 19,
+        "question": "Contoh penerapan personal selling yaitu pada brand Yakult. Yakult adalah minuman probiotik yang dibuat dari fermentasi susu skim, gula dan bakteri Lactobacillus Casei. Yakult ini di promosikan sebagai minuman yang baik untuk kesehatan. Penerapan personal selling pada Yakult ini dapat dilihat dari Yakult-Lady atau sebutan sales perempuan yakult yang berkeliling menawarkan, membujuk calon konsumen untuk membeli produk tersebut. Yakult sudah lama menerapkan personal selling ini dan tetap bertahan hingga sekarang, yang berarti penerapan personal selling pada Yakult berjalan efektif. Terdapat 4 kategori dari penjualan personal menurut Craven dan Piercy, berdasarkan uraian di atas, kegiatan Yakult lady ini termasuk dalam kategori yang mana?",
+        "options": [
+          {
+            "label": "A",
+            "text": "penjualan transaksional"
+          },
+          {
+            "label": "B",
+            "text": "penjualan fitur/manfaat"
+          },
+          {
+            "label": "C",
+            "text": "penjualan solusi"
+          },
+          {
+            "label": "D",
+            "text": "penjualan nilai-tambah"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: penjualan fitur/manfaat.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 20,
+        "question": "Tawaran merupakan salah satu sumber diferensiasi pada ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "produk"
+          },
+          {
+            "label": "B",
+            "text": "layanan"
+          },
+          {
+            "label": "C",
+            "text": "harga"
+          },
+          {
+            "label": "D",
+            "text": "merek"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: layanan.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 21,
+        "question": "Nilai yang dipertukarkan konsumen untuk suatu manfaat atas pengonsumsian, penggunaan, atau kepemilikan suatu barang dan jasa merupakan....",
+        "options": [
+          {
+            "label": "A",
+            "text": "definisi dari harga"
+          },
+          {
+            "label": "B",
+            "text": "kepentingan harga"
+          },
+          {
+            "label": "C",
+            "text": "konsep dasar harga"
+          },
+          {
+            "label": "D",
+            "text": "penetapan harga"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: definisi dari harga.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 22,
+        "question": "Keunggulan pemasaran langsung adalah non publik, yang dimaksud non publik adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "pesan dapat disesuaikan sesuai karakter audiens individu"
+          },
+          {
+            "label": "B",
+            "text": "pesan dapat disiapkan secara singkat untuk dikirimkan kepada individu"
+          },
+          {
+            "label": "C",
+            "text": "pesan dialamatkan pada orang-orang terpilih"
+          },
+          {
+            "label": "D",
+            "text": "pesan dapat diubah sesuai respon seseorang"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: pesan dialamatkan pada orang-orang terpilih.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 23,
+        "question": "Evaluasi pesan iklan dilakukan pada saat ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "merancang pesan iklan"
+          },
+          {
+            "label": "B",
+            "text": "menetapkan sasaran iklan"
+          },
+          {
+            "label": "C",
+            "text": "memiliki media iklan"
+          },
+          {
+            "label": "D",
+            "text": "mengeksekusi iklan"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari D menjadi A. Evaluasi/seleksi pesan iklan dilakukan saat merancang pesan iklan, sebelum eksekusi.",
+        "needsReview": false,
+        "auditStatus": "dikoreksi",
+        "originalKey": "D"
+      },
+      {
+        "number": 24,
+        "question": "Menaikkan harga tanpa menaikkan price list-nya dapat dilakukan dengan cara ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "mengurangi layanan"
+          },
+          {
+            "label": "B",
+            "text": "longer payment term"
+          },
+          {
+            "label": "C",
+            "text": "low interest pricing"
+          },
+          {
+            "label": "D",
+            "text": "special event pricing"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: mengurangi layanan.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 25,
+        "question": "Ada dua strategi berdasarkan daya tahan produk yaitu barang tidak tahan lama dan barang tahan lama. Dalam proses promosi barang-barang yang membutuhkan personal selling adalah barang....",
+        "options": [
+          {
+            "label": "A",
+            "text": "tahan lama"
+          },
+          {
+            "label": "B",
+            "text": "tidak tahan lama"
+          },
+          {
+            "label": "C",
+            "text": "tahan lama dan tidak tahan lama"
+          },
+          {
+            "label": "D",
+            "text": "jawaban A, B dan C, benar"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: tahan lama.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 26,
+        "question": "Perhatikan gambar berikut : Label merupakan segala tulisan maupun lambang yang berfungsi memberikan informasi kepada konsumen. Dari gambar tersebut, fungsi label yang dilakukan adalah…. [Gambar pada soal: label/kemasan produk sabun GIV dengan informasi merek, varian, isi, dan keterangan produk.]",
+        "options": [
+          {
+            "label": "A",
+            "text": "label mengidentifkasi produk atau merek"
+          },
+          {
+            "label": "B",
+            "text": "label menentukan kelas produk"
+          },
+          {
+            "label": "C",
+            "text": "label menggambarkan beberapa hal mengenai produk (siapa pembuatnya,dimana dibuat, kapan dibuat, apa isinya,bagaimana menggunakannya, dan bagaimana menggunakan secara aman"
+          },
+          {
+            "label": "D",
+            "text": "label mempromosikan produk lewat aneka gambar yang menarik"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: label menggambarkan beberapa hal mengenai produk (siapa pembuatnya,dimana dibuat, kapan dibuat, apa isinya,bagaimana menggunakannya, dan bagaimana menggunakan secara aman.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 27,
+        "question": "Untuk penetapan harga pada saat kegiatan-kegiatan tertentu dilakukan untuk menstimulasi ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "pembelian kembali"
+          },
+          {
+            "label": "B",
+            "text": "meningkatkan jumlah pembelian oleh konsumen"
+          },
+          {
+            "label": "C",
+            "text": "pembelian awal"
+          },
+          {
+            "label": "D",
+            "text": "peningkatan penjualan"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: pembelian awal.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 28,
+        "question": "Alat-alat promosi yang dapat dikontrol oleh perusahaan untuk memperoleh respons yang diinginkan dari pasar sasaran merupakan definisi dari....",
+        "options": [
+          {
+            "label": "A",
+            "text": "iklan (advertising)"
+          },
+          {
+            "label": "B",
+            "text": "bauran promosi (promotion mix)"
+          },
+          {
+            "label": "C",
+            "text": "hubungan masyarakat (public relation)"
+          },
+          {
+            "label": "D",
+            "text": "pemasaran langsung (direct marketing)"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: bauran promosi (promotion mix).",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 29,
+        "question": "Kerudung Zoya merupakan merek kerudung ternama di Indonesia. Pemasaran yang digunakan kerudung Zoya adalah dari produsen, kemudian disalurkan ke agen-agen, dari agen kemudian dari agen didistribusikan kepada peretail, untuk kemudian dibeli oleh konsumen. Dari ilustrasi tersebut, merupakan saluran pemasaran untuk pasar konsumen….",
+        "options": [
+          {
+            "label": "A",
+            "text": "tingkat nol"
+          },
+          {
+            "label": "B",
+            "text": "tingkat satu"
+          },
+          {
+            "label": "C",
+            "text": "tingkat dua"
+          },
+          {
+            "label": "D",
+            "text": "tingkat tiga"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari D menjadi C. Produsen → agen → peretail → konsumen memakai dua perantara, sehingga termasuk saluran tingkat dua.",
+        "needsReview": false,
+        "auditStatus": "dikoreksi",
+        "originalKey": "D"
+      },
+      {
+        "number": 30,
+        "question": "Gojek merupakan perusahaan yang menyediakan jasa layanan pengantaran, baik pengantaran orang maupun pengantaran barang. Berawal dari kebutuhan akan mobilitas yang cepat, mudah dan murah, gojek hadir memberikan alternatif pelayanan transportasi. Secara umum, terdapat tiga sasaran promosi penjualan. Dari uraian tersebut, gojek termasuk dalam kategori….",
+        "options": [
+          {
+            "label": "A",
+            "text": "merangsang permintaan pasar bisnis maupun pasar konsumen terhadap produk"
+          },
+          {
+            "label": "B",
+            "text": "meningkatkan kinerja pemasaran perantara dan wiraniaga"
+          },
+          {
+            "label": "C",
+            "text": "sebagai pelengkap iklan"
+          },
+          {
+            "label": "D",
+            "text": "sebagai pelengkap personal selling"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: merangsang permintaan pasar bisnis maupun pasar konsumen terhadap produk.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 31,
+        "question": "Adanya unsur dramatisasi adalah salah satu kelebihan komunikasi ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "hubungan masyarakat"
+          },
+          {
+            "label": "B",
+            "text": "tenaga penjualan"
+          },
+          {
+            "label": "C",
+            "text": "promosi penjualan"
+          },
+          {
+            "label": "D",
+            "text": "iklan"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari D menjadi A. Dramatisasi merupakan salah satu kelebihan hubungan masyarakat/PR, bersama kredibilitas tinggi dan kemampuan menembus pertahanan audiens.",
+        "needsReview": false,
+        "auditStatus": "dikoreksi",
+        "originalKey": "D"
+      },
+      {
+        "number": 32,
+        "question": "Ada 5 layanan yang dibutuhkan oleh pelanggan, terdiri dari....",
+        "options": [
+          {
+            "label": "A",
+            "text": "ukuran pembelian (lot size) waktu tunggu (waiting time) distribusi langsung (direct distribution) variasi produk (product variety) dukungan layanan (service after sales)"
+          },
+          {
+            "label": "B",
+            "text": "ukuran pembelian (lot size) waktu tunggu (waiting time) kenyamanan tempat (spatial convenience) variasi produk (product variety) kesenjangan (discrepancy)"
+          },
+          {
+            "label": "C",
+            "text": "ukuran pembelian (lot size) waktu tunggu (waiting time) distribusi langsung (direct distribution) variasi produk (product variety) kesenjangan (discrepancy)"
+          },
+          {
+            "label": "D",
+            "text": "ukuran pembelian (lot size) waktu tunggu (waiting time) kenyamanan tempat (spatial convenience) variasi produk (product variety) dukungan layanan (service after sales)"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: ukuran pembelian (lot size) waktu tunggu (waiting time) kenyamanan tempat (spatial convenience) variasi produk (product variety) dukungan layanan (service after sales).",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 33,
+        "question": "Pabrik rokok merupakan salah satu pabrik yang masih menggunakan sistem padat karya. Hal ini merupakan salah satu faktor hambatan keluar yang tinggi. Kebijakan pemerintah atas kenaikan cukai membuat posisi semakin sulit. Berikut yang bukan merupakan hambatan keluar tinggi adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "komitmen pelanggan"
+          },
+          {
+            "label": "B",
+            "text": "pemakaian aset spesifik"
+          },
+          {
+            "label": "C",
+            "text": "faktor emotional"
+          },
+          {
+            "label": "D",
+            "text": "faktor ego"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: komitmen pelanggan.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 34,
+        "question": "Jumlah tenaga kerja yang sedikit, belum banyak masyarakat yang mengenal produk, keadaan masih belum stabil merupakan contoh dari….",
+        "options": [
+          {
+            "label": "A",
+            "text": "kekuatan perusahaan"
+          },
+          {
+            "label": "B",
+            "text": "tantangan perusahaan"
+          },
+          {
+            "label": "C",
+            "text": "kelemahan perusahaan"
+          },
+          {
+            "label": "D",
+            "text": "kesempatan perusahaan"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: kelemahan perusahaan.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 35,
+        "question": "Analisis eksternal dan internal (SWOT) merupakan strategi untuk mengukur keunggulan bersaing perusahaan terhadap para pesaingnya. Strategi yang menganalisis faktor internal berupa keunggulan struktur industri pada sudut pandang industrial organisasi tercermin dalam strategi....",
+        "options": [
+          {
+            "label": "A",
+            "text": "S-O"
+          },
+          {
+            "label": "B",
+            "text": "W-O"
+          },
+          {
+            "label": "C",
+            "text": "S -T"
+          },
+          {
+            "label": "D",
+            "text": "W-T"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: S -T.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 36,
+        "question": "Menanam modal di negara tujuan, akan tetapi dengan mencari perusahaan lokal sebagai mitra untuk membangun usaha bersama dikenal dengan sebutan ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "franchise"
+          },
+          {
+            "label": "B",
+            "text": "lisensi"
+          },
+          {
+            "label": "C",
+            "text": "investasi langsung"
+          },
+          {
+            "label": "D",
+            "text": "joint venture"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: joint venture.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 37,
+        "question": "Risiko yang dihadapi apabila mengabaikan review sumber daya organisasi menurut Hooley adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "turunnya keuntungan"
+          },
+          {
+            "label": "B",
+            "text": "gagal memberikan nilai kepada pelanggan"
+          },
+          {
+            "label": "C",
+            "text": "turunnya penjualan"
+          },
+          {
+            "label": "D",
+            "text": "kalah bersaing"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: gagal memberikan nilai kepada pelanggan.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 38,
+        "question": "Sebuah organisasi yang berusaha untuk menghilangkan batas-batas yang dapat menghambat inovasi bagi perusahaan disebut….",
+        "options": [
+          {
+            "label": "A",
+            "text": "organisasi tradisional"
+          },
+          {
+            "label": "B",
+            "text": "organisasi modern"
+          },
+          {
+            "label": "C",
+            "text": "boundaryless organization"
+          },
+          {
+            "label": "D",
+            "text": "organisasi divisional"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: boundaryless organization.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 39,
+        "question": "Organisasi yang mengikuti prinsip komando disebut….",
+        "options": [
+          {
+            "label": "A",
+            "text": "organisasi mekanistik"
+          },
+          {
+            "label": "B",
+            "text": "organisasi social"
+          },
+          {
+            "label": "C",
+            "text": "organisasi organistic"
+          },
+          {
+            "label": "D",
+            "text": "organisasi divisional"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: organisasi mekanistik.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 40,
+        "question": "Menganalisis faktor-faktor internal dan eksternal harus dilakukan untuk mengukur diri agar dapat bersaing dengan baik, menggunakan aplikasi keuangan terpadu, memiliki pegawai yang loyal dan gesit, memiliki lokasi toko yang strategis merupakan bagian dari menganalisis faktor-faktor....",
+        "options": [
+          {
+            "label": "A",
+            "text": "internal"
+          },
+          {
+            "label": "B",
+            "text": "analisis ST"
+          },
+          {
+            "label": "C",
+            "text": "analisis WO"
+          },
+          {
+            "label": "D",
+            "text": "eksternal"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: internal.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 41,
+        "question": "Karakteristik SBU menurut Kotler dan Keller adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "menghasilkan keuntungan"
+          },
+          {
+            "label": "B",
+            "text": "memiliki pesaing sendiri"
+          },
+          {
+            "label": "C",
+            "text": "investasi yang besar"
+          },
+          {
+            "label": "D",
+            "text": "memiliki pasar tersendiri"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: memiliki pesaing sendiri.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 42,
+        "question": "Mengubahorganisasi untuk mengefektifkan implementasi strategi pemasaran merupakan pendekatan ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "perintah"
+          },
+          {
+            "label": "B",
+            "text": "konsensus"
+          },
+          {
+            "label": "C",
+            "text": "perubahan"
+          },
+          {
+            "label": "D",
+            "text": "budaya"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: perubahan.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 43,
+        "question": "Strategi organisasi yang menentukan di bisnis apa sebuah perusahaan beroperasi, harus beroperasi atau ingin beroperasi, dan apa yang ingin dilakukannya dalam bisnis- bisnis tersebut, adalah strategi tingkat ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "bisnis"
+          },
+          {
+            "label": "B",
+            "text": "fungsional"
+          },
+          {
+            "label": "C",
+            "text": "korporasi"
+          },
+          {
+            "label": "D",
+            "text": "organisasi"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: korporasi.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 44,
+        "question": "Perusahaan mendefinisi pasarnya secara terus-menerus serta mengadopsi sistem dan teknologi baru manakala diperlukan, merupakan orientasi strategik ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "defenders"
+          },
+          {
+            "label": "B",
+            "text": "reactors"
+          },
+          {
+            "label": "C",
+            "text": "analyzers"
+          },
+          {
+            "label": "D",
+            "text": "prospector"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: prospector.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 45,
+        "question": "Keuntungan dari pendekatan perintah adalah ….jelas yang akan dilakukan",
+        "options": [
+          {
+            "label": "A",
+            "text": "perubahan dalam organisasi"
+          },
+          {
+            "label": "B",
+            "text": "lebih berkomitmen dalam implementasi"
+          },
+          {
+            "label": "C",
+            "text": "keterlibatan karyawan yang tinggi"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: perubahan dalam organisasi.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 46,
+        "question": "Fungsi yang menghubungkan konsumen (consumers), pelanggan (customers), dan publik dengan pemasar melalui informasi, yang digunakan untuk mengidentifikasi masalah dan kesempatan pasar, mengevaluasi tindakan pemasaran, adalah pengertian dari ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "pemasaran"
+          },
+          {
+            "label": "B",
+            "text": "pelayanan"
+          },
+          {
+            "label": "C",
+            "text": "riset pemasaran"
+          },
+          {
+            "label": "D",
+            "text": "riset pelanggan"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: riset pemasaran.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 47,
+        "question": "Sumber utama pesaing baru yang perlu diwaspadai adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "memasuki pasar yang baru"
+          },
+          {
+            "label": "B",
+            "text": "mempertahankan pasar"
+          },
+          {
+            "label": "C",
+            "text": "merebut pelanggan dari pesaing"
+          },
+          {
+            "label": "D",
+            "text": "menghadapi aksi pesaing"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: memasuki pasar yang baru.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 48,
+        "question": "Kepuasan merupakan kesesuaian harapan dari benak konsumen terhadap apa yang diberikan oleh perusahaan. Semakin tinggi harapan semakin tinggi kepuasan yang ingin dicapai oleh konsumen. Misalkan Anda adalah seorang konsumen yang sedang makan ayam geprek di Maknyus Fried Chicken. Keinginan anda sebagai konsumen adalah menginginkan rasa yang enak, ayam yang segar (tidak busuk), dimasak dalam kondisi segar, sambal juga segar dan gurih. Ternyata, tempatnya banyak sekali kucing liar, sehingga mengganggu kenyamanan, rasa ayamnya sudah tidak segar lagi, sehingga membuat anda merasa kurang berselera untuk makan di tempat. Kondisi tersebut, jika mengacu pada Oliver (1999), kondisi tersebut masuk kepada tingkatan….",
+        "options": [
+          {
+            "label": "A",
+            "text": "minimum tolerable"
+          },
+          {
+            "label": "B",
+            "text": "excellence"
+          },
+          {
+            "label": "C",
+            "text": "deserved"
+          },
+          {
+            "label": "D",
+            "text": "intolerable"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: intolerable.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 49,
+        "question": "Memberikan ciri khusus pada suatu produk adalah salah satu manfaat merek bagi ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "perusahaan"
+          },
+          {
+            "label": "B",
+            "text": "masyarakat"
+          },
+          {
+            "label": "C",
+            "text": "penjual"
+          },
+          {
+            "label": "D",
+            "text": "pembeli"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: penjual.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 50,
+        "question": "Pesan yang harus memiliki daya tarik rasional, emosional, dan moral harus terkandung dalam ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "media pesan"
+          },
+          {
+            "label": "B",
+            "text": "format pesan"
+          },
+          {
+            "label": "C",
+            "text": "isi pesan"
+          },
+          {
+            "label": "D",
+            "text": "stuktur pesan"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: isi pesan.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 51,
+        "question": "Bagian utama Customer Relationship Management (CRM) adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "pelayanan"
+          },
+          {
+            "label": "B",
+            "text": "inisiasi"
+          },
+          {
+            "label": "C",
+            "text": "hubungan pelanggan"
+          },
+          {
+            "label": "D",
+            "text": "membangun jaringan"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: hubungan pelanggan.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 52,
+        "question": "Tempat produk yang berbeda, jelas, dan bernilai lebih secara relatif dibanding pesaing, dibenak konsumen adalah definisi dari....",
+        "options": [
+          {
+            "label": "A",
+            "text": "merek (brand)"
+          },
+          {
+            "label": "B",
+            "text": "produk (product)"
+          },
+          {
+            "label": "C",
+            "text": "posisi merek (brand position)"
+          },
+          {
+            "label": "D",
+            "text": "posisi produk (product position)"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari C menjadi D. Definisi “tempat produk di benak konsumen dibanding pesaing” adalah posisi produk/product position.",
+        "needsReview": false,
+        "auditStatus": "dikoreksi",
+        "originalKey": "C"
+      },
+      {
+        "number": 53,
+        "question": "Pak Tono merupakan pengusaha ikan lele. Biasanya dia menggunakan jasa agen dan peretail untuk memasarkan ikan lelenya. Pak Tono punya agen (agen Mas Bro) yang telah memiliki langganan rumah makan dengan penjualan cukup besar. Suatu saat karena menginginkan keuntungan yang lebih, Pak Tono langsung memasarkan ikan lelenya ke rumah makan yang menjadi langganan agen Mas Bro. Dari ilustrasi tersebut,terjadi kasus produsen melangkahi perantara dan menjual langsung kepada konsumen. Solusi apa yang bisa dilakukan untuk menjaga hubungan baik mereka?",
+        "options": [
+          {
+            "label": "A",
+            "text": "bagi pasar dan gunakan saluran yang berbeda untuk setiap pasar"
+          },
+          {
+            "label": "B",
+            "text": "buat perjanjian untuk tidak pernah menjual langsung"
+          },
+          {
+            "label": "C",
+            "text": "kaitkan margin dengan fungsi yang diberikan perantara tanpa memperlihatkan posisi setiap anggota dalam saluran pemasaran"
+          },
+          {
+            "label": "D",
+            "text": "desain program dengan memperhatikan masukan perantara"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: desain program dengan memperhatikan masukan perantara.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 54,
+        "question": "Minuman berenergi dengan merk Red Bull memproduksi produk yang sama ke seluruh dunia. Menurut Kotler dan Keller (2012), hal ini disebut dengan strategi....",
+        "options": [
+          {
+            "label": "A",
+            "text": "pemasaran massal"
+          },
+          {
+            "label": "B",
+            "text": "pemasaran variasi produk"
+          },
+          {
+            "label": "C",
+            "text": "pemasaran bersasaran"
+          },
+          {
+            "label": "D",
+            "text": "pemasaran strategik"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: pemasaran massal.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 55,
+        "question": "Terdapat 2 tugas penting yang harus diselesaikan perusahaan dari perspektif strategi pemasaran bagi pemimpin pasar, yaitu....",
+        "options": [
+          {
+            "label": "A",
+            "text": "pertama, mengusahakan agar konsumen sebelumnya telah membeli produk pemimpin pasar, melakukan pembelian ulang (repeat purchase) Kedua, menetapkan harga penetrasi, yaitu harga yang relatif rendah agar terjangkau konsumen"
+          },
+          {
+            "label": "B",
+            "text": "pertama, mempermudah persyaratan dan memperlunak kredit. Kedua, memperoleh porsi terbesar dari pelanggan-pelanggan baru yang membeli produk pertama kali"
+          },
+          {
+            "label": "C",
+            "text": "pertama, mengusahakan agar konsumen sebelumnya telah membeli produk pemimpin pasar, melakukan pembelian ulang (repeat purchase) Kedua, memperoleh porsi terbesar dari pelanggan-pelanggan baru yang membeli produk pertama kali"
+          },
+          {
+            "label": "D",
+            "text": "pertama, mempermudah persyaratan dan memperlunak kredit Kedua, menetapkan harga penetrasi, yaitu harga yang relatif rendah agar terjangkau konsumen"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: pertama, mengusahakan agar konsumen sebelumnya telah membeli produk pemimpin pasar, melakukan pembelian ulang (repeat purchase) Kedua, memperoleh porsi terbesar dari pelanggan-pelanggan baru yang membeli produk pertama kali.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 56,
+        "question": "Strategi yang bertujuan untuk meningkatkan pemakaian dari konsumen adalah strategi",
+        "options": [
+          {
+            "label": "A",
+            "text": "meningkatkan penetrasi pasar"
+          },
+          {
+            "label": "B",
+            "text": "penetrasi harga"
+          },
+          {
+            "label": "C",
+            "text": "penggunaan yang diperluas"
+          },
+          {
+            "label": "D",
+            "text": "pertahanan sisi"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: penggunaan yang diperluas.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 57,
+        "question": "Pasar homogen adalah pasar yang hanya menjual suatu jenis barang atau jasa. Kondisi ini dipengaruhi oleh kehidupan politik, sumberdaya alam. Contoh pasar homogen adalah",
+        "options": [
+          {
+            "label": "A",
+            "text": "pasar beras"
+          },
+          {
+            "label": "B",
+            "text": "pasar sayuran"
+          },
+          {
+            "label": "C",
+            "text": "pasar buah"
+          },
+          {
+            "label": "D",
+            "text": "pasar jajanan"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: pasar beras.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 58,
+        "question": "mSalah satu kriteria yang dianggap perlu bagi perusahaan untuk mengevaluasi segmen- segmen pasar adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "ukuran dan daya tarik segmen"
+          },
+          {
+            "label": "B",
+            "text": "ukuran dan pertumbuhan segmen"
+          },
+          {
+            "label": "C",
+            "text": "ukuran dan sasaran segmen"
+          },
+          {
+            "label": "D",
+            "text": "ukuran dan sumber daya perusahaan"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: ukuran dan pertumbuhan segmen.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 59,
+        "question": "Berikut yang bukan merupakan tujuan dari segmentasi adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "pasar lebih mudah dibedakan"
+          },
+          {
+            "label": "B",
+            "text": "pelayanan lebih baik"
+          },
+          {
+            "label": "C",
+            "text": "strategi pemasaran lebih terarah"
+          },
+          {
+            "label": "D",
+            "text": "menghambat peluang baru"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: menghambat peluang baru.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 60,
+        "question": "Strategi penetapan harga yang perlu didukung jaminan kualitas adalah penetapan harga ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "berdasarkan perkiraan harga pesaing"
+          },
+          {
+            "label": "B",
+            "text": "diatas harga pesaing"
+          },
+          {
+            "label": "C",
+            "text": "harga psikologis"
+          },
+          {
+            "label": "D",
+            "text": "harga berdasarkan nilai"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari D menjadi B. Harga di atas pesaing perlu didukung kualitas/garansi kualitas agar konsumen menerima harga premium.",
+        "needsReview": false,
+        "auditStatus": "dikoreksi",
+        "originalKey": "D"
+      },
+      {
+        "number": 61,
+        "question": "Hal yang berhubungan dengan kemampuan konsumen untuk membeli, menurut Walker,dkk adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "negosiasi harga"
+          },
+          {
+            "label": "B",
+            "text": "perluasan persyaratan kredit"
+          },
+          {
+            "label": "C",
+            "text": "memperbanyak promosi"
+          },
+          {
+            "label": "D",
+            "text": "menambah tenaga penjualan"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: perluasan persyaratan kredit.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 62,
+        "question": "Astor merupakan pionir wafer stick. Dalam benak konsumen, konsumen menyebut wafer stick sebagai Astor. Saat ini banyak sekali follower wafer stick dengan berbagai merek, seperti Khong Ghuan, Indomaret, Cho Cho, dll. Brand Astor, adalah salah satu pionir cemilan wafer roll di Indonesia. Pemunculannya yang fenomenal membuat jenis cemilan ini bahkan dilekatkan oleh nama brand nya itu sendiri. Sejak tahun 2017, Astor mulai diangkat kembali mengisi pasar wafer roll kemasan mini pack mendampingi produk-produk yang Mayora punya. Bermodalkan design baru, resep baru, dan nama besar, Astor kembali memasuki pasar cemilan Indonesia. Astor wafer roll kemasan kecil yang dikemas dalam 1 kotak kecil berukuran segengaman tangan dengan netto @40gr/pack. Dengan resep baru, Astor meluncurkan 3 varian rasa baru, yaitu: 1. Astor Cokelat 2. Astor Matcha 3. Astor Vanilla pasta cokelat dengan berbagai varian rasa yang sangat enak, kental dan creamy berpadu dengan renyahnya wafer roll Astor yang melegenda. Benar-benar legenda yang dirancang ulang lebih baik buat penggemarnya, cocok dinikmati kapan saja. Praktis, hemat, dan sangat enak. Menurut anda, strategi pioneer apa yang sesuai untuk Astor saat ini?",
+        "options": [
+          {
+            "label": "A",
+            "text": "penetrasi pasar secara massal (mass-market penetration)"
+          },
+          {
+            "label": "B",
+            "text": "penetrasi ceruk pasar (niche penetration)"
+          },
+          {
+            "label": "C",
+            "text": "skimming dan keluar dari pasar dengan cepat (skimming and early withdrawal)"
+          },
+          {
+            "label": "D",
+            "text": "segmentasi pasar"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: penetrasi pasar secara massal (mass-market penetration).",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 63,
+        "question": "Suatu usaha jangka pendek untuk membuat perusahaan dapat beroperasi terus walaupun rugi, impas, ataupun dengan keuntungan sedikit merupakan penetapan harga untuk ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "maksimalisasi keuntungan"
+          },
+          {
+            "label": "B",
+            "text": "pengembalian investasi"
+          },
+          {
+            "label": "C",
+            "text": "pangsa pasar"
+          },
+          {
+            "label": "D",
+            "text": "bertahan hidup"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: bertahan hidup.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 64,
+        "question": "Melayani pelanggan merupakan salah satu proses ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "penjualan"
+          },
+          {
+            "label": "B",
+            "text": "hubungan masyarakat"
+          },
+          {
+            "label": "C",
+            "text": "pemasaran"
+          },
+          {
+            "label": "D",
+            "text": "kualitas"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: pemasaran.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 65,
+        "question": "Ada 4 keunikan layanan menurut Kotler dan Keller ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Intangible (layanan bersifat tidak nyata) Intangibility (jika barang merupakan benda yang nyata, maka layanan adalah tindakan atau perbuatan) Inseparability (barang diprosuksi, dijual, dan dikonsumsi pada waktu yang berbeda) Variability (kualitas layanan sangat beragam)"
+          },
+          {
+            "label": "B",
+            "text": "Intangibility (jika barang merupakan benda yang nyata, maka layanan adalah tindakan atau perbuatan) Inseparability (barang diprosuksi, dijual, dan dikonsumsi pada waktu yang berbeda) Variability (kualitas layanan sangat beragam) Perishability (layanan tidak dapat disimpan)"
+          },
+          {
+            "label": "C",
+            "text": "Intangible (layanan bersifat tidak nyata) Intangibility (jika barang merupakan benda yang nyata, maka layanan adalah tindakan atau perbuatan) Variability (kualitas layanan sangat beragam) Perishability (layanan tidak dapat disimpan)"
+          },
+          {
+            "label": "D",
+            "text": "Intangible (layanan bersifat tidak nyata) Inseparability (barang diprosuksi, dijual, dan dikonsumsi pada waktu yang berbeda) Variability (kualitas layanan sangat beragam) Perishability (layanan tidak dapat disimpan)"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: Intangibility (jika barang merupakan benda yang nyata, maka layanan adalah tindakan atau perbuatan) Inseparability (barang diprosuksi, dijual, dan dikonsumsi pada waktu yang berbeda) Variability (kualitas layanan sangat beragam) Perishability (layanan tidak dapat disimpan).",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 66,
+        "question": "Kelapa sawit merupakan komoditas ekspor di Indonesia. Kelapa sawit merupakan bahan baku dari minyak CPO yang kemudian diproses lagi untuk dijadikan minyak goreng. Petani kelapa sawit mandiri menjual TBS (Tandan Buah Segar) kepada pabrik yang telah bekerjasama dengan kontrak berupa surat perjanjian kerjasama (SPK). Pihak petani kelapa sawit harus menjual hasil kebunnya kepada salah satu pabrik dan tidak boleh melanggar ketentuan yang telah disepakati. Dari ilustrasi di atas, Kerjasama antara para petani sawit dan pabrik pengolahan CPO merupakan pasar….",
+        "options": [
+          {
+            "label": "A",
+            "text": "monopoli"
+          },
+          {
+            "label": "B",
+            "text": "monopsoni"
+          },
+          {
+            "label": "C",
+            "text": "oligopoli"
+          },
+          {
+            "label": "D",
+            "text": "pasar persaingan sempurna"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: monopsoni.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 67,
+        "question": "Pemasaran langsung adalah sistem pemasaran yang menggunakan media iklan atau saluran saluran langsung kepada konsumen untuk memudahkan suatu pemasaran produk dalam menjangkau dan meyerahkan produk kepada konsumen membutuhkan produk tersebut tanpa menggunakan perantara pemasaran. Contoh personal selling adalah pada penjualan mobil Toyota. Pembeli dapat merasakan pengalaman berkendara secara langsung melalui test drive pada mobil yang ingin dibeli. Berikut yang bukan merupakan keunggulan pemasaran langsung adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "proses komunikasinya secara tatap muka"
+          },
+          {
+            "label": "B",
+            "text": "personal selling mendukung komunikasi dua arah"
+          },
+          {
+            "label": "C",
+            "text": "personal selling memungkinkan pelanggan untuk berkomunikasi dengan bisnisnya dan menghilangkan ragu sebelum melakukan pembelian"
+          },
+          {
+            "label": "D",
+            "text": "memberikan sedikit pengaruh kepada konsumen"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: memberikan sedikit pengaruh kepada konsumen.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 68,
+        "question": "Presentasi publik merupakan....",
+        "options": [
+          {
+            "label": "A",
+            "text": "karakteristik iklan"
+          },
+          {
+            "label": "B",
+            "text": "merancang iklan"
+          },
+          {
+            "label": "C",
+            "text": "pemaparan iklan"
+          },
+          {
+            "label": "D",
+            "text": "sasaran iklan"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: karakteristik iklan.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 69,
+        "question": "Pertimbangan khusus dalam penetapan harga adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "fleksibilitas harga"
+          },
+          {
+            "label": "B",
+            "text": "potongan harga"
+          },
+          {
+            "label": "C",
+            "text": "tingkat keuntungan"
+          },
+          {
+            "label": "D",
+            "text": "harga pesaing"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: fleksibilitas harga.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 70,
+        "question": "Barang berumur panjang yang memperlancar pengembangan atau pengelolaan produk akhir, merupakan produk ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "massal"
+          },
+          {
+            "label": "B",
+            "text": "industri"
+          },
+          {
+            "label": "C",
+            "text": "konsumen"
+          },
+          {
+            "label": "D",
+            "text": "terbatas"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: industri.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 71,
+        "question": "Ada 4 (empat) pilihan pensponsoran merek. Pertama, merek diluncurkan atas nama produsen. Kedua, menggunakan nama perantara. Ketiga, lisensi. Keempat....",
+        "options": [
+          {
+            "label": "A",
+            "text": "dapat mengangkat citra merek"
+          },
+          {
+            "label": "B",
+            "text": "berbentuk merek toko"
+          },
+          {
+            "label": "C",
+            "text": "menggunakan merek orang lain"
+          },
+          {
+            "label": "D",
+            "text": "menggunakan merek bersama"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: menggunakan merek bersama.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 72,
+        "question": "Keunggulan biaya yang disebut strategi cost leadership yaitu strategi yang dikemukakan oleh....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Kotler"
+          },
+          {
+            "label": "B",
+            "text": "Porter"
+          },
+          {
+            "label": "C",
+            "text": "Keller"
+          },
+          {
+            "label": "D",
+            "text": "Kotler dan Keller"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: Porter.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 73,
+        "question": "Strategi dimana perusahaan mengarahkan aktivitas promosinya langsung pada konsumen akhir merupakan strategi ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "menarik"
+          },
+          {
+            "label": "B",
+            "text": "mendorong"
+          },
+          {
+            "label": "C",
+            "text": "promosi"
+          },
+          {
+            "label": "D",
+            "text": "distribusi"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: menarik.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 74,
+        "question": "Urutan saluran pemasaran tingkat satu produk konsumen adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "producer → customers"
+          },
+          {
+            "label": "B",
+            "text": "producer → retailer → customers"
+          },
+          {
+            "label": "C",
+            "text": "producer → grocery → customers"
+          },
+          {
+            "label": "D",
+            "text": "producer → agent → customers"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: producer → retailer → customers.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 75,
+        "question": "Promosi penjualan menawarkan....",
+        "options": [
+          {
+            "label": "A",
+            "text": "strategi untuk membeli"
+          },
+          {
+            "label": "B",
+            "text": "keinginan untuk membeli"
+          },
+          {
+            "label": "C",
+            "text": "alasan untuk membeli"
+          },
+          {
+            "label": "D",
+            "text": "insentif untuk membeli"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: insentif untuk membeli.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 76,
+        "question": "Mendiang Vanessa Angel masih ramai menjadi pembahasan di media sosial. Kali ini terkait ahli waris dari polis asuransi jiwa yang ditinggalkan Vanessa. Artis Vanessa Angel & suaminya, meninggal dunia dalam kecelakaan di Tol Nganjuk (4/11). Keduanya meninggalkan seorang balita berusia 16 bulan. Semasa hidup, Vanessa memiliki polis asuransi jiwa dengan ahli waris ayah kandungnya. Sebab Vanessa membeli asuransi tersebut sebelum ia menikah. Sahabat Vanessa Angel, Marissya Icha, menyebut bahwa Vanessa berniat untuk ubah nama penerima manfaat-nya dari ayahnya menjadi atas nama putranya, Gala Sky, tetapi belum sempat dilakukan. Hal ini sangat disayangkan, karena sepeninggalan Vanessa, yang paling membutuhkan waris tersebut adalah putranya yang masih balita. Perebutan sengit warisan dari ayah vannesa angel dan mertua yang memperebutkan hak untuk anak mendiang, membuat pihak asuransi Prudential memberikan klarifikasi atas pencairan polis asuransi tersebut oleh public relation Prudential. Dari ilustrasi di atas, apa saja 3 kelebihan metode komunikasi public relation (PR/hubungan masyarakat)?",
+        "options": [
+          {
+            "label": "A",
+            "text": "kredibilitas yang tinggi, kemampuan menembus pertahanan audiens, adanya unsur dramatisasi"
+          },
+          {
+            "label": "B",
+            "text": "akreditasi yang tinggi, kemampuan personal selling, peningkatan penjualan"
+          },
+          {
+            "label": "C",
+            "text": "peningkatan image produk, kemampuan menyebarkan informasi lebih luas, peningkatan penjualan"
+          },
+          {
+            "label": "D",
+            "text": "peningkatan brand equity, kemampuan menyebarkan informasi lebih luas, peningkatan penjualan"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: kredibilitas yang tinggi, kemampuan menembus pertahanan audiens, adanya unsur dramatisasi.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 77,
+        "question": "Penerapan saluran distribusi yang berbeda adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "menjangkau daerah yang paling sulit"
+          },
+          {
+            "label": "B",
+            "text": "tersebar diseluruh retailer"
+          },
+          {
+            "label": "C",
+            "text": "produsen menjual langsung kepada konsumen"
+          },
+          {
+            "label": "D",
+            "text": "multi level marketing"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: multi level marketing.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 78,
+        "question": "Pasar disebut menurun (decline) apabila....",
+        "options": [
+          {
+            "label": "A",
+            "text": "permintaan terjadi secara lamban dan betahap serta dapat diprediksi sebelumnya"
+          },
+          {
+            "label": "B",
+            "text": "terjadi tren penurunan disebabkan oleh perubahan atau peralihan teknologi"
+          },
+          {
+            "label": "C",
+            "text": "permintaan menurun cepat dan sulit diprediksi"
+          },
+          {
+            "label": "D",
+            "text": "terjadi tren penurunan penjualan industri secara konsisten"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: terjadi tren penurunan penjualan industri secara konsisten.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 79,
+        "question": "Yarbrough et al. mengemukakan bahwa sistem yang berisikan, keyakinan, dan asumsi bersama, yang membantu individu atau group melakukan fungsinya dalam organisasi, merupakan definisi dari....",
+        "options": [
+          {
+            "label": "A",
+            "text": "budaya organisasi"
+          },
+          {
+            "label": "B",
+            "text": "struktur organisasi"
+          },
+          {
+            "label": "C",
+            "text": "organisasi"
+          },
+          {
+            "label": "D",
+            "text": "perusahaan"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: budaya organisasi.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 80,
+        "question": "Persaingan antar produk yang tidak sama tapi masih dalam satu industri dikenal dengan persaingan ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "industri"
+          },
+          {
+            "label": "B",
+            "text": "merek"
+          },
+          {
+            "label": "C",
+            "text": "produk"
+          },
+          {
+            "label": "D",
+            "text": "manfaat"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: industri.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 81,
+        "question": "Salah satu kelebihan ekonomi baru menurut Walker et al adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "jangkauan global dan non global"
+          },
+          {
+            "label": "B",
+            "text": "membangun relationship dengan pelanggan"
+          },
+          {
+            "label": "C",
+            "text": "disintermediasi dan restrukturisasi saluran distribusi"
+          },
+          {
+            "label": "D",
+            "text": "menjadi yang pertama dan melekat dihati konsumen"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: disintermediasi dan restrukturisasi saluran distribusi.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 82,
+        "question": "Review aspek-aspek positif dan negatif budaya perusahaan saat ini dan mendatang, merupakan isu ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "sumber daya saat ini dan akan datang"
+          },
+          {
+            "label": "B",
+            "text": "sasaran, strategi, dan kinerja saat ini"
+          },
+          {
+            "label": "C",
+            "text": "struktural di masa yang akan datang"
+          },
+          {
+            "label": "D",
+            "text": "struktural dan budaya saat ini dan akan datang"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: struktural dan budaya saat ini dan akan datang.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 83,
+        "question": "Organisasi yang menghilangkan unsur-unsur tradisional adalah organisasi ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "mekanistik"
+          },
+          {
+            "label": "B",
+            "text": "organistik"
+          },
+          {
+            "label": "C",
+            "text": "matriks"
+          },
+          {
+            "label": "D",
+            "text": "tanpa batas"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: tanpa batas.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 84,
+        "question": "Salah satu ciri organisasi organistik adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "struktur yang kaku"
+          },
+          {
+            "label": "B",
+            "text": "formalisasi tinggi"
+          },
+          {
+            "label": "C",
+            "text": "fleksibel"
+          },
+          {
+            "label": "D",
+            "text": "pengambilan keputusan bersifat sentral"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: fleksibel.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 85,
+        "question": "Konsumen tidak akan membeli produk-produk perusahaan dalam jumlah yang cukup jika tidak dilakukan upaya promosi dalam skala besar, dalam orientasi pemasaran merupakan konsep ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "pemasaran"
+          },
+          {
+            "label": "B",
+            "text": "produksi"
+          },
+          {
+            "label": "C",
+            "text": "produk"
+          },
+          {
+            "label": "D",
+            "text": "penjualan"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: penjualan.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 86,
+        "question": "Kategori paling profitable, memiliki posisi sebagai pemimpin pasar, menikmati keuntungan akibat skala ekonomi dalam matriks BCG merupakan kategori ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "star"
+          },
+          {
+            "label": "B",
+            "text": "question mark"
+          },
+          {
+            "label": "C",
+            "text": "cash cow"
+          },
+          {
+            "label": "D",
+            "text": "dog"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: cash cow.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 87,
+        "question": "Petinggi perusahaan hingga manajemen paling bawah, duduk bersama mendiskusikan situasi lingkungan dan merumuskan strategi, merupakan pendekatan ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "perintah"
+          },
+          {
+            "label": "B",
+            "text": "konsensus"
+          },
+          {
+            "label": "C",
+            "text": "perubahan"
+          },
+          {
+            "label": "D",
+            "text": "budaya"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: konsensus.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 88,
+        "question": "Terdapat 2 aspek yang berbeda dari rencana pemasaran. Segmentasi, Targeting dan positioning, merupakan aspek ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "marketing"
+          },
+          {
+            "label": "B",
+            "text": "taktikal"
+          },
+          {
+            "label": "C",
+            "text": "strategik"
+          },
+          {
+            "label": "D",
+            "text": "marketing mix"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: strategik.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 89,
+        "question": "Terdapat empat tipe perusahaan berdasarkan orientasi strategisnya, yaitu : defenders, prospectors, analyzers reaktor. Manakah yang merupakan tipikal perusahaan yang gagal?",
+        "options": [
+          {
+            "label": "A",
+            "text": "defenders"
+          },
+          {
+            "label": "B",
+            "text": "prospectors"
+          },
+          {
+            "label": "C",
+            "text": "analyzers"
+          },
+          {
+            "label": "D",
+            "text": "reaktor"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: reaktor.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 90,
+        "question": "Daerah Istimewa Yogyakarta merupakan daerah yang masih menjunjung tinggi nilai-nilai budaya dan tatakrama. Dalam berorganisasi, sopan santun tetap dijunjung tinggi, meskipun berada dalam satu level organisasi. Pendekatan organisasi yang dilakukan di Jakarta, cenderung modern dan dinamis, bahkan bercanda dalam bahasa gaul. Namun, tidak dengan budaya Yogya yang masih menjunjung tinggi batas-batas kesopanan. Dari uraian di atas, pemasaran yang dilakukan melalui pendekatan .…",
+        "options": [
+          {
+            "label": "A",
+            "text": "perintah"
+          },
+          {
+            "label": "B",
+            "text": "perubahan"
+          },
+          {
+            "label": "C",
+            "text": "budaya"
+          },
+          {
+            "label": "D",
+            "text": "konsensus"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: budaya.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 91,
+        "question": "Aktivitas mencari, menganalisis, dan menyimpulkan data secara sistematis untuk membuat strategi bisnis yang lebih valid disebut….",
+        "options": [
+          {
+            "label": "A",
+            "text": "riset pemasaran"
+          },
+          {
+            "label": "B",
+            "text": "riset operasi"
+          },
+          {
+            "label": "C",
+            "text": "riset merek"
+          },
+          {
+            "label": "D",
+            "text": "penetrasi pasar"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: riset pemasaran.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 92,
+        "question": "Dari sudut pandang bisnis persaingan diartikan sebagai pertarungan (rivalry) diantara perusahaan-perusahaan yang memperebutkan konsumen yang sama. Definisi tersebut dikemukakan oleh....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Jain"
+          },
+          {
+            "label": "B",
+            "text": "Craven dan Piercy"
+          },
+          {
+            "label": "C",
+            "text": "Kim dan Mauborgne"
+          },
+          {
+            "label": "D",
+            "text": "Kotler dan Keller"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: Craven dan Piercy.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 93,
+        "question": "Harapan yang kita nilai layak sesuai dengan pengorbanan atau hak dikenal dengan level ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "istimewa"
+          },
+          {
+            "label": "B",
+            "text": "deserved"
+          },
+          {
+            "label": "C",
+            "text": "ideal"
+          },
+          {
+            "label": "D",
+            "text": "desired"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: deserved.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 94,
+        "question": "Produk adalah barang, jasa, ide, atau apapun yang ditawarkan, tetapi masih dalam taraf fungsi dasar. Sementara itu, suatu citra ekslusif terkait identitas yang memberikan nilai emosional dan ekspresi diri kepada konsumen merupakan definisi dari....",
+        "options": [
+          {
+            "label": "A",
+            "text": "merek"
+          },
+          {
+            "label": "B",
+            "text": "ekuitas merek"
+          },
+          {
+            "label": "C",
+            "text": "lini produk"
+          },
+          {
+            "label": "D",
+            "text": "bauran produk"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: merek.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 95,
+        "question": "Pesan berisi kelebihan-kelebihan dari suatu produk dapat menimbulkan daya tarik ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "moral"
+          },
+          {
+            "label": "B",
+            "text": "emosional"
+          },
+          {
+            "label": "C",
+            "text": "rasional"
+          },
+          {
+            "label": "D",
+            "text": "perasaan"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: rasional.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 96,
+        "question": "Little dan Marandi mengemukakan beberapa perkembangan yang menyebabkan perlunya relationship marketing. Salah satu diantaranya adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "kesadaran bahwa kepuasan tidak otomatis menghasilkan loyalitas"
+          },
+          {
+            "label": "B",
+            "text": "kesadaran bahwa kepuasan otomatis menghasilkan loyalitas"
+          },
+          {
+            "label": "C",
+            "text": "kesadaran bahwa perkembangan baru dalam persaingan"
+          },
+          {
+            "label": "D",
+            "text": "kesadaran bahwa perkembangan baru dalam hubungan bisnis"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: kesadaran bahwa kepuasan tidak otomatis menghasilkan loyalitas.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 97,
+        "question": "Memilih keunggulan kompetitif yang tepat merupakan salah satu langkah dalam ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "memilih pasar sasaran"
+          },
+          {
+            "label": "B",
+            "text": "segmentasi"
+          },
+          {
+            "label": "C",
+            "text": "posisi produk"
+          },
+          {
+            "label": "D",
+            "text": "memperluas pasar"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: posisi produk.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 98,
+        "question": "Penyebab munculnya sistem-sistem baru saluran pemasaran adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "kerja sama"
+          },
+          {
+            "label": "B",
+            "text": "kemitraan"
+          },
+          {
+            "label": "C",
+            "text": "perkembangan teknologi dan lingkungan bisnis"
+          },
+          {
+            "label": "D",
+            "text": "pemrograman distribusi"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: perkembangan teknologi dan lingkungan bisnis.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 99,
+        "question": "Mengidentifikasi segmen-segmen pasar, memilih segmen untuk dilayani, kemudian membuat produk untuk segmen yang dilayani tersebut, merupakan strategi ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "segmentasi"
+          },
+          {
+            "label": "B",
+            "text": "pemasaran bersasaran"
+          },
+          {
+            "label": "C",
+            "text": "pemasaran kostumisasi"
+          },
+          {
+            "label": "D",
+            "text": "pemasaran massal"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: pemasaran bersasaran.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 100,
+        "question": "Menarik sejumlah besar pangsa konsumen baru pada satu atau beberapa segmen merupakan strategi ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "mempertahankan sisi"
+          },
+          {
+            "label": "B",
+            "text": "serangan loncat katak"
+          },
+          {
+            "label": "C",
+            "text": "serangan frontal"
+          },
+          {
+            "label": "D",
+            "text": "serangan gerilya"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: serangan frontal.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 101,
+        "question": "Stella merupakan produk pengharum ruangan dari Stella ini diproduksi di bawah perusahaan bernama PT Megasari Makmur yang sudah berdiri sejak tahun 1996. Berdasarkan laporan perekonomian Indonesia tahun 2018 diketahui bahwa pertumbuhan ekonomi 2018 tercatat 5.17%, meningkat dibandingkan dengan pertumbuhan tahun sebelumnya sebesar 5.07%. Perkembangan tersebut memberi dampak pada konsumsi rumah tangga yang meningkat pada tahun 2018 mencapai 5.05%. Salah satu sektor yang terpengaruh dampak tersebut adalah penjualan produk pengharum ruangan. Berdasarkan hasil survey Top Brand di 15 kota besar tahun 2018 vs tahun 2016, Bayfresh mengalami peningkatan penjualan hingga 10.3%. Peningkatan penjualan tersebut berdampak terhadap Stella dan Glade yang mengalami penurunan penjualan pada tahun 2018. Dalam menghadapi penurunan ini, stella mengeluarkan produk baru, yaitu Stella Air Freshener Alat Matic merupakan alat pengharum ruangan otomatis yang dirancang dapat memberikan keharuman hingga 60 hari, dengan varian bentuk alat yang eksotis dan artistic,varian wangi yang lebih banyak. Berdasarkan hal tersebut di atas, apa yang dilakukan stella saat mengalami penurunan?",
+        "options": [
+          {
+            "label": "A",
+            "text": "memperbarui produk"
+          },
+          {
+            "label": "B",
+            "text": "meninjau kembali"
+          },
+          {
+            "label": "C",
+            "text": "memperbaiki program pemasaran"
+          },
+          {
+            "label": "D",
+            "text": "memperbaiki produksi"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: memperbarui produk.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 102,
+        "question": "Pasar tidak perlu disegmentasi pada kondisi ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "terlalu luas"
+          },
+          {
+            "label": "B",
+            "text": "amat sangat homogen"
+          },
+          {
+            "label": "C",
+            "text": "konsumen terlalu sedikit"
+          },
+          {
+            "label": "D",
+            "text": "area pemasaran terbatas"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: amat sangat homogen.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 103,
+        "question": "Kerugian dalam undifferentiated marketing strategy adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "tidak ada produk yang spesifik"
+          },
+          {
+            "label": "B",
+            "text": "hanya bertumpu pada satu segmen"
+          },
+          {
+            "label": "C",
+            "text": "tingginya resiko dalam persaingan"
+          },
+          {
+            "label": "D",
+            "text": "memerlukan biaya tinggi"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: tingginya resiko dalam persaingan.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 104,
+        "question": "Proses pengelompokkan pasar kedalam segmen yang berbeda-beda adalah definisi dari....",
+        "options": [
+          {
+            "label": "A",
+            "text": "pasar"
+          },
+          {
+            "label": "B",
+            "text": "segmen"
+          },
+          {
+            "label": "C",
+            "text": "segmen pasar"
+          },
+          {
+            "label": "D",
+            "text": "segmentasi pasar"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: segmentasi pasar.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 105,
+        "question": "Untuk menganalisis potensi keuntungan, para pemasar perlu....",
+        "options": [
+          {
+            "label": "A",
+            "text": "mengetahui resiko kerugian"
+          },
+          {
+            "label": "B",
+            "text": "mengetahui volume tercapainya titik impas"
+          },
+          {
+            "label": "C",
+            "text": "mengetahui prinsip-prinsip biaya"
+          },
+          {
+            "label": "D",
+            "text": "mengombinasikan sensivitas harga dengan biaya"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: mengombinasikan sensivitas harga dengan biaya.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 106,
+        "question": "Pengenalan produk dan peningkatan keinginan membeli konsumen dalam strategi skimming dan keluar cepat dijabarkan melalui ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "harga"
+          },
+          {
+            "label": "B",
+            "text": "distribusi"
+          },
+          {
+            "label": "C",
+            "text": "kemasan"
+          },
+          {
+            "label": "D",
+            "text": "promosi"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: promosi.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 107,
+        "question": "Terdapat 6 golongan produk baru menurut perusahaan konsultan Booz, Allen dan Hamilton, salah satu diantaranya adalah prouk-produk saat ini yang diasosiasikan dengan aplikasi baru dengan segmen pasar yang baru pula, disebut....",
+        "options": [
+          {
+            "label": "A",
+            "text": "repositioning"
+          },
+          {
+            "label": "B",
+            "text": "baru sama sekali"
+          },
+          {
+            "label": "C",
+            "text": "penurunan biaya"
+          },
+          {
+            "label": "D",
+            "text": "lini produk baru"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: repositioning.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 108,
+        "question": "Jakarta, 18 Januari 2022-Menteri Perdagangan Muhammad Lutfi menegaskan, Pemerintah terus berkomitmen untuk memenuhi kebutuhan pangan masyarakat dengan harga terjangkau. Terkait tingginya harga minyak goreng, Pemerintah menetapkan kebijakan satu harga minyak goreng dengan harga setara Rp14.000/liter. Kebijakan Minyak Goreng Satu Harga merupakan upaya lanjutan Pemerintah untuk menjamin ketersediaan minyak goreng dengan harga terjangkau. Melalui kebijakan ini, seluruh minyak goreng, baik kemasan premium maupun kemasan sederhana, akan dijual dengan harga setara Rp14.000/liter untuk pemenuhan kebutuhan rumah tangga serta usaha mikro dan kecil. Berdasarkan uraian di atas, ada beberapa faktor pembatas harga antara lain : 1. biaya 2. peraturan pemerintah 3. strategi bauran pemasaran 4. kepentingan saluran pemasaran 5. jenis persaingan 6. daur hidup produk 7. etika Manakah dari faktor di atas yang merupakan faktor pembatas harga yang sejalan dengan uraian kasus di atas?",
+        "options": [
+          {
+            "label": "A",
+            "text": "1, 2,3, 4, dan 5"
+          },
+          {
+            "label": "B",
+            "text": "2,3,4,5"
+          },
+          {
+            "label": "C",
+            "text": "1,2,4,7"
+          },
+          {
+            "label": "D",
+            "text": "2,6,7"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: 2,3,4,5.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 109,
+        "question": "Produk disesuaikan dengan kebutuhan klien dan harga merupakan hal kedua dibanding keberhasilan aplikasi produk adalah penjualan ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "transaksional"
+          },
+          {
+            "label": "B",
+            "text": "solusi"
+          },
+          {
+            "label": "C",
+            "text": "fitur"
+          },
+          {
+            "label": "D",
+            "text": "manfaat"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: solusi.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 110,
+        "question": "Restoran Karen’s Dinner Restoran Karen’s Dinner merupakan restoran di kebayoran Baru, Jakarta. Restoran ini merupakan restoran yang unik, yang memiliki konsep judes pada pelayanannya. Nama Karen sendiri merujuk pada jenis wanita tertentu di Amerika Serikat yang menjengkelkan dan judes, menuntut untuk berbicara dengan bos perusahaan mana pun, tidak peduli betapa absurd situasinya. Stereotipe Karen adalah wanita kulit putih dengan rambut bob pirang pendek. Karen's Diner, dengan pramusajinya yang judes, mengharapkan pelanggan membalas mereka dengan versi Karen terbaik mereka. Dengan stereotipe tersebut, siapa pun yang bernama Karen justru diperlakukan seperti bangsawan di restoran itu, dengan Karen's menawarkan minuman gratis jika mereka dapat membuktikan nama tersebut. Melansir situs webnya, Karen's mendeskripsikan diri sebagai \"restoran interaktif dan menawarkan pengalaman yang sangat menyenangkan.\" \"Di Karen's, Anda akan disambut dan ditunggu pelayan jutek dan dipaksa memainkan berbagai permainan,\" katanya. Mereka menyambung, \"Anda dapat mengharapkan makanan enak, kesenangan, dan pengalaman bersantap yang belum pernah Anda rasakan sebelumnya.\"Dengan pelayanan tidak biasa, di cabangnya di luar negeri, restoran ini justru populer untuk perayaan ulang tahun, serta pesta bujangan. Namun, anak di bawah umur diperingatkan untuk menjauh atau datang bersama orang dewasa. Terdapat tiga faktor yang dapat dijadikan sebagai sumber perbedaan (keunikan) layanan, dari kasus di atas faktor mana yang menjadi dominasi diferensiasinya?",
+        "options": [
+          {
+            "label": "A",
+            "text": "offer"
+          },
+          {
+            "label": "B",
+            "text": "delivery"
+          },
+          {
+            "label": "C",
+            "text": "image"
+          },
+          {
+            "label": "D",
+            "text": "paket layanan primer"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: delivery.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 111,
+        "question": "Pasar terdiri dari banyak penjual dan banyak pembeli disebut pasar….",
+        "options": [
+          {
+            "label": "A",
+            "text": "persaingan sempurna"
+          },
+          {
+            "label": "B",
+            "text": "oligopolistik"
+          },
+          {
+            "label": "C",
+            "text": "monopolistik"
+          },
+          {
+            "label": "D",
+            "text": "monopoli"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari B menjadi A. Banyak penjual dan banyak pembeli adalah ciri pasar persaingan sempurna, bukan oligopolistik.",
+        "needsReview": false,
+        "auditStatus": "dikoreksi",
+        "originalKey": "B"
+      },
+      {
+        "number": 112,
+        "question": "Keunggulan pemasaran langsung, yaitu ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "dapat meningkatkan penjualan"
+          },
+          {
+            "label": "B",
+            "text": "interaktif"
+          },
+          {
+            "label": "C",
+            "text": "dapat meliputi daerah yang luas"
+          },
+          {
+            "label": "D",
+            "text": "tidak membutuhkan media pesan"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: interaktif.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 113,
+        "question": "Iklan merupakan hal yang penting untuk memperkenalkan produk kita kepada alah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "ukuran produk yang akan diiklankan"
+          },
+          {
+            "label": "B",
+            "text": "jenis kelamin audiens"
+          },
+          {
+            "label": "C",
+            "text": "jenis media yang dipilih dan frekuensinya"
+          },
+          {
+            "label": "D",
+            "text": "tujuan audiens"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: tujuan audiens.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 114,
+        "question": "Pasar harus tersegmentasi (segmentable) dan setiap segmen menunjukkan perilaku yang berbeda merupakan salah satu kondisi agar....",
+        "options": [
+          {
+            "label": "A",
+            "text": "diskriminasi harga berjalan baik"
+          },
+          {
+            "label": "B",
+            "text": "penetapan harga berjalan baik"
+          },
+          {
+            "label": "C",
+            "text": "adaptasi harga berjalan baik"
+          },
+          {
+            "label": "D",
+            "text": "modifikasi harga berjalan baik"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: diskriminasi harga berjalan baik.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 115,
+        "question": ". Gambar di atas merupakan produk industri. Berdasarkan klasifikasinya, produk tersebut tergolong pada.... [Gambar pada soal: beberapa komponen/suku cadang mesin jahit, seperti penjepit jarum, set suku cadang, dan gear.]",
+        "options": [
+          {
+            "label": "A",
+            "text": "barang modal"
+          },
+          {
+            "label": "B",
+            "text": "barang layanan"
+          },
+          {
+            "label": "C",
+            "text": "bahan baku dan suku cadang"
+          },
+          {
+            "label": "D",
+            "text": "barang perlengkapan"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari A menjadi C. Gambar menunjukkan komponen/suku cadang mesin jahit, sehingga klasifikasinya bahan baku dan suku cadang.",
+        "needsReview": false,
+        "auditStatus": "dikoreksi",
+        "originalKey": "A"
+      },
+      {
+        "number": 116,
+        "question": "Menambahkan varian-varian lebih sederhana pada lini produk yang sudah ada merupakan keputusan lini produk ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "memperpanjang ke hilir"
+          },
+          {
+            "label": "B",
+            "text": "memperpanjang ke hulu"
+          },
+          {
+            "label": "C",
+            "text": "mengisi lini produk"
+          },
+          {
+            "label": "D",
+            "text": "memodernisasi lini produk"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari C menjadi A. Menambah varian lebih sederhana pada lini produk adalah perluasan lini ke hilir/downward line stretching.",
+        "needsReview": false,
+        "auditStatus": "dikoreksi",
+        "originalKey": "C"
+      },
+      {
+        "number": 117,
+        "question": "Tukar tambah emas adalah proses di mana Anda menyerahkan perhiasan emas lama Anda di toko emas untuk ditukar dengan perhiasan baru. Toko emas akan menilai emas lama Anda berdasarkan berat dan karatnya, kemudian mengurangi nilai tersebut dari harga emas baru yang ingin Anda beli. Selisih harga antara emas lama dan baru itulah yang perlu Anda bayar. Toko emas tersebut akan memberikan diskon atas tukar tambah dengan minimal pembelian 10 gram sebesar 5%. Dari ilustrasi di atas, merupakan contoh dari adaptasi harga….",
+        "options": [
+          {
+            "label": "A",
+            "text": "geographical pricing"
+          },
+          {
+            "label": "B",
+            "text": "price discount and allowance"
+          },
+          {
+            "label": "C",
+            "text": "promotional pricing"
+          },
+          {
+            "label": "D",
+            "text": "psychological discounting"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: price discount and allowance.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 118,
+        "question": "Personal selling itu berupa aktivitas interaksi atau komunikasi secara langsung antara dua orang atau lebih (penjual dan pembeli). Kelebihan personal selling yang paling menonjol adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "kurang mendukung komunikasi dua arah"
+          },
+          {
+            "label": "B",
+            "text": "dengan komunikasi personal, memungkinkan terjalin dua hubungan, yaitu hubungan jual beli dan hubungan persahabatan"
+          },
+          {
+            "label": "C",
+            "text": "memerlukan biaya yang cukup tinggi"
+          },
+          {
+            "label": "D",
+            "text": "memerlukan waktu yang lebih lama sampai pada keputusan penjualan"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: dengan komunikasi personal, memungkinkan terjalin dua hubungan, yaitu hubungan jual beli dan hubungan persahabatan.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 119,
+        "question": "Saluran distribusi yaitu sistem organisasi melalui nama produk, sumber daya, informasi, dana, dan kepemilikan produk bergerak antara produsen dan konsumen merupakan definisi dari saluran distribusi menurut....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Ferrel et al"
+          },
+          {
+            "label": "B",
+            "text": "Craven dan Piercy"
+          },
+          {
+            "label": "C",
+            "text": "Kotler dan Keller"
+          },
+          {
+            "label": "D",
+            "text": "Craven dan Kotler"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari C menjadi A. Definisi saluran distribusi yang mencakup produk, sumber daya, informasi, dana, dan kepemilikan lebih sesuai dengan Ferrell et al.",
+        "needsReview": false,
+        "auditStatus": "dikoreksi",
+        "originalKey": "C"
+      },
+      {
+        "number": 120,
+        "question": "Meningkatkan kinerja pemasaran perantara dan wiraniaga adalah salah satu dari sasaran ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "distribusi"
+          },
+          {
+            "label": "B",
+            "text": "diskon"
+          },
+          {
+            "label": "C",
+            "text": "promosi penjualan"
+          },
+          {
+            "label": "D",
+            "text": "sponsorship"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: promosi penjualan.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 121,
+        "question": "Mengidentifikasi target pasar, entah secara geografis, demografis, psikografis ataupun behavioral, melalui evennya. Merupakan manfaat dari....",
+        "options": [
+          {
+            "label": "A",
+            "text": "strategi event"
+          },
+          {
+            "label": "B",
+            "text": "sasaran promosi penjualan"
+          },
+          {
+            "label": "C",
+            "text": "event marketing"
+          },
+          {
+            "label": "D",
+            "text": "situasi ekonomi"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: event marketing.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 122,
+        "question": "Kriteria dalam evaluasi alternatif saluran pemasaran adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "daya jangkau"
+          },
+          {
+            "label": "B",
+            "text": "pengendalian"
+          },
+          {
+            "label": "C",
+            "text": "komunikasi"
+          },
+          {
+            "label": "D",
+            "text": "pasar itu sendiri"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: pengendalian.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 123,
+        "question": "Sasaran utama dalam strategi memanen adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "mempertahankan pasar yang sudah ada"
+          },
+          {
+            "label": "B",
+            "text": "memperkuat posisi sebagai pemimpin pasar"
+          },
+          {
+            "label": "C",
+            "text": "memaksimalkan arus kas"
+          },
+          {
+            "label": "D",
+            "text": "mempertahankan satu atau beberapa segmen"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: memaksimalkan arus kas.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 124,
+        "question": "Keadaan yang menempatkan perusahaan pada situasi yang tidak menguntungkan disebut dengan ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "kekuatan"
+          },
+          {
+            "label": "B",
+            "text": "kelemahan"
+          },
+          {
+            "label": "C",
+            "text": "kesempatan"
+          },
+          {
+            "label": "D",
+            "text": "tantangan"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari B menjadi D. Situasi eksternal yang tidak menguntungkan dalam SWOT adalah ancaman/tantangan, bukan kelemahan internal.",
+        "needsReview": false,
+        "auditStatus": "dikoreksi",
+        "originalKey": "B"
+      },
+      {
+        "number": 125,
+        "question": "Salah satu metode untuk memperoleh informasi secara sistematis adalah model 5 W yang terdiri dari ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "siapa, apa, dimana, kenapa, dan kapan"
+          },
+          {
+            "label": "B",
+            "text": "siapa, apa, dimana, kapan, dan kenapa"
+          },
+          {
+            "label": "C",
+            "text": "siapa, apa, kapan, dimana, dan kenapa"
+          },
+          {
+            "label": "D",
+            "text": "siapa, apa, kapan, kenapa, dan dimana"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: siapa, apa, dimana, kapan, dan kenapa.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 126,
+        "question": "Alasan perusahaan go international menurut Stauble adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "meningkatkan skala ekonomi"
+          },
+          {
+            "label": "B",
+            "text": "reputasi perusahaan"
+          },
+          {
+            "label": "C",
+            "text": "pengakuan masyarakat dunia"
+          },
+          {
+            "label": "D",
+            "text": "meningkatkan kompetisi"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: meningkatkan skala ekonomi.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 127,
+        "question": "Secara berkala manajer perlu memeriksa kinerja pemasaran saat ini dalam hal volume penjualan, profitabilitas, pangsa pasar, dan ukuran-ukuran lain yang relevan. Farris et al., mengemukakan 10 (sepuluh) aspek-aspek yang diperiksa, yang disebut Marketing Metrics. Aspek pertama yang disebutkan adalah ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "margin dan keuntungan"
+          },
+          {
+            "label": "B",
+            "text": "manajemen saluran dan tenaga penjualan"
+          },
+          {
+            "label": "C",
+            "text": "keefektifan jangkauan"
+          },
+          {
+            "label": "D",
+            "text": "pangsa pasar, pangsa pikiran, dan pangsa hati"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: pangsa pasar, pangsa pikiran, dan pangsa hati.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 128,
+        "question": "Tiga desain umum organisasi yaitu....",
+        "options": [
+          {
+            "label": "A",
+            "text": "struktur sederhana, struktur fungsional, dan struktur divisional"
+          },
+          {
+            "label": "B",
+            "text": "struktur sederhana, struktur fungsional, dan struktur organisasi"
+          },
+          {
+            "label": "C",
+            "text": "struktur sederhana, struktur organisasi, dan struktur divisional"
+          },
+          {
+            "label": "D",
+            "text": "struktur sederhana, struktur organisasi, dan struktur fungsional"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: struktur sederhana, struktur fungsional, dan struktur divisional.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 129,
+        "question": "Definisi struktur organisasi menurut Robbins dan Coulter adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "konfigurasi vertikal dan horizontal departemen, otoritas, dan pekerjaan dalam perusahaan"
+          },
+          {
+            "label": "B",
+            "text": "pembagian pekerjaan secara formal dalam suatu organisasi"
+          },
+          {
+            "label": "C",
+            "text": "sebuah proses yang meliputi elemen kunci yaitu spesialisasi pekerjaan, departementalisasi, rantai komando, luas pengendalian, sentralisasi dan desentralisasi, formalisasi, serta strategi dan struktur"
+          },
+          {
+            "label": "D",
+            "text": "orientasi aktivitas organisasi, baik internal maupun eksternal"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari A menjadi B. Robbins dan Coulter mendefinisikan struktur organisasi sebagai pembagian/pengaturan pekerjaan secara formal dalam organisasi.",
+        "needsReview": false,
+        "auditStatus": "dikoreksi",
+        "originalKey": "A"
+      },
+      {
+        "number": 130,
+        "question": "Faktor internal dalam menganalisis situasi strategik adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "pangsa pasar"
+          },
+          {
+            "label": "B",
+            "text": "pemasok"
+          },
+          {
+            "label": "C",
+            "text": "pesaing"
+          },
+          {
+            "label": "D",
+            "text": "kebijakan"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: pangsa pasar.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 131,
+        "question": "Berikut yang bukan merupakan karakteristik SBU dari Kotler dan Keller adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "merupakan bisnis tunggal"
+          },
+          {
+            "label": "B",
+            "text": "memiliki pesaing sendiri"
+          },
+          {
+            "label": "C",
+            "text": "memiliki manajemen tersendiri yang bertanggung jawab terhadap perencanaan strategis dan kinerja keuntungan dan yang mengontrol sebagian besar faktor- faktor yang mempengaruhi keuntungan"
+          },
+          {
+            "label": "D",
+            "text": "merupakan kumpulan dari organisasi bisnis"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: merupakan kumpulan dari organisasi bisnis.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 132,
+        "question": "Pengendalian adalah fungsi manajemen yang meliputi pemonitoran (monitoring), perbandingan (comparing), dan pengoreksian (correcting) kinerja aktual dengan suatu standar, lalu mengambil tindakan manajerial yang sesuai. Definisi tersebut dikemukakan oleh ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Farrel et al."
+          },
+          {
+            "label": "B",
+            "text": "Hartline dan Maxham"
+          },
+          {
+            "label": "C",
+            "text": "McKee dan Jaworski"
+          },
+          {
+            "label": "D",
+            "text": "Robbins dan Coulter"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Pilihan D paling sesuai dengan konsep yang ditanyakan: Robbins dan Coulter.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 133,
+        "question": "Keputusan pemasaran strategis adalah keputusan organisasi terkait pemasaran, di mana konsekuensinya berdampak baik atau buruk bagi kinerja organisasi dalam jangka panjang. Pengertian tersebut adalah pengertian strategi pemasaran oleh....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Kotler (2012)"
+          },
+          {
+            "label": "B",
+            "text": "El Ansary (2006)"
+          },
+          {
+            "label": "C",
+            "text": "Varadarajan (2010)"
+          },
+          {
+            "label": "D",
+            "text": "Mintzberg (1987)"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Pilihan C paling sesuai dengan konsep yang ditanyakan: Varadarajan (2010).",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 134,
+        "question": "Pada dasarnya setiap strategi harus didasarkan pada sasaran yang ingin dicapai. Strategi bisnis dimaksudkan untuk mencapai sasaran bisnis. Menurut Thompson dan Strickland (2003) sasaran (objectives) adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "target kinerja organisasi, yakni hasil (result) atau keluaran (outcomes) yang ingin dicapai."
+          },
+          {
+            "label": "B",
+            "text": "hasil hasil yang mencerminkan peningkatan daya saing (competitiveness) dan posisi bisnis (business position) yang lebih kuat."
+          },
+          {
+            "label": "C",
+            "text": "apa yang akan dicapai atau dihasilkan oleh organisasi atau perusahaan dalam jangka waktu tertentu."
+          },
+          {
+            "label": "D",
+            "text": "merupakan penjabaran dari tujuan, harus spesifik, terukur, jelas kriterianya, dan memiliki indikator yag rinci sehingga bisa tercapainya secara efektif dan efisien."
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pilihan A paling sesuai dengan konsep yang ditanyakan: target kinerja organisasi, yakni hasil (result) atau keluaran (outcomes) yang ingin dicapai..",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 135,
+        "question": "Petinggi perusahaan dan manajer menengah dan bawah, duduk bersama mendiskusikan situasi lingkungan dan merumuskan strategi, merupakan pendekatan ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "perintah"
+          },
+          {
+            "label": "B",
+            "text": "konsensus"
+          },
+          {
+            "label": "C",
+            "text": "perubahan"
+          },
+          {
+            "label": "D",
+            "text": "budaya"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pilihan B paling sesuai dengan konsep yang ditanyakan: konsensus.",
+        "needsReview": false,
+        "auditStatus": "sesuai",
+        "originalKey": "B"
+      }
+    ]
+  },
+  {
+    "id": "manajemen-rantai-pasokan",
+    "title": "Manajemen Rantai Pasokan",
+    "source": "quiz_embs4328_manajemen_rantai_pasokan_audit.md",
+    "total": 120,
+    "questions": [
+      {
+        "number": 1,
+        "question": "Manajemen logistik merupakan kumpulan dari dua aktivitas, yaitu aktivitas material management dan aktivitas....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Aktivitas pengadaan (procurement)"
+          },
+          {
+            "label": "B",
+            "text": "Physical distribution management (PDA)"
+          },
+          {
+            "label": "C",
+            "text": "Aktivitas logistik (logistic activity)"
+          },
+          {
+            "label": "D",
+            "text": "Value density"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Manajemen logistik secara klasik terdiri dari material management (mengelola aliran material masuk) dan physical distribution management (mengelola aliran barang jadi ke pelanggan). Pilihan B adalah istilah yang tepat untuk pasangan material management.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 2,
+        "question": "Kemampuan suatu perusahaan atau suatu rantai persediaan untuk beroperasi agar menghasilkan suatu tingkatan profitabilitas yang sesuai, merupakan pencapaian kategori pasar dalam....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Efisiensi Internal"
+          },
+          {
+            "label": "B",
+            "text": "Layanan pelanggan"
+          },
+          {
+            "label": "C",
+            "text": "Fleksibilitas permintaan"
+          },
+          {
+            "label": "D",
+            "text": "Pengembangan produk"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pencapaian profitabilitas yang sesuai berkaitan dengan efisiensi internal, yaitu kemampuan menggunakan sumber daya secara optimal untuk menghasilkan keuntungan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 3,
+        "question": "Stok barang-barang oleh organisasi untuk memenuhi permintaan pelanggan, baik pelanggan internal maupun pelanggan eksternal dinamakan....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Persediaan"
+          },
+          {
+            "label": "B",
+            "text": "Permintaan"
+          },
+          {
+            "label": "C",
+            "text": "Penawaran"
+          },
+          {
+            "label": "D",
+            "text": "Pengendalian"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Definisi tersebut adalah definisi langsung dari persediaan (inventory).",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 4,
+        "question": "Ketika tingkat persediaan mencapai jumlah minimum tertentu, sejumlah kuantitas tetap tertentu akan dipesan, kondisi tersebut perusahaan menerapkan sistem persediaan ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Continuous system"
+          },
+          {
+            "label": "B",
+            "text": "Perpetual system"
+          },
+          {
+            "label": "C",
+            "text": "Periodic system"
+          },
+          {
+            "label": "D",
+            "text": "Accrual system"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Sistem continuous system (atau sistem pesanan tetap/fixed-order quantity) memesan dalam jumlah tetap ketika persediaan mencapai titik pemesanan ulang (reorder point).",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 5,
+        "question": "Aktifitas manajemen logistik menurut Stock dan Lambert, diantaranya adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Sumber daya alam, keuangan dan informasi"
+          },
+          {
+            "label": "B",
+            "text": "Sumber daya manusia, produksi dan konsumen"
+          },
+          {
+            "label": "C",
+            "text": "Aktifitas logistik, kontrol dan monitoring"
+          },
+          {
+            "label": "D",
+            "text": "Biaya logistik, transportasi dan bahan"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Menurut Stock & Lambert (2001), aktivitas logistik mencakup pengelolaan sumber daya alam, keuangan, dan informasi, selain barang fisik.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 6,
+        "question": "Data permintaan terakhir konsumen Perusahaan “ROSE” dalam lima periode adalah sbb: Periode 1=62, 2=60, 3=63, 4=60, 5=61. Hitunglah Peramalan permintaan konsumen untuk periode keenam dengan menggunakan moving average 3 periode!",
+        "options": [
+          {
+            "label": "A",
+            "text": "60,21"
+          },
+          {
+            "label": "B",
+            "text": "61,33"
+          },
+          {
+            "label": "C",
+            "text": "62,13"
+          },
+          {
+            "label": "D",
+            "text": "63,11"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Moving average 3 periode: ambil data periode 3,4,5 → (63+60+61)/3 = 61,33.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 7,
+        "question": "Pendekatan utama dalam peramalan dilakukan melalui metode....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Proyeksi tren dan regresi"
+          },
+          {
+            "label": "B",
+            "text": "Kualitatif dan kuantitatif"
+          },
+          {
+            "label": "C",
+            "text": "Regresi linear berganda"
+          },
+          {
+            "label": "D",
+            "text": "Delphi"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Pendekatan utama peramalan terbagi dua: kualitatif (berdasarkan pendapat) dan kuantitatif (berdasarkan data historis)",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 8,
+        "question": "Menganalisis tujuan strategis perusahaan, kemampuan sumber daya perusahaan, aktivitas supply chain perusahaan, serta karakteristik pasar dan produk, merupakan analisis strategi dalam....",
+        "options": [
+          {
+            "label": "A",
+            "text": "RapAgRisk"
+          },
+          {
+            "label": "B",
+            "text": "Supply chain"
+          },
+          {
+            "label": "C",
+            "text": "Manage risk"
+          },
+          {
+            "label": "D",
+            "text": "Service improvement"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Analisis tersebut adalah langkah dalam merumuskan strategi rantai pasok (supply chain strategy).",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 9,
+        "question": "Pemilihan lokasi harus didasarkan pada ketersediaan infrastruktur yang dapat mendukung metode produksi. Infrastruktur yang diperlukan diantaranya meliputi.....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Ketersediaan pemasok, sarana transportasi, komunikasi dan pergudangan"
+          },
+          {
+            "label": "B",
+            "text": "Biaya logistik dan biaya fasilitas, serta tarif dan pajak"
+          },
+          {
+            "label": "C",
+            "text": "Skala ekonomis, perampingan, dan mengurangi biaya transaksi"
+          },
+          {
+            "label": "D",
+            "text": "Penyusunan jaringan logistik dan pemilihan metode transportasi"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Infrastruktur pendukung produksi meliputi aspek fisik dan jaringan seperti pemasok, transportasi, komunikasi, dan gudang.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 10,
+        "question": "Proses yang berada diantara perusahaan dan pelanggan pada rantai pasok dinamakan ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Mikro CRM"
+          },
+          {
+            "label": "B",
+            "text": "Makro CRM"
+          },
+          {
+            "label": "C",
+            "text": "Proses ISCM"
+          },
+          {
+            "label": "D",
+            "text": "Proses SRM"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari C menjadi B. Proses makro di antara perusahaan dan pelanggan adalah CRM; ISCM adalah proses internal perusahaan.",
+        "needsReview": false,
+        "auditStatus": "Dikoreksi",
+        "originalKey": "C"
+      },
+      {
+        "number": 11,
+        "question": "Perusahaan penting mengelola manajemen rantai pasok internal (Internal Supply Chain Management), proses yang terkait dalam proses ISCM diantaranya adalah ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Perencanaan strategik, demand planning, supply planning, fulfillment, after sales service"
+          },
+          {
+            "label": "B",
+            "text": "Perencanaan kualitas, perencanaan strategik, demand planning, supply planning, fulfillment"
+          },
+          {
+            "label": "C",
+            "text": "Perencanaan IT, demand planning, supply planning, fulfillment, after sales service"
+          },
+          {
+            "label": "D",
+            "text": "Perencanaan SDM, demand planning, supply planning, fulfillment, after sales service"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "ISCM mencakup perencanaan strategis hingga purna jual, sesuai dengan siklus internal perusahaan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 12,
+        "question": "Jalan darat, kereta api, air, saluran pipa, dan melalui udara merupakan pengiriman produk kepada konsumen dengan mode....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Distribusi fisik"
+          },
+          {
+            "label": "B",
+            "text": "Alokasi strategik"
+          },
+          {
+            "label": "C",
+            "text": "Transportasi dasar"
+          },
+          {
+            "label": "D",
+            "text": "Desain jaringan produk"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Daftar tersebut adalah moda transportasi dasar (basic modes of transportation).",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 13,
+        "question": "Bullwhip effect sebagai akibat dari ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Panjangnya rantai pasok dari konsumen ke pelanggan yang menyebabkan besarnya distorsi informasi"
+          },
+          {
+            "label": "B",
+            "text": "Pendeknya mata rantai pasok yang menyebabkan besarnya distorsi informasi"
+          },
+          {
+            "label": "C",
+            "text": "Kacaunya sistem informasi"
+          },
+          {
+            "label": "D",
+            "text": "Pendeknya jaringan rantai pasok yang terlibat dan tingginya variasi"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Bullwhip effect terjadi karena distorsi informasi yang semakin besar sepanjang rantai pasok yang panjang, dari konsumen ke pemasok.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 14,
+        "question": "Suatu kondisi peramalan dengan deviasi cukup besar maka secara keseluruhan akan berimplikasi pada....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Naiknya modal kerja"
+          },
+          {
+            "label": "B",
+            "text": "Produktivitas"
+          },
+          {
+            "label": "C",
+            "text": "Barang jadi"
+          },
+          {
+            "label": "D",
+            "text": "Work in process"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Kesalahan peramalan (deviasi besar) menyebabkan ketidakstabilan persediaan dan produksi, sehingga memerlukan modal kerja lebih besar untuk menanggung risiko.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 15,
+        "question": "Fungsi peramalan dalam jangka panjang adalah untuk bertukar informasi secara internal dalam ‘shared web’ antar sesama partner dalam suatu rantai pasok. Hambatan terbesar yang umum dihadapi dalam penerapan sistem ini adalah ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Adanya kepercayaan antar jaringan dalam pasokan"
+          },
+          {
+            "label": "B",
+            "text": "Adanya kurang percaya antar partner"
+          },
+          {
+            "label": "C",
+            "text": "Adanya sistem jaringan yang terputus"
+          },
+          {
+            "label": "D",
+            "text": "Adanya hambatan dalam interaksi pasokan"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Dalam kolaborasi rantai pasok, kurangnya kepercayaan (lack of trust) antar partner sering menjadi hambatan utama berbagi informasi.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 16,
+        "question": "Serangkaian kegiatan yang bertanggungjawab membuat produk aktual, mendirikan fleksibilitas perusahaan untuk melayani pasar dengan baik, dan merancang sistem produksi untuk memenuhi kebutuhan waktu siklus dinamakan manajemen....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Aliran produk"
+          },
+          {
+            "label": "B",
+            "text": "Aliran perusahaan"
+          },
+          {
+            "label": "C",
+            "text": "Interaksi pemasok"
+          },
+          {
+            "label": "D",
+            "text": "Interaksi pelanggan"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Definisi tersebut mengacu pada manajemen aliran produk (product flow management) dalam konteks produksi dan fleksibilitas.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 17,
+        "question": "Para pemasok Walt-Mart menggunakan informasi permintaan dari toko Walt-Mart untuk menyusun jadwal produksi. Walt-Mart menggunakan informasi tentang permintaan untuk menentukan lokasi toko-toko barunya dan fasilitas yang diperlukan dalam kasus tersebut informasi digunakan oleh Wal-Mart dalam hal pengambilan keputusan terkait dengan ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Produksi"
+          },
+          {
+            "label": "B",
+            "text": "Distribusi"
+          },
+          {
+            "label": "C",
+            "text": "Fasilitas"
+          },
+          {
+            "label": "D",
+            "text": "Transportasi"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Penentuan lokasi toko baru dan fasilitas yang dibutuhkan adalah keputusan terkait fasilitas (facility decisions).",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 18,
+        "question": "Koordinasi, pembagian informasi dan sumberdaya untuk bergabung dalam mengelola suatu proses rantai pasok, merupakan proses....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Identifikasi"
+          },
+          {
+            "label": "B",
+            "text": "Klasifikasi"
+          },
+          {
+            "label": "C",
+            "text": "Produksi"
+          },
+          {
+            "label": "D",
+            "text": "Integrasi"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Definisi tersebut adalah esensi dari integrasi rantai pasok (supply chain integration).",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 19,
+        "question": "CSL (Cycle Service Level) optimal merupakan suatu kondisi yang mana ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Semua permintaan yang muncul ketika persediaan produk habis telah gagal"
+          },
+          {
+            "label": "B",
+            "text": "Semua permintaan yang muncul ketika persediaan produk akan terpenuhi belakangan ketika persediaan terlengkapi"
+          },
+          {
+            "label": "C",
+            "text": "Jika manajer toko meningkatkan tingkat persediaan pengaman, maka banyak pemesanan yang dapat terpenuhi"
+          },
+          {
+            "label": "D",
+            "text": "Fungsi rasio dari cost of overstocking dan cost of understocking menunjukkan bahwa apabila rasio cost of overstocking dan cost of understocking semakin kecil, maka tingkat ketersediaan produk yang optimal akan semakin meningkat"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "CSL optimal dicapai ketika rasio biaya kelebihan dan kekurangan stok diminimalkan, dan penurunan rasio tersebut meningkatkan tingkat ketersediaan optimal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 20,
+        "question": "Pihak yang mengendalikan pasar dan pasar akan mengendalikan perilaku organisasi dalam pasar yang kompetitif dinamakan....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Pelanggan"
+          },
+          {
+            "label": "B",
+            "text": "Distributor"
+          },
+          {
+            "label": "C",
+            "text": "Pemasok"
+          },
+          {
+            "label": "D",
+            "text": "Pelayan"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Dalam pasar kompetitif, pelanggan adalah pengendali utama karena permintaan mereka yang menentukan arah pasar.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 21,
+        "question": "Pengertian The Cash to Cash Cycle dalam strategi Lead Time adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Beberapa waktu yang dibutuhkan untuk mengkonversi dari order menjadi dalam bentuk waktu kas"
+          },
+          {
+            "label": "B",
+            "text": "Beberapa banyak model kerja dalam bentuk persediaan untuk penjualan dalam bentuk harian"
+          },
+          {
+            "label": "C",
+            "text": "Menurunkan logistic lead time dan secara bersamaan dengan menaikkan waktu untuk customer order cycle dengan meningkatkan peringatan dini untuk setiap permintaan dari pelanggan melalui improved visibility of demand"
+          },
+          {
+            "label": "D",
+            "text": "Aktivitas yang paling lambat dalam keseluruhan rantai proses dimana hal tersebut bisa terjadi pada mesin atau mungkin bisa juga terjadi pada aliran informasi seperti order processing"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Cash-to-cash cycle adalah waktu yang dibutuhkan untuk mengubah pesanan menjadi kas (order-to-cash).",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 22,
+        "question": "Penundaan menjadi tidak efektif jika sebagian besar permintaan berasal dari sejenis produk tunggal. Hal ini dikarenakan ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Keterlambatan yang ada antara waktu penyerahan pesanan pelanggan dan ketika mereka mengharapkan pengiriman"
+          },
+          {
+            "label": "B",
+            "text": "Keuntungan diperoleh dari sekumpulan kecil, sementara peningkatan biaya produksi digunakan untuk berbagai produk"
+          },
+          {
+            "label": "C",
+            "text": "Penundaan membolehkan rantai pasok untuk menyesuaikan persediaan dengan permintaan"
+          },
+          {
+            "label": "D",
+            "text": "Penundaan berhubungan dengan menunda pembedaan produk hingga mendekati waktu penjualan produk"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Strategi penundaan (postponement) tidak efektif untuk produk tunggal karena tidak ada variasi yang bisa ditunda, sehingga biaya tambahan tidak terjustifikasi.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 23,
+        "question": "Strategi late differentiation terhadap produk juga dapat dilakukan untuk meningkatkan ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Spot market"
+          },
+          {
+            "label": "B",
+            "text": "Kinerja supply chain"
+          },
+          {
+            "label": "C",
+            "text": "Fleksibilitas dalam sourcing"
+          },
+          {
+            "label": "D",
+            "text": "Fleksibilitas manufaktur"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Late differentiation (penundaan diferensiasi) bertujuan meningkatkan kinerja rantai pasok dengan mengurangi risiko dan meningkatkan responsivitas.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 24,
+        "question": "Risiko yang datang dari lingkungan luar rantai pasok dan berada diluar kontrol dari manajemen seperti kejadian bencana alam, perang, aksi terorisme, permasalahan dengan partner dagang dan lain sebagainya. Merupakan pengertian dari tipe risiko ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Internal"
+          },
+          {
+            "label": "B",
+            "text": "Eksternal"
+          },
+          {
+            "label": "C",
+            "text": "Konsekuensi"
+          },
+          {
+            "label": "D",
+            "text": "Ketidakpastian kondisi lingkungan (uncertain environment)"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Risiko dari luar perusahaan dan di luar kendali manajemen disebut risiko eksternal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 25,
+        "question": "Permintaan komputer pada PT Komputer Media Prima adalah sebesar 1.000 unit per bulan. PT. Komputer Media Prima menetapkan biaya pemesanan sebesar Rp 4.000.000,00 setiap kali pemesanan dilakukan. Biaya per unit komputer sebesar Rp 500.000,-. Biaya penyimpanan sebesar 20%. Tentukan besarnya kuantitas pemesanan setiap kali pesan ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "979,79"
+          },
+          {
+            "label": "B",
+            "text": "797,79"
+          },
+          {
+            "label": "C",
+            "text": "797,97"
+          },
+          {
+            "label": "D",
+            "text": "679,69"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari B menjadi A. Rumus EOQ: D = 12.000 unit/tahun, S = 4.000.000, H = 20% × 500.000 = 100.000, sehingga EOQ = √(2DS/H) = √960.000 ≈ 979,79.",
+        "needsReview": false,
+        "auditStatus": "Dikoreksi",
+        "originalKey": "B"
+      },
+      {
+        "number": 26,
+        "question": "Biaya yang harus dipertimbangkan pihak manajemen dalam mengelola persediaan, diantaranya adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Biaya pemesanan, produk dan jasa"
+          },
+          {
+            "label": "B",
+            "text": "Produksi, bahan baku dan distribusi"
+          },
+          {
+            "label": "C",
+            "text": "Pergudangan, Persediaan dan pengelolaan"
+          },
+          {
+            "label": "D",
+            "text": "Penyimpanan, pemesanan, dan kekurangan"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Tiga biaya utama dalam manajemen persediaan adalah biaya penyimpanan (holding cost), biaya pemesanan (ordering cost), dan biaya kekurangan (shortage cost).",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 27,
+        "question": "Rantai persediaan dengan permintaan yang dipusatkan, dijalankan melalui beberapa langkah. Langkah pertama yang dilakukan adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Memberikan informasi secara bersama diantara tingkatan dalam rantai persediaan"
+          },
+          {
+            "label": "B",
+            "text": "Pedagang eceran melakukan peramalan permintaan pelanggan"
+          },
+          {
+            "label": "C",
+            "text": "Perkiraan pesanan berdasarkan ketersediaan produk"
+          },
+          {
+            "label": "D",
+            "text": "Anggota rantai pasok bersifat independent"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Dalam rantai pasok terpusat, langkah pertama biasanya pengecer meramalkan permintaan pelanggan sebagai dasar koordinasi.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 28,
+        "question": "Rantai nilai yang mengacu pada suatu situasi yang mendekati struktur pasar yang benar- benar kompetitif dalam literatur ekonomi mikro disebut juga dengan ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Market Driven Value Chains"
+          },
+          {
+            "label": "B",
+            "text": "Modular atau Balanced Value Chains"
+          },
+          {
+            "label": "C",
+            "text": "Relational Value Chains"
+          },
+          {
+            "label": "D",
+            "text": "Captive/Directed Value Chains"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari B menjadi A. Struktur rantai nilai yang mendekati pasar kompetitif disebut market/market-driven value chain, bukan modular/balanced value chain.",
+        "needsReview": false,
+        "auditStatus": "Dikoreksi",
+        "originalKey": "B"
+      },
+      {
+        "number": 29,
+        "question": "Standard manajemen risiko yang dapat digunakan dan disesuaikan dengan kebutuhan tujuan perusahaan diantaranya adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "SOLVENCY II:2012 dan ISO 31000:2009"
+          },
+          {
+            "label": "B",
+            "text": "COSO:2004 dan SOP 6001:2006"
+          },
+          {
+            "label": "C",
+            "text": "Analisis risiko dan analisis pareto"
+          },
+          {
+            "label": "D",
+            "text": "Spekulasi dan sekuritas"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Standar manajemen risiko yang diakui secara internasional adalah ISO 31000:2009 dan SOLVENCY II untuk sektor tertentu.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 30,
+        "question": "Untuk membangun kemampuan dalam menghadapi risiko rantai pasok diantaranya adalah ketika gangguan tersebut datang, perencanaan yang telah dirancang perlu di eksekusi di monitoring secara berkelanjutan. Hal tersebut merupakan implementasi pada tahap ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Planning"
+          },
+          {
+            "label": "B",
+            "text": "Organizing"
+          },
+          {
+            "label": "C",
+            "text": "Execution"
+          },
+          {
+            "label": "D",
+            "text": "Strategic planning"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Tahap execution adalah pelaksanaan dan pemantauan rencana yang telah dibuat.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 31,
+        "question": "Strategi dalam aktivitas sourcing yang dapat diterapkan untuk meminimalkan risiko dari supply disruption, adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Strategi diversifikasi dan supply backup"
+          },
+          {
+            "label": "B",
+            "text": "Analisis dan monitoring"
+          },
+          {
+            "label": "C",
+            "text": "Perencanaan dan pemasaran"
+          },
+          {
+            "label": "D",
+            "text": "Permintaan dan produk baru"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Untuk mengurangi risiko gangguan pasokan, strategi yang umum adalah diversifikasi pemasok dan backup supply.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 32,
+        "question": "Mengidentifikasi risiko, menentukan tingkat keparahan, potensi kehilangan, dan pilihan untuk manajemen risiko baik oleh peserta rantai pasokan merupakan pendekatan dengan sistem...",
+        "options": [
+          {
+            "label": "A",
+            "text": "RapAgRisk"
+          },
+          {
+            "label": "B",
+            "text": "Push"
+          },
+          {
+            "label": "C",
+            "text": "Leadtime"
+          },
+          {
+            "label": "D",
+            "text": "Direct cost"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "RapAgRisk adalah kerangka analisis risiko khusus untuk rantai pasok agrikultur yang meliputi identifikasi dan evaluasi risiko.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 33,
+        "question": "Pengelolaan internal supply chain management menjadi penting bagi perusahaan untuk mengintegrasikan proses bisnis internal terhadap para pemasok dan distributor. Berikut adalah perencanaan pada ISCM, kecuali ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Strategik"
+          },
+          {
+            "label": "B",
+            "text": "Demand"
+          },
+          {
+            "label": "C",
+            "text": "Supply"
+          },
+          {
+            "label": "D",
+            "text": "Customer"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "ISCM berfokus pada perencanaan strategik, demand, dan supply. Customer lebih merupakan eksternal dan bagian dari CRM, bukan perencanaan internal ISCM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 34,
+        "question": "Memindahkan dan menyimpan suatu produk dari tahapan pemasok sampai pada tahap konsumen di dalam rantai pasok dinamakan....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Produksi"
+          },
+          {
+            "label": "B",
+            "text": "Distribusi"
+          },
+          {
+            "label": "C",
+            "text": "Kompetisi"
+          },
+          {
+            "label": "D",
+            "text": "Strategi"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Definisi tersebut adalah definisi dari distribusi fisik (physical distribution).",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 35,
+        "question": "Kondisi suatu pasar dimana permintaan tinggi namun penawaran lebih rendah adalah situasi pasar pada kuadran 2 dengan ciri sebagai berikut ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Developing"
+          },
+          {
+            "label": "B",
+            "text": "Growth"
+          },
+          {
+            "label": "C",
+            "text": "Steady"
+          },
+          {
+            "label": "D",
+            "text": "Mature"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Kuadran 2 (permintaan tinggi, penawaran rendah) menggambarkan fase pertumbuhan (growth) dalam siklus hidup produk.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 36,
+        "question": "Suatu perusahaan rata-rata memiliki nilai persediaan Rp 20.000.000,- tahun lalu, dan penjualan produk adalah Rp 100.000.000,-. Jika perusahaan memiliki 52 Minggu kerja pertahun, berapa minggu pasokan dalam persediaan dan berapa perputaran persediaannya ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "8,4 Minggu dan 10 perputaran/ tahun"
+          },
+          {
+            "label": "B",
+            "text": "5 Minggu dan 10,4 perputaran/ tahun"
+          },
+          {
+            "label": "C",
+            "text": "10,4 Minggu dan 5 perputaran/ tahun"
+          },
+          {
+            "label": "D",
+            "text": "12,4 Minggu dan 7 perputaran/ tahun"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari B menjadi C. Minggu pasokan = 20.000.000 / (100.000.000/52) = 10,4 minggu. Perputaran persediaan = 100.000.000 / 20.000.000 = 5 kali/tahun.",
+        "needsReview": false,
+        "auditStatus": "Dikoreksi",
+        "originalKey": "B"
+      },
+      {
+        "number": 37,
+        "question": "Permintaan produk seragam sekolah, sepatu sekolah dan peralatan sekolah membuat volume penjualannya meningkat disaat awal tahun ajaran baru. Hal tersebut merupakan karakteristik produk yang bersifat .....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Seasonal"
+          },
+          {
+            "label": "B",
+            "text": "Cyclical"
+          },
+          {
+            "label": "C",
+            "text": "Trend"
+          },
+          {
+            "label": "D",
+            "text": "Fluktuatif"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pola permintaan yang berulang setiap periode tertentu (misal awal tahun ajaran) disebut musiman (seasonal).",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 38,
+        "question": "Pengembangan produk baru, pemasaran, operasi, distribusi, keuangan, dan layanan pelanggan, merupakan fungsi yang menerima dan memenuhi permintaan konsumen dalam....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Rantai pasok"
+          },
+          {
+            "label": "B",
+            "text": "Aktivitas produksi"
+          },
+          {
+            "label": "C",
+            "text": "Penjualan produk"
+          },
+          {
+            "label": "D",
+            "text": "Perubahan kapasitas"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Fungsi-fungsi tersebut adalah bagian dari sistem rantai pasok (supply chain) yang terintegrasi.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 39,
+        "question": "Proses penyelesaian pesanan secara efektif yang memerlukan integrasi rencana kerja antara produk, distribusi, dan transportasi disebut ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Customer Demand Fulfillment"
+          },
+          {
+            "label": "B",
+            "text": "Demand Management"
+          },
+          {
+            "label": "C",
+            "text": "Customer Service Management (CSM)"
+          },
+          {
+            "label": "D",
+            "text": "Procurement"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Customer Demand Fulfillment adalah proses pemenuhan pesanan pelanggan yang terintegrasi dengan distribusi dan transportasi.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 40,
+        "question": "Seluruh pihak yang terlibat dalam jaringan rantai pasok suatu perusahaan harus mengetahui rencana masa depan secara bersama-sama. Sehingga proses perencanaan lebih baik, koordinasi lebih lancar dan produktif. berikut adalah manfaat dari pentingnya integrasi, kecuali adanya ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Penghematan Biaya"
+          },
+          {
+            "label": "B",
+            "text": "Peningkatan Kualitas"
+          },
+          {
+            "label": "C",
+            "text": "Peningkatan Kapasitas"
+          },
+          {
+            "label": "D",
+            "text": "Peningkatan Layanan"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Integrasi rantai pasok umumnya meningkatkan efisiensi, kualitas, dan layanan, tetapi peningkatan kapasitas lebih terkait keputusan investasi, bukan manfaat langsung integrasi.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 41,
+        "question": "Kegiatan dalam logistik ditekankan pada pengelolaan bagaimana mendapatkan barang, sedangkan untuk lingkup manajemen logistik diantaranya adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Aktivitas pengadaan, penyimpanan, pengawasan, dan transportasi"
+          },
+          {
+            "label": "B",
+            "text": "Sumber daya manusia, proses inti dan distribusi"
+          },
+          {
+            "label": "C",
+            "text": "Keluhan konsumen, pelatihan tenaga kerja dan pembayaran pesanan"
+          },
+          {
+            "label": "D",
+            "text": "Lokasi penyimpanan, fasilitas transportasi dan alokasi kapasitas"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Lingkup manajemen logistik mencakup aktivitas operasional seperti pengadaan, penyimpanan, dan transportasi.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 42,
+        "question": "Berikut adalah keuntungan dari model distribusi dengan pengambilan langsung oleh konsumen adalah ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Biaya murah"
+          },
+          {
+            "label": "B",
+            "text": "Cepatnya pengiriman"
+          },
+          {
+            "label": "C",
+            "text": "Volume tinggi"
+          },
+          {
+            "label": "D",
+            "text": "Delivery"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari B menjadi A. Pada model customer pickup, keunggulan yang paling aman adalah biaya distribusi lebih murah karena konsumen mengambil sendiri produk; opsi “cepatnya pengiriman” kurang tepat karena tidak selalu ada proses delivery.",
+        "needsReview": false,
+        "auditStatus": "Dikoreksi",
+        "originalKey": "B"
+      },
+      {
+        "number": 43,
+        "question": "Suatu kondisi dimana perusahaan mengelola persediaan dalam jumlah yang lebih besar daripada kebutuhan pada saat itu, merupakan jenis persediaan ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Pipeline inventory"
+          },
+          {
+            "label": "B",
+            "text": "Lot-Size inventory"
+          },
+          {
+            "label": "C",
+            "text": "Anticipation stock"
+          },
+          {
+            "label": "D",
+            "text": "Fluctuation stock"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Anticipation stock adalah persediaan yang disiapkan untuk mengantisipasi permintaan di masa depan (lebih besar dari kebutuhan saat ini).",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 44,
+        "question": "Terdapat 3 (tiga) pertimbangan untuk menjelaskan jumlah persediaan oleh distributor, kecuali …",
+        "options": [
+          {
+            "label": "A",
+            "text": "Untuk mencukupi permintaan yang terjadi sepanjang lead time, karena order atau pesanan tidak diperoleh dengan seketika, persediaan ditujukan untuk memenuhi permintaan pelanggan sepanjang periode lead time sampai barang tiba di distributor"
+          },
+          {
+            "label": "B",
+            "text": "Mengimbangi persediaan tahunan dengan beban biaya dan persediaan yang spesifik sehingga kebijakan distributor tidaklah sederhana. Untuk mengatur persediaan secara efektif, distributor harus memutuskan kapan, dan bagaimana caranya untuk menetapkan pemesanan"
+          },
+          {
+            "label": "C",
+            "text": "Untuk melindungi dari ketidakpastian"
+          },
+          {
+            "label": "D",
+            "text": "Penghitungan persediaan secara fisik dilakukan berdasarkan periode interval tertentu"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "A, B, C adalah alasan umum memegang persediaan. D adalah metode penghitungan, bukan alasan mengapa persediaan dipegang.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 45,
+        "question": "Salah satu komponen yang berada dalam harga produk sehingga mengkalkulasikan biaya logistik dan menguranginya menjadi penting dilakukan adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Biaya logistik"
+          },
+          {
+            "label": "B",
+            "text": "Biaya pemesanan"
+          },
+          {
+            "label": "C",
+            "text": "Persediaan barang"
+          },
+          {
+            "label": "D",
+            "text": "Persediaan transportasi"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Biaya logistik adalah komponen penting dalam harga produk, sehingga pengelolaannya mempengaruhi harga jual",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 46,
+        "question": "Pola permintaan tidak banyak berubah dari tahun ke tahun dan menjadi titik awal dalam peramalan permintaan dapat dilakukan dengan....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Time series"
+          },
+          {
+            "label": "B",
+            "text": "Causal model"
+          },
+          {
+            "label": "C",
+            "text": "Moving average"
+          },
+          {
+            "label": "D",
+            "text": "Trend projection"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Untuk pola permintaan stabil, metode time series cocok digunakan sebagai titik awal peramalan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 47,
+        "question": "Metode peramalan dengan mempertimbangkan opini-opini dari para manajer, yang dikombinasikan dengan model statistik, kemudian dikumpulkan dalam satu kelompok untuk menentukan perkiraan permintaan di masa yang akan datang dinamakan....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Jury of executive opinion"
+          },
+          {
+            "label": "B",
+            "text": "Sales force composite"
+          },
+          {
+            "label": "C",
+            "text": "Consumer market survey"
+          },
+          {
+            "label": "D",
+            "text": "Delphi"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jury of executive opinion adalah metode kualitatif yang mengumpulkan pendapat para eksekutif/manajer.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 48,
+        "question": "Untuk mengetahui strategi rantai pasok apa yang tepat bagi perusahaan, maka diperlukan langkah-langkah berikut ini, kecuali ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Menganalisis tujuan strategis perusahaan"
+          },
+          {
+            "label": "B",
+            "text": "Menganalisis kemampuan sumber daya perusahaan"
+          },
+          {
+            "label": "C",
+            "text": "Aktivitas rantai pasok perusahaan, serta karakteristik pasar dan produk"
+          },
+          {
+            "label": "D",
+            "text": "Menganalisis produk cacat"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Analisis produk cacat lebih ke quality control, bukan langkah utama dalam penyusunan strategi rantai pasok.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 49,
+        "question": "Tahap ke tiga dalam menyusun kerangka desain jaringan adalah ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Supply chain strategy"
+          },
+          {
+            "label": "B",
+            "text": "Regional facility configuration"
+          },
+          {
+            "label": "C",
+            "text": "Location choices"
+          },
+          {
+            "label": "D",
+            "text": "Desirable sites"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Urutan desain jaringan: 1) Supply chain strategy, 2) Regional facility configuration, 3) Location choices, 4) Desirable sites.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 50,
+        "question": "Proses manajemen pemesanan sangat diperlukan bagi konsumen dan produsen, bagi konsumen, informasi mengenai keberadaan pesanan sangat diperlukan untuk memastikan kapan pesanan dapat diterima. Bagi produsen hal ini berguna untuk ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Merencanakan dan melaksanakan pemenuhan pesanan"
+          },
+          {
+            "label": "B",
+            "text": "Meningkatkan pasokan"
+          },
+          {
+            "label": "C",
+            "text": "Tailored service"
+          },
+          {
+            "label": "D",
+            "text": "Service Level Agreement"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Bagi produsen, informasi pemesanan digunakan untuk perencanaan dan pelaksanaan pemenuhan pesanan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 51,
+        "question": "Perusahaan harus mengembangkan rancangan produk melalui ide-ide seperti seleksi pemasok untuk komponen yang mempunyai nilai positif bagi rantai pasok. Seleksi pemasok merupakan bagian dari pengelolaan Supplier Relationship Management sehingga untuk mengurangi biaya yang terjadi ketika beberapa pemasok secara bersamaan merancang komponen untuk produk perusahaan perlu dilakukan desain ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Capacity planning"
+          },
+          {
+            "label": "B",
+            "text": "Kolaborasi"
+          },
+          {
+            "label": "C",
+            "text": "Production planning"
+          },
+          {
+            "label": "D",
+            "text": "Scheduling"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Untuk menghindari duplikasi dan mengurangi biaya, diperlukan desain kolaborasi (collaborative design) dengan pemasok.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 52,
+        "question": "Berikut ciri penggunaan mode transportasi udara adalah ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Cepat sampai namun biaya mahal"
+          },
+          {
+            "label": "B",
+            "text": "Biaya murah dan risiko rendah"
+          },
+          {
+            "label": "C",
+            "text": "Fleksibilitas rendah"
+          },
+          {
+            "label": "D",
+            "text": "Fleksibilitas tinggi"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Transportasi udara terkenal cepat tapi mahal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 53,
+        "question": "Dua dealer mobil, salah satu dari mereka berharap penjualan berada pada kisaran 100 dan 1.900, sedangkan yang lain berharap penjualan berkisar pada 900 dan 1.100. Walaupun kedua dealer tersebut mengantisipasi permintaan dengan menghitung rata-rata sebesar 1.000, sumber peramalan kedua dealer tersebut tentunya tidaklah sama. Contoh peramalan diatas merupakan karakteristik dari peramalan ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Tidak tepat"
+          },
+          {
+            "label": "B",
+            "text": "Jangka panjang"
+          },
+          {
+            "label": "C",
+            "text": "Agregat"
+          },
+          {
+            "label": "D",
+            "text": "Bullwhip effect"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari D menjadi A. Kasus dua dealer dengan rata-rata sama tetapi rentang ramalan berbeda menunjukkan karakteristik ramalan yang tidak tepat/selalu memiliki error, bukan bullwhip effect karena tidak ada distorsi sepanjang rantai pasok.",
+        "needsReview": false,
+        "auditStatus": "Dikoreksi",
+        "originalKey": "D"
+      },
+      {
+        "number": 54,
+        "question": "Permintaan yang tidak terikat dengan permintaan produk lainnya disebut permintaan ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Terikat"
+          },
+          {
+            "label": "B",
+            "text": "Tunggal"
+          },
+          {
+            "label": "C",
+            "text": "Bebas"
+          },
+          {
+            "label": "D",
+            "text": "Ganda"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Permintaan bebas (independent demand) adalah permintaan atas produk akhir yang tidak tergantung permintaan produk lain.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 55,
+        "question": "Terdapat tiga elemen penting dalam CPFR seperti berikut ini, kecuali….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Collaborative demand planning"
+          },
+          {
+            "label": "B",
+            "text": "Joint capacity planning"
+          },
+          {
+            "label": "C",
+            "text": "Synchronized order fulfillment"
+          },
+          {
+            "label": "D",
+            "text": "Integration and information"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "CPFR (Collaborative Planning, Forecasting, and Replenishment) fokus pada perencanaan permintaan, pemenuhan pesanan, dan integrasi informasi. Joint capacity planning bukan elemen inti CPFR.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 56,
+        "question": "Para pemasok Walt-Mart menggunakan informasi permintaan dari toko Walt-Mart untuk menyusun jadwal produksi. Walt-Mart menggunakan informasi tentang permintaan untuk menentukan lokasi toko-toko barunya dan fasilitas yang diperlukan, dalam kasus tersebut informasi digunakan oleh Wal-Mart dalam hal pengambilan keputusan terkait dengan ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Produksi"
+          },
+          {
+            "label": "B",
+            "text": "Distribusi"
+          },
+          {
+            "label": "C",
+            "text": "Fasilitas"
+          },
+          {
+            "label": "D",
+            "text": "Transportasi"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Sama seperti soal 17, penentuan lokasi toko adalah keputusan fasilitas.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 57,
+        "question": "Proses bisnis manajemen rantai pasok tidak hanya memenuhi harapan pelanggan namun juga harus mengembangkan produk baru dan memasarkan secara efektif, menggabungkan pemasok dengan konsumen kedalam proses untuk mengurangi waktu pemasaran. Proses bisnis tersebut disebut juga dengan ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Customer relationship management"
+          },
+          {
+            "label": "B",
+            "text": "Manufacturing flow management"
+          },
+          {
+            "label": "C",
+            "text": "Demand management"
+          },
+          {
+            "label": "D",
+            "text": "Product Development and Commercialization"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Deskripsi tersebut adalah definisi dari Product Development and Commercialization.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 58,
+        "question": "Manajer transportasi mencoba meminimalisir total biaya transportasi, jika dilakukan dengan tidak hati-hati akan menyebabkan meningkatnya safety stocks, munculnya kekurangan produk, dan memburuknya tingkat pelayanan konsumen. Untuk mengatasi mentalitas silo dapat dilakukan dengan cara ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Menyatukan tujuan rantai pasok dan memberikan insentif"
+          },
+          {
+            "label": "B",
+            "text": "Menyatukan persepsi kualitas dan pasokan"
+          },
+          {
+            "label": "C",
+            "text": "Meningkatkan kolaborasi dan membangun inventory"
+          },
+          {
+            "label": "D",
+            "text": "Menurunkan inventory dan menambah armada transportasi"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Menyatukan tujuan rantai pasok dan insentif adalah cara mengatasi mentalitas silo (hanya mementingkan departemen sendiri).",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 59,
+        "question": "Perusahaan harus meminimalkan kerugian perusahaan untuk setiap kehilangan penjualan dikarenakan tidak tersedianya persediaan kondisi tersebut disebut juga dengan istilah ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Cost of overstocking"
+          },
+          {
+            "label": "B",
+            "text": "Cost of understocking"
+          },
+          {
+            "label": "C",
+            "text": "Cost of goods sold"
+          },
+          {
+            "label": "D",
+            "text": "Cost of inventory"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Cost of understocking adalah biaya akibat kekurangan persediaan (kehilangan penjualan).",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 60,
+        "question": "Dibawah ini adalah 3 (tiga) langkah untuk mencapai strategi yang tepat menurut Copra dan Meindl (2013), kecuali ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Memahami pelanggan dan ketidakpastian dari rantai pasok"
+          },
+          {
+            "label": "B",
+            "text": "Memahami kemampuan rantai pasok"
+          },
+          {
+            "label": "C",
+            "text": "Kecepatan inovasi suatu produk"
+          },
+          {
+            "label": "D",
+            "text": "Pencapaian strategi yang tepat"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Langkah menurut Copra & Meindl: 1) Pahami pelanggan & ketidakpastian, 2) Pahami kemampuan rantai pasok, 3) Raih keselarasan strategis. Kecepatan inovasi bukan langkah langsung.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 61,
+        "question": "Lead time gap dapat diturunkan dengan time gap yaitu dengan menurunkan logistic lead time dan secara bersamaan menaikkan waktu untuk customer order cycle dengan meningkatkan peringatan dini untuk setiap permintaan dari pelanggan melalui improvement .....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Visibility of demand"
+          },
+          {
+            "label": "B",
+            "text": "Area lead time"
+          },
+          {
+            "label": "C",
+            "text": "Variability of demand"
+          },
+          {
+            "label": "D",
+            "text": "Sustainability of demand"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Improved visibility of demand (visibilitas permintaan) membantu mengurangi lead time gap.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 62,
+        "question": "Permintaan produk yang terprediksi diproduksi dengan fasilitas yang efisien, sementara bagian yang tak pasti diproduksi dengan fasilitas yang fleksibel, hal ini merupakan kondisi dimana perusahaan menerapkan tailored service berbasis ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Produksi"
+          },
+          {
+            "label": "B",
+            "text": "Volume"
+          },
+          {
+            "label": "C",
+            "text": "Distributor"
+          },
+          {
+            "label": "D",
+            "text": "Pemasok"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Tailored sourcing berarti menggunakan pemasok/fasilitas berbeda berdasarkan karakteristik permintaan (terprediksi vs tidak pasti).",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 63,
+        "question": "Trend dan praktik yang dapat memicu supply chain disruption, diantaranya adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Supply cadangan dan variasi produk"
+          },
+          {
+            "label": "B",
+            "text": "Variasi lead time dan investasi teknologi"
+          },
+          {
+            "label": "C",
+            "text": "Peramalan dan strategi pengurangan risiko"
+          },
+          {
+            "label": "D",
+            "text": "Lingkungan yang kompetitif dan inventory cadangan terbatas"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Lingkungan kompetitif dan cadangan terbatas meningkatkan kerentanan terhadap gangguan rantai pasok.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 64,
+        "question": "Manajemen risiko diterapkan untuk fungsi logistik yang luas namun penerapan tersebut masih dalam organisasi yang berbeda (belum ada integrasi antar organisasi). Pada klasifikasi integrasi dalam supply chain risk management menurut Water 2007 berada pada level ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "1."
+          },
+          {
+            "label": "B",
+            "text": "2."
+          },
+          {
+            "label": "C",
+            "text": "3."
+          },
+          {
+            "label": "D",
+            "text": "4."
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Level 1 menurut Water (2007) adalah manajemen risiko terisolasi per fungsi tanpa integrasi antar organisasi.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 65,
+        "question": "Aplikasi ABC inventory dilakukan dengan melakukan klasifikasi inventory yang fokus pada ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Nilai persediaan yang bernilai tinggi"
+          },
+          {
+            "label": "B",
+            "text": "Dead stock"
+          },
+          {
+            "label": "C",
+            "text": "Slow moving stock"
+          },
+          {
+            "label": "D",
+            "text": "Lay out gudang"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Klasifikasi ABC memfokuskan pada item bernilai tinggi (kelas A) yang memberikan kontribusi terbesar terhadap nilai persediaan total.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 66,
+        "question": "Permintaan bahan baku tidak tergantung pada produksi barang lain, tetapi semata mata hanya ditentukan oleh jumlah barang jadi yang akan dibuat saja, hal tersebut dinamakan....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Permintaan bebas"
+          },
+          {
+            "label": "B",
+            "text": "Permintaan konsumen"
+          },
+          {
+            "label": "C",
+            "text": "Biaya penyimpangan"
+          },
+          {
+            "label": "D",
+            "text": "Biaya pemesanan"
+          }
+        ],
+        "correctLabels": [],
+        "explanation": "Audit menandai soal ini perlu revisi opsi. Secara konsep, permintaan bahan baku yang ditentukan oleh jumlah barang jadi adalah permintaan terikat/dependent demand. Opsi tersebut tidak tersedia; opsi A “permintaan bebas” berlawanan dengan konsep baku.",
+        "needsReview": true,
+        "auditStatus": "Perlu Review/Opsi Bermasalah",
+        "originalKey": "A"
+      },
+      {
+        "number": 67,
+        "question": "Variabilitas permintaan dapat dikurangi dengan memberikan informasi secara bersama diantara tingkatan dalam rantai persediaan. Adanya persepsi informasi yang sama pada setiap mata rantai supply penting maka perusahaan harus menerapkan strategi ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Partnership"
+          },
+          {
+            "label": "B",
+            "text": "Kontrak"
+          },
+          {
+            "label": "C",
+            "text": "Outsourcing"
+          },
+          {
+            "label": "D",
+            "text": "Integrasi"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Strategi integrasi (seperti berbagi data real-time) mengurangi variabilitas permintaan dengan menyelaraskan informasi.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 68,
+        "question": "Kategori rantai nilai Menurut Gereffi & Gary (2005) menjelaskan pada kategori ini, rantai nilai dan tata kelolanya terikat dalam perusahaan tradisional yang terintegrasi secara vertikal (misalnya, anak perusahaan dan afiliasi yang harus tunduk pada perintah dari kantor pusat), berada pada kategori ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Hierarchical/Vertical Value Chains (Supplier-Driven)"
+          },
+          {
+            "label": "B",
+            "text": "Captive/Directed Value Chains (Buyer-Driven)"
+          },
+          {
+            "label": "C",
+            "text": "Relational Value Chains"
+          },
+          {
+            "label": "D",
+            "text": "Modular atau Balanced Value Chains"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Hierarchical/Vertical Value Chains menggambarkan integrasi vertikal penuh dengan kendali dari pusat.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 69,
+        "question": "Menentukan konteks, identifikasi, analisis dan evaluasi risiko merupakan tahap analisis risiko berdasarkan ISO....",
+        "options": [
+          {
+            "label": "A",
+            "text": "31000: 2009"
+          },
+          {
+            "label": "B",
+            "text": "31000: 2012"
+          },
+          {
+            "label": "C",
+            "text": "32000: 2009"
+          },
+          {
+            "label": "D",
+            "text": "32000: 2012"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Tahapan tersebut sesuai ISO 31000:2009 tentang manajemen risiko.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 70,
+        "question": "Salah satu strategi dalam mengurangi risiko supply chain disruption adalah strategi pencegahan, diantaranya adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Supply disruption dan acceptance strategy"
+          },
+          {
+            "label": "B",
+            "text": "Postponement strategy dan supply chain"
+          },
+          {
+            "label": "C",
+            "text": "Forecasting dan risk reduction"
+          },
+          {
+            "label": "D",
+            "text": "Just in time dan supply chain"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari D menjadi C. Strategi pencegahan gangguan rantai pasok lebih tepat dikaitkan dengan forecasting dan risk reduction; JIT justru dapat memperbesar risiko jika pasokan terganggu karena buffer persediaan rendah.",
+        "needsReview": false,
+        "auditStatus": "Dikoreksi",
+        "originalKey": "D"
+      },
+      {
+        "number": 71,
+        "question": "Risiko adalah ketidakpastian yang dapat menggagalkan tujuan dari pengelolaan rantai pasokan. Berikut adalah tahapan menghadapi risiko dalam rantai pasok diantaranya adalah ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Analisis potensi, identifikasi & analisis alternatif mitigasi, perencanaan, monitoring dan eksekusi"
+          },
+          {
+            "label": "B",
+            "text": "Identifikasi & analisis alternatif mitigasi, perencanaan, analisis potensi, monitoring dan eksekusi"
+          },
+          {
+            "label": "C",
+            "text": "Identifikasi & analisis alternatif mitigasi, analisis potensi, perencanaan, monitoring dan eksekusi"
+          },
+          {
+            "label": "D",
+            "text": "Perencanaan, Identifikasi & analisis alternatif mitigasi, analisis potensi, monitoring dan eksekusi"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Urutan logis: Identifikasi risiko → analisis potensi dampak → rencana mitigasi → monitoring & eksekusi.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 72,
+        "question": "Tujuan penilaian RapAgRisk diantaranya adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Memahami berbagai hambatan, poin yang mempengaruhi pemain rantai pasok, dan hal-hal yang terkait dengan sistem komoditas pertanian yang diberikan"
+          },
+          {
+            "label": "B",
+            "text": "Memperkirakan kerugian yang timbul, meminimalkan biaya dan strategi logistik"
+          },
+          {
+            "label": "C",
+            "text": "Logistik pelayanan konsumen, stabilitas permintaan dan alur produksi"
+          },
+          {
+            "label": "D",
+            "text": "Diferensiasi produk, sekuritas dan loyalitas pelanggan"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "RapAgRisk bertujuan memahami hambatan dan faktor yang mempengaruhi rantai pasok agrikultur.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 73,
+        "question": "Mengembangkan rancangan produk melalui ide-ide seperti seleksi pemasok komponen yang mempunyai nilai positif bagi rantai pasok, merupakan proses SRM dalam....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Negosiasi"
+          },
+          {
+            "label": "B",
+            "text": "Pembelian"
+          },
+          {
+            "label": "C",
+            "text": "Desain kolaborasi"
+          },
+          {
+            "label": "D",
+            "text": "Kolaborasi penawaran"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Desain kolaborasi (collaborative design) adalah bagian SRM dimana pemasok dilibatkan dalam pengembangan produk.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 74,
+        "question": "Banyaknya jenis produk yang ditawarkan oleh saluran distribusi, ketika produk yang ditawarkan banyak maka saluran distribusi akan lebih rumit dan membutuhkan alat kontrol lain untuk mendapatkan biaya yang efesien, merupakan pengertian dari ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Product variety."
+          },
+          {
+            "label": "B",
+            "text": "Product availability."
+          },
+          {
+            "label": "C",
+            "text": "Response time."
+          },
+          {
+            "label": "D",
+            "text": "Time to Market."
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Product variety mengacu pada banyaknya varian produk yang ditawarkan, yang mempengaruhi kompleksitas distribusi.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 75,
+        "question": "Kesederhanaan koordinasi dan operasi merupakan keuntungan dari metode penyerahan produk secara ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Direct"
+          },
+          {
+            "label": "B",
+            "text": "Indirect"
+          },
+          {
+            "label": "C",
+            "text": "Milk Run"
+          },
+          {
+            "label": "D",
+            "text": "Pick Up"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Pengiriman langsung (direct) mengurangi kompleksitas karena tidak melibatkan banyak pihak perantara.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 76,
+        "question": "Semua aktivitas pemenuhan permintaan konsumen yang dinyatakan secara kuantitatif dinamakan….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Kinerja manajemen rantai pasok"
+          },
+          {
+            "label": "B",
+            "text": "Aliran manajemen rantai pasok"
+          },
+          {
+            "label": "C",
+            "text": "Pengukuran produksi"
+          },
+          {
+            "label": "D",
+            "text": "Perputaran produksi"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Kinerja rantai pasok diukur secara kuantitatif melalui metrik seperti on-time delivery, tingkat layanan, dll.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 77,
+        "question": "Dasar distribusi dapat digunakan untuk menyediakan produk bagi para konsumen, salah satunya adalah tipe dasar distribusi intensif yang memiliki arti....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Produk-produk yang didistribusikan dijual sebanyak mungkin ke retail atau pedagang grosir"
+          },
+          {
+            "label": "B",
+            "text": "Toko yang dapat menjual produk terbatas, tetapi tidak untuk tingkat yang eksklusif"
+          },
+          {
+            "label": "C",
+            "text": "Toko tunggal diberikan hak eksklusif untuk menjual produk pada daerah tertentu"
+          },
+          {
+            "label": "D",
+            "text": "Perancangan aliran rantai pasok harus mempertimbangkan kompleksitasnya"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Distribusi intensif berarti produk tersedia di sebanyak mungkin outlet untuk menjangkau pasar luas.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 78,
+        "question": "Perusahaan industri manufaktur dituntut untuk mengelola rantai pasok dengan efektif yang menjangkau seluruh pihak yang terlibat didalamnya mulai dari hulu (pemasok) sampai ke hilir (pelanggan). Faktor yang mungkin dilakukan perusahaan agar tujuan pengelolaan rantai pasok tersebut berhasil adalah ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Implementasi Teknologi Informasi"
+          },
+          {
+            "label": "B",
+            "text": "Implementasi Jaringan"
+          },
+          {
+            "label": "C",
+            "text": "Implementasi Terstruktur"
+          },
+          {
+            "label": "D",
+            "text": "Implementasi Standard Operating Procedure (SOP)"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Teknologi Informasi adalah enabler utama integrasi dan visibilitas rantai pasok dari hulu ke hilir.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 79,
+        "question": "Manajemen rantai pasok tidak hanya sekedar mengirimkan barang kepada pelanggan dengan tepat waktu dan mutu, tetapi perusahaan menerima pengembalian barang dari para pelanggan akibat adanya kegagalan dalam proses pengiriman. Hal tersebut bagian dari proses bisnis inti rantai pasok yaitu ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Return"
+          },
+          {
+            "label": "B",
+            "text": "Development"
+          },
+          {
+            "label": "C",
+            "text": "Delivery"
+          },
+          {
+            "label": "D",
+            "text": "Service management"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Manajemen pengembalian (return) adalah proses inti dalam rantai pasok yang mengatasi barang kembali dari pelanggan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 80,
+        "question": "Proses penyelesaian pesanan memerlukan integrasi rencana kerja antara produk, distribusi dan transportasi. Hal tersebut merupakan bagian dari proses bisnis inti manajemen rantai pasok ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Inventory"
+          },
+          {
+            "label": "B",
+            "text": "Procurement"
+          },
+          {
+            "label": "C",
+            "text": "Customer demand fulfillment"
+          },
+          {
+            "label": "D",
+            "text": "Customer service"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Customer demand fulfillment adalah proses pemenuhan pesanan yang mengintegrasikan produksi, distribusi, dan transportasi.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 81,
+        "question": "Perpindahan material dan informasi di dalam rantai pasok disebut….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Teknologi"
+          },
+          {
+            "label": "B",
+            "text": "Distribusi"
+          },
+          {
+            "label": "C",
+            "text": "Material"
+          },
+          {
+            "label": "D",
+            "text": "Logistik"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Logistik adalah ilmu mengelola perpindahan material dan informasi dalam rantai pasok.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 82,
+        "question": "Dalam pencapaian kategori pasar, pengukuran yang digunakan antara lain adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Layanan pelanggan, efisiensi internal dan pengembangan produk"
+          },
+          {
+            "label": "B",
+            "text": "Desain produk, penjadwalan produksi dan manajemen pemesanan"
+          },
+          {
+            "label": "C",
+            "text": "Pengembangan produk, model distribusi dan pemilahan produk"
+          },
+          {
+            "label": "D",
+            "text": "Permintaan konsumen, efisiensi dan pengembangan produk"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Tiga kategori ukuran kinerja pasar umum: layanan pelanggan, efisiensi internal, dan pengembangan produk.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 83,
+        "question": "Suatu perusahaan menghadapi kondisi dimana permintaan yang dapat diramalkan, misalnya pada musim permintaan tinggi, tetapi kapasitas produksi pada saat itu tidak mampu memenuhi permintaan, perusahaan harus menerapkan jenis persediaan ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Pipeline inventory"
+          },
+          {
+            "label": "B",
+            "text": "Lot-Size inventory"
+          },
+          {
+            "label": "C",
+            "text": "Anticipation stock"
+          },
+          {
+            "label": "D",
+            "text": "Fluctuation stock"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Anticipation stock dibangun untuk mengantisipasi permintaan tinggi di masa depan yang sudah dapat diprediksi.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 84,
+        "question": "Perusahaan perlu melakukan perhitungan terhadap persediaan yang dimilikinya, saat ini dikenal dengan 2 sistem perhitungan. Untuk penghitungan persediaan secara fisik dilakukan berdasarkan periode interval disebut dengan ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Continuous system"
+          },
+          {
+            "label": "B",
+            "text": "Perpetual system"
+          },
+          {
+            "label": "C",
+            "text": "Periodic system"
+          },
+          {
+            "label": "D",
+            "text": "Accrual system"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Periodic system menghitung persediaan fisik secara berkala (misal bulanan), bukan terus- menerus.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 85,
+        "question": "Pemindahan material adalah bagaimana cara yang terbaik untuk memindahkan material dari satu tempat proses produksi ketempat proses produksi yang lain, tujuan utama dari perencanaan material handling adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Meningkatkan jumlah fasilitas"
+          },
+          {
+            "label": "B",
+            "text": "Mengurangi biaya produksi"
+          },
+          {
+            "label": "C",
+            "text": "Mengubah jadwal produksi"
+          },
+          {
+            "label": "D",
+            "text": "Meningkatkan kapasitas produksi"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Tujuan utama material handling adalah efisiensi biaya dengan mengurangi waktu dan waste.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 86,
+        "question": "Peramalan periode sebelumnya untuk permintaan adalah 50 pasang, sedangkan permintaan sebenarnya adalah 40 pasang. Diketahui α = 0,10 dan permintaan aktual adalah 43, maka Jumlah peramalan periode berikutnya sebanyak ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "39 pasang"
+          },
+          {
+            "label": "B",
+            "text": "40 pasang"
+          },
+          {
+            "label": "C",
+            "text": "41 pasang"
+          },
+          {
+            "label": "D",
+            "text": "48 pasang"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari C menjadi D. Dengan exponential smoothing: F baru = 50 + 0,10 × (43 − 50) = 49,3. Tidak ada opsi yang persis; pilihan paling dekat adalah 48. Soal ini sebaiknya direvisi agar opsi memuat 49,3.",
+        "needsReview": false,
+        "auditStatus": "Dikoreksi",
+        "originalKey": "C"
+      },
+      {
+        "number": 87,
+        "question": "Metode peramalan yang mengandalkan penggunaan data lampau yang mengasumsikan data permintaan dari waktu lampau bisa menjadi indikator bagus untuk memproyeksikan permintaan di masa yang akan datang, disebut dengan metode peramalan ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Simulasi"
+          },
+          {
+            "label": "B",
+            "text": "Kausal"
+          },
+          {
+            "label": "C",
+            "text": "Kualitatif"
+          },
+          {
+            "label": "D",
+            "text": "Time series"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Time series adalah metode kuantitatif yang menggunakan data historis untuk meramalkan masa depan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 88,
+        "question": "Beberapa aspek yang harus dipertimbangkan dalam memenuhi kebutuhan konsumen adalah berikut ini kecuali....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Customer order-to-delivery lead-time"
+          },
+          {
+            "label": "B",
+            "text": "Supplier order-to-fulfillment lead-time"
+          },
+          {
+            "label": "C",
+            "text": "Delivery-to-customer lead-time"
+          },
+          {
+            "label": "D",
+            "text": "Lead time process time"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Lead time process time bukan istilah standar dalam konteks pemenuhan konsumen. A, B, C adalah komponen lead time yang relevan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 89,
+        "question": "Fase yang prosesnya adalah menentukan konfigurasi fasilitas regional adalah fase ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Fase Satu"
+          },
+          {
+            "label": "B",
+            "text": "Fase Dua"
+          },
+          {
+            "label": "C",
+            "text": "Fase Tiga"
+          },
+          {
+            "label": "D",
+            "text": "Fase Empat"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Dalam desain jaringan, fase dua adalah menentukan konfigurasi fasilitas regional.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 90,
+        "question": "Mengetahui dan melacak permintaan pelanggan, merupakan tujuan dari proses makro…",
+        "options": [
+          {
+            "label": "A",
+            "text": "ISCM"
+          },
+          {
+            "label": "B",
+            "text": "CRM"
+          },
+          {
+            "label": "C",
+            "text": "SRM"
+          },
+          {
+            "label": "D",
+            "text": "CMO"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "CRM (Customer Relationship Management) bertujuan memahami dan melacak permintaan pelanggan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 91,
+        "question": "Semua proses yang termasuk dalam perencanaan dan pemenuhan permintaan pelanggan, dinamakan proses....",
+        "options": [
+          {
+            "label": "A",
+            "text": "ISCM"
+          },
+          {
+            "label": "B",
+            "text": "CRM"
+          },
+          {
+            "label": "C",
+            "text": "SRM"
+          },
+          {
+            "label": "D",
+            "text": "ERP"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "ISCM (Internal Supply Chain Management) mencakup perencanaan dan pemenuhan permintaan pelanggan secara internal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 92,
+        "question": "Pengiriman hanya terbatas untuk pengiriman benda cair, gas dengan bentuk dan persyaratan tertentu. Pengiriman tidak memerlukan pengepakan dan biaya murah. Kelemahannya, biaya untuk membuat jaringan ini memerlukan biaya yang besar. Merupakan jaringan logistik dengan mode ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Jalan Darat (Trucking)"
+          },
+          {
+            "label": "B",
+            "text": "Kereta Api"
+          },
+          {
+            "label": "C",
+            "text": "Saluran pipa"
+          },
+          {
+            "label": "D",
+            "text": "Udara"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Saluran pipa (pipeline) cocok untuk cairan/gas, biaya operasi murah tapi biaya infrastruktur tinggi.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 93,
+        "question": "Salah satu cara untuk mengakomodasi kekurangan pada peramalan yaitu....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Menurunkan lead time pada proses rantai pasok"
+          },
+          {
+            "label": "B",
+            "text": "Menaikkan lead time pada proses rantai pasok"
+          },
+          {
+            "label": "C",
+            "text": "Mengumpulkan input"
+          },
+          {
+            "label": "D",
+            "text": "Mengumpulkan output"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Menurunkan lead time membuat rantai pasok lebih responsif terhadap kesalahan peramalan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 94,
+        "question": "Gabungan antara seni dan ilmu pengetahuan untuk memprediksi kejadian di masa datang, dimana kejadian di masa datang diprediksi berdasarkan pada kejadian di masa lalu dinamakan.....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Peramalan"
+          },
+          {
+            "label": "B",
+            "text": "Permintaan"
+          },
+          {
+            "label": "C",
+            "text": "Pengelolaan"
+          },
+          {
+            "label": "D",
+            "text": "Pendistribusian"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Definisi tersebut adalah definisi peramalan (forecasting).",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 95,
+        "question": "Suatu model dimana pengecer, perusahaan jasa transportasi, distributor dan pabrik dapat mengadopsi suatu sistem berbasis internet untuk berkolaborasi sejak tahap perencanaan hingga eksekusi adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "CPFR"
+          },
+          {
+            "label": "B",
+            "text": "Lead time"
+          },
+          {
+            "label": "C",
+            "text": "Value chain"
+          },
+          {
+            "label": "D",
+            "text": "Bullwhip effect"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "CPFR (Collaborative Planning, Forecasting, and Replenishment) adalah model kolaborasi berbasis internet antar pihak rantai pasok.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 96,
+        "question": "Pengertian dari pengembangan Produk dan Komersialisasi (Product Development and Commercialization) adalah ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Proses yang berfokus pada operasi internal dalam perusahaan"
+          },
+          {
+            "label": "B",
+            "text": "Proses yang fokus pada interaksi aliran atas antara perusahaan dan para pemasok"
+          },
+          {
+            "label": "C",
+            "text": "Kunci untuk berhasil dalam rantai pasok karena memungkinkan manajemen untuk membuat keputusan di atas lingkupan yang luas yang berlawanan antara fungsi dan perusahaan"
+          },
+          {
+            "label": "D",
+            "text": "Tindakan pengembangan produk baru untuk memenuhi perubahan permintaan konsumen dan memasarkan produk tersebut dengan cepat dan efisien"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Product Development and Commercialization adalah proses mengembangkan dan meluncurkan produk baru secara cepat dan efisien.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 97,
+        "question": "Berikut ini adalah karakteristik informasi agar berguna ketika membuat keputusan rantai pasok, kecuali...",
+        "options": [
+          {
+            "label": "A",
+            "text": "Singkat"
+          },
+          {
+            "label": "B",
+            "text": "Akurat"
+          },
+          {
+            "label": "C",
+            "text": "Tepat waktu"
+          },
+          {
+            "label": "D",
+            "text": "Benar"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Informasi yang berguna harus akurat, tepat waktu, dan benar. Singkat bukan syarat utama; informasi bisa detail asal relevan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 98,
+        "question": "Gabungan ketidakpastian antara permintaan dalam rantai pasok dengan kelengkapan yang pelanggan inginkan disebut ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Implied demand uncertainty"
+          },
+          {
+            "label": "B",
+            "text": "Demand uncertainty"
+          },
+          {
+            "label": "C",
+            "text": "Value chain uncertainty"
+          },
+          {
+            "label": "D",
+            "text": "Supply chain uncertainty"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Implied demand uncertainty adalah ketidakpastian permintaan yang dipengaruhi oleh kebutuhan dan ekspektasi pelanggan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 99,
+        "question": "Mengukur keberhasilan dari implementasi rantai pasok dapat menggunakan ketersediaan produk pada tingkat yang tinggi untuk meningkatkan responsiveness-nya serta untuk menarik konsumen, namun demikian hal terpenting yang harus diperhatikan adalah tetap menjaga tingkat ketersediaan produk yang dapat diukur dengan ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Cycle Rate Level"
+          },
+          {
+            "label": "B",
+            "text": "Cycle Rate"
+          },
+          {
+            "label": "C",
+            "text": "Cycle Service Level"
+          },
+          {
+            "label": "D",
+            "text": "Inventory Level"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Cycle Service Level (CSL) adalah metrik untuk mengukur tingkat ketersediaan produk yang memenuhi permintaan pelanggan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 100,
+        "question": "Salah satu ciri rantai pasok yang responsive dilihat dari perspektif manufaktur adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Menjaga fleksibilitas dari kapasitas atas ketidakpastian permintaan atau penawaran"
+          },
+          {
+            "label": "B",
+            "text": "Meningkatkan produksi sebagai respon permintaan"
+          },
+          {
+            "label": "C",
+            "text": "Mengelola bahan baku agar tidak kekurangan"
+          },
+          {
+            "label": "D",
+            "text": "Mengurangi produksi untuk meminimalkan cost of inventory"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Rantai pasok responsif membutuhkan fleksibilitas kapasitas untuk menanggapi ketidakpastian.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 101,
+        "question": "Cara untuk menurunkan Lead Time Gap adalah …",
+        "options": [
+          {
+            "label": "A",
+            "text": "Mengoptimalkan elemen individu atau aktivitas proses"
+          },
+          {
+            "label": "B",
+            "text": "Menurunkan logistic lead time dan secara bersamaan dengan menaikkan waktu untuk customer order cycle dengan meningkatkan peringatan dini untuk setiap permintaan dari pelanggan melalui improved visibility of demand"
+          },
+          {
+            "label": "C",
+            "text": "Memperpanjang customer order cycle pada saat pertama diterima"
+          },
+          {
+            "label": "D",
+            "text": "Menangani seluruh proses bottleneck yang berdampak pada jumlah yang besar dan sedikit pengaturan pada jumlah krusial"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Lead time gap dikurangi dengan memperpendek logistic lead time dan meningkatkan visibilitas permintaan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 102,
+        "question": "Permintaan pelanggan pada periode waktu tertentu sangat dinamis dan berubah-ubah bahkan sulit untuk diprediksi dengan akurat. Untuk mengurangi uncertainty demand seorang Manajer harus melakukan langkah-langkah berikut ini kecuali....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Memperbaiki peramalan"
+          },
+          {
+            "label": "B",
+            "text": "Respon yang cepat"
+          },
+          {
+            "label": "C",
+            "text": "Tailored sourcing"
+          },
+          {
+            "label": "D",
+            "text": "Single sourcing"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Single sourcing (bergantung pada satu pemasok) justru meningkatkan risiko, bukan mengurangi ketidakpastian permintaan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 103,
+        "question": "Salah satu langkah yang dilakukan perusahaan terhadap aktivitas supply chain adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Membangun hubungan yang baik dan kuat dengan supplier"
+          },
+          {
+            "label": "B",
+            "text": "Mengetahui tingkat pelayanan yang diinginkan oleh customer"
+          },
+          {
+            "label": "C",
+            "text": "Bekerjasama dengan supplier untuk mengurangi frekuensi pasokan"
+          },
+          {
+            "label": "D",
+            "text": "Mengidentifikasi dan memiliki indikator utama yang mempengaruhi kinerja supply chain"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Membangun hubungan kuat dengan supplier adalah langkah penting dalam mengelola rantai pasok.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 104,
+        "question": "Suatu cara sistematis yang berhadapan dengan potensi terjadinya kejadian disebut ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Risiko"
+          },
+          {
+            "label": "B",
+            "text": "Spekulasi"
+          },
+          {
+            "label": "C",
+            "text": "Rantai nilai"
+          },
+          {
+            "label": "D",
+            "text": "Aktivitas supply"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Risiko adalah ketidakpastian yang sistematis terhadap kejadian yang tidak diinginkan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 105,
+        "question": "PT ABC adalah perusahaan yang memproduksi jarum suntik untuk keperluan Rumah Sakit. Permintaan rata-rata per tahun adalah 1.000 unit, biaya pemesanan adalah sebesar Rp 100.000,00 per pemesanan, dan biaya penyimpanan per unit per tahun adalah sebesar Rp 5.000,00. Berapa pembelian optimal untuk setiap kali pemesanan ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "400 unit"
+          },
+          {
+            "label": "B",
+            "text": "200 unit"
+          },
+          {
+            "label": "C",
+            "text": "4.000 unit"
+          },
+          {
+            "label": "D",
+            "text": "2.000 unit"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "𝐸𝑂𝑄= √2𝐷𝑆 𝐻 = √2 × 1.000 × 100.000 5.000 = √40.000 = 200 Jawaban: 200 unit.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 106,
+        "question": "Perusahaan harus menanggung akibat dari minimnya persediaan barang di tangan (stock on hand) sedangkan permintaan tinggi, hal yang terjadi adalah munculnya biaya opportunity cost karena tidak dapat memenuhi permintaan penjualan. Selain hal tersebut dampak yang ditimbulkan adalah .....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Produksi meningkat"
+          },
+          {
+            "label": "B",
+            "text": "Supply bahan baku menurun"
+          },
+          {
+            "label": "C",
+            "text": "Kepercayaan konsumen menurun"
+          },
+          {
+            "label": "D",
+            "text": "Biaya pemasaran naik"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Stockout menyebabkan kehilangan kepercayaan konsumen selain opportunity cost.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 107,
+        "question": "Tingkatan kedua dalam pedagang besar pada penggunaan peramalan rata-rata bergerak adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Pedagang eceran melakukan peramalan permintaan pelanggan"
+          },
+          {
+            "label": "B",
+            "text": "Menerima pesanan dari pedagang eceran dan menggunakannya untuk menentukan tingkat persediaan targetnya serta menempatkan suatu pesanan kepada distributor"
+          },
+          {
+            "label": "C",
+            "text": "Menerima pesanan dari pedagang eceran dan menggunakan peramalan ini untuk menentukan tingkat persediaan targetnya"
+          },
+          {
+            "label": "D",
+            "text": "Menempatkan suatu pesanan pada pabrik"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Tingkat kedua (distributor) menerima pesanan pengecer, menetapkan target persediaan, dan memesan ke pemasok.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 108,
+        "question": "Alat untuk memahami rantai nilai yang membentuk suatu produk merupakan value chain analysis menurut....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Widarsono dan Hitt"
+          },
+          {
+            "label": "B",
+            "text": "Zeng dan Rossetti"
+          },
+          {
+            "label": "C",
+            "text": "Shank dan Govindarajan"
+          },
+          {
+            "label": "D",
+            "text": "Ongkunaruk dan Piyakarn"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Shank dan Govindarajan adalah ahli yang mengembangkan konsep analisis rantai nilai (value chain analysis).",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 109,
+        "question": "Risiko tersebut perlu untuk dihindari karena sering terjadi dan memiliki dampak yang besar. Dampak yang dimaksud dapat berupa dampak financial maupun non-financial. Merupakan kategori kuadran risiko pada kategori ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Manage Risk"
+          },
+          {
+            "label": "B",
+            "text": "Transfer risk / sharing risk"
+          },
+          {
+            "label": "C",
+            "text": "Appetite risk"
+          },
+          {
+            "label": "D",
+            "text": "Avoid risk"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Risiko dengan frekuensi tinggi dan dampak besar sebaiknya dihindari (avoid).",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 110,
+        "question": "Strategi responsif dapat dibagi menjadi dua yaitu....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Kegiatan peramalan (forecasting) dan Strategi pengurangan risiko (risk reduction)"
+          },
+          {
+            "label": "B",
+            "text": "Kegiatan pendeteksian (detection) disruption dan kecepatan respon (speed strategy)"
+          },
+          {
+            "label": "C",
+            "text": "Kegiatan proteksi (protection strategy) dan melakukan kebijakan recovery (recovery policy)"
+          },
+          {
+            "label": "D",
+            "text": "Kegiatan strategi pencegahan (prevention strategy), responsif (response strategy)"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari D menjadi B. Strategi responsif dalam menghadapi disruption berfokus pada pendeteksian gangguan dan kecepatan respons. Opsi D lebih menggambarkan pembagian umum prevention-response, bukan bagian dari strategi responsif.",
+        "needsReview": false,
+        "auditStatus": "Dikoreksi",
+        "originalKey": "D"
+      },
+      {
+        "number": 111,
+        "question": "Beberapa tahapan berikut diperlukan untuk membangun kemampuan dalam menghadapi risiko dalam rantai pasok, kecuali...",
+        "options": [
+          {
+            "label": "A",
+            "text": "Menganalisis kesalahan apa yang berpotensi untuk terjadi"
+          },
+          {
+            "label": "B",
+            "text": "Mengidentifikasi dan menganalisis alternatif yang memungkinkan untuk menghadapi berbagai macam risiko"
+          },
+          {
+            "label": "C",
+            "text": "Membuat perencanaan untuk menghadapi gangguan"
+          },
+          {
+            "label": "D",
+            "text": "Komunikasi antara store manager dengan personil lain yang berkepentingan perlu direncanakan dan peran serta tanggung jawab mereka dalam menghadapi gangguan ini perlu untuk di review dan di perjelas"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Poin D terlalu spesifik ke level operasional toko, bukan tahap umum membangun kemampuan risiko rantai pasok.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 112,
+        "question": "Berikut adalah tipe risiko yang sering terjadi pada komoditi pertanian, kecuali....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Cuaca"
+          },
+          {
+            "label": "B",
+            "text": "Biologis dan lingkungan"
+          },
+          {
+            "label": "C",
+            "text": "Bencana alam"
+          },
+          {
+            "label": "D",
+            "text": "Alat produksi"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Alat produksi bukan tipe risiko utama khusus pertanian; cuaca, biologis, dan bencana alam lebih relevan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 113,
+        "question": "Penentuan pemasok yang meliputi seleksi pemasok, kontrak manajemen, dan evaluasi pemasok merupakan proses SRM pada....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Desain kolaborasi"
+          },
+          {
+            "label": "B",
+            "text": "Kolaborasi penawaran"
+          },
+          {
+            "label": "C",
+            "text": "Negosiasi"
+          },
+          {
+            "label": "D",
+            "text": "Sumber"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Sourcing adalah proses SRM yang meliputi seleksi, kontrak, dan evaluasi pemasok.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 114,
+        "question": "Waktu yang diperlukan untuk mengirimkan produk sampai pada konsumen sebagai salah satu struktur penyusunan jaringan distribusi dalam faktor....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Response time"
+          },
+          {
+            "label": "B",
+            "text": "Product variety"
+          },
+          {
+            "label": "C",
+            "text": "Product availability"
+          },
+          {
+            "label": "D",
+            "text": "Customer experience"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Response time adalah waktu dari pesanan sampai pengiriman ke konsumen, faktor kunci dalam desain jaringan distribusi.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 115,
+        "question": "Implementasi rantai persediaan dalam perusahaan adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Kemampuan reaksi dan efisiensi dalam pembuatan dan Pengiriman suatu produk, baik berupa barang maupun jasa"
+          },
+          {
+            "label": "B",
+            "text": "Penyampaian produk pasar yang mampu menciptakan produk yang bersaing"
+          },
+          {
+            "label": "C",
+            "text": "Penyerahan bahan baku yang tepat waktu dan sering dilakukan"
+          },
+          {
+            "label": "D",
+            "text": "Pemesanan kembali ke pelanggan dalam rantai persediaan"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Implementasi rantai persediaan berkaitan dengan responsivitas dan efisiensi produksi serta pengiriman.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 116,
+        "question": "Perusahaan manufaktur bekerjasama dengan para pemasok yang selaras dengan kebutuhan perusahaan. Supplier dalam mata rantai pasokan termasuk kedalam chain ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "1"
+          },
+          {
+            "label": "B",
+            "text": "2-3"
+          },
+          {
+            "label": "C",
+            "text": "3-4"
+          },
+          {
+            "label": "D",
+            "text": "5-6"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari B menjadi A. Dalam model rantai pasok dasar, supplier berada pada chain 1; hubungan supplier-manufacturer baru membentuk chain 1-2.",
+        "needsReview": false,
+        "auditStatus": "Dikoreksi",
+        "originalKey": "B"
+      },
+      {
+        "number": 117,
+        "question": "Beberapa hal yang dijadikan pertimbangan dalam pengelolaan rantai pasok, antara lain adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Sasaran lingkup pasar dan perilaku pembelian pelanggan"
+          },
+          {
+            "label": "B",
+            "text": "Dasar-dasar teknis produk dan tingkat dukungan pasar"
+          },
+          {
+            "label": "C",
+            "text": "Perputaran persediaan dan pemasaran"
+          },
+          {
+            "label": "D",
+            "text": "Aliran material dan proses produksi"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Sasaran pasar dan perilaku pelanggan adalah pertimbangan strategis dalam pengelolaan rantai pasok.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 118,
+        "question": "Rantai pasok merupakan aktivitas yang berkaitan dengan aliran dan transformasi barang dari bentuk bahan baku hingga sampai ke pengguna akhir, elemen dari rantai pasok diantaranya adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Produksi, persediaan, lokasi dan informasi"
+          },
+          {
+            "label": "B",
+            "text": "Bahan baku, barang setengah jadi dan proyek"
+          },
+          {
+            "label": "C",
+            "text": "Sumber daya manusia, proses inti dan distribusi"
+          },
+          {
+            "label": "D",
+            "text": "Pemasok pusat manufaktur, gudang, pusat distribusi dan sistem transportasi"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Elemen fisik rantai pasok meliputi pemasok, pabrik, gudang, pusat distribusi, dan transportasi.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 119,
+        "question": "Bahan baku merupakan hal penting dalam menghasilkan produk sesuai dengan permintaan dan berkualitas. Sistem yang dikembangkan oleh perusahaan tidak hanya jual beli secara tradisional melainkan lebih kepada pengembangan suatu kerjasama win-win relationship. Hal tersebut bagian dari proses bisnis inti manajemen rantai pasok yang termasuk pada ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Procurement"
+          },
+          {
+            "label": "B",
+            "text": "Supplier"
+          },
+          {
+            "label": "C",
+            "text": "Supply relationship"
+          },
+          {
+            "label": "D",
+            "text": "Partnership"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Procurement (pengadaan) modern melibatkan hubungan kemitraan win-win, bukan sekadar transaksi.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 120,
+        "question": "Perusahaan mempunyai peran dalam menyampaikan produk kepada konsumen, tetapi, tidak semua rantai pasok dapat dikoordinir dan dikelola dengan baik sehingga muncul permasalahan yang terkait dengan...",
+        "options": [
+          {
+            "label": "A",
+            "text": "Produksi, persediaan, lokasi dan informasi"
+          },
+          {
+            "label": "B",
+            "text": "Bahan baku, barang setengah jadi dan proyek"
+          },
+          {
+            "label": "C",
+            "text": "Sumber daya manusia, proses inti dan distribusi"
+          },
+          {
+            "label": "D",
+            "text": "keluhan konsumen, pelatihan tenaga kerja dan pembayaran pesanan"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Masalah koordinasi rantai pasok umumnya terkait produksi, persediaan, lokasi, dan informasi.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      }
+    ]
+  },
+  {
+    "id": "audit-sdm",
+    "title": "Audit SDM",
+    "source": "quiz_embs4322_audit_sdm_audit.md",
+    "total": 120,
+    "questions": [
+      {
+        "number": 1,
+        "question": "Cakupan audit rekrutmen mengenai SOP dan peraturan terkait rekrutmen merupakan audit rekrutmen mengenai….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Integrasi dengan sistem SDM lain"
+          },
+          {
+            "label": "B",
+            "text": "Ketaatan asas"
+          },
+          {
+            "label": "C",
+            "text": "Proses bisnis rekrutmen"
+          },
+          {
+            "label": "D",
+            "text": "Efektivitas"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena fokus pertanyaan adalah kepatuhan terhadap kebijakan, SOP, atau regulasi, sehingga masuk cakupan ketaatan asas/compliance.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 2,
+        "question": "Memperkirakan kebutuhan, ketersediaan SDM dan menyusun rencana aksi dalam audit SDM-BK adalah model audit….",
+        "options": [
+          {
+            "label": "A",
+            "text": "perencanaan SDM"
+          },
+          {
+            "label": "B",
+            "text": "analisa jabatan"
+          },
+          {
+            "label": "C",
+            "text": "rekrutmen SDM"
+          },
+          {
+            "label": "D",
+            "text": "seleksi SDM"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi “perencanaan SDM” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 3,
+        "question": "Instrumen riset yang membandingkan riwayat data terdahulu dengan selection ratio untuk jabatan tertentu, tingkat kehadiran karyawan, atau jumlah jam pelatihan per orang per tahun selama beberapa tahun terakhir merupakan analisis….",
+        "options": [
+          {
+            "label": "A",
+            "text": "wawancara"
+          },
+          {
+            "label": "B",
+            "text": "survei"
+          },
+          {
+            "label": "C",
+            "text": "historis"
+          },
+          {
+            "label": "D",
+            "text": "dokumen"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena konteksnya adalah pengembangan kompetensi, karier, atau program peningkatan kemampuan SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 4,
+        "question": "Berikut ini contoh indikator dari kuesioner audit fungsi perencanaan SDM yaitu ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "peramalan kebutuhan SDM dikaitkan dengan perkembangan bisnis perusahaan di masa depan"
+          },
+          {
+            "label": "B",
+            "text": "perusahaan pernah melakukan analisa jabatan"
+          },
+          {
+            "label": "C",
+            "text": "perusahaan memiliki Standard Operating Procedure (SOP) analisa jabatan"
+          },
+          {
+            "label": "D",
+            "text": "proses rekrutmen dilakukan dengan sistem online"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi “peramalan kebutuhan SDM dikaitkan dengan perkembangan bisnis perusahaan di masa depan” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 5,
+        "question": "Berapakah ROI jika biaya program pelatihan sebesar Rp 40 juta; manfaat program pelatihan sebesar Rp 100 juta….",
+        "options": [
+          {
+            "label": "A",
+            "text": "100 %"
+          },
+          {
+            "label": "B",
+            "text": "125 %"
+          },
+          {
+            "label": "C",
+            "text": "150 %"
+          },
+          {
+            "label": "D",
+            "text": "200 %"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "ROI dihitung dengan rumus (manfaat - biaya) / biaya × 100%, sehingga pilihan final merupakan hasil perhitungan yang sesuai.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 6,
+        "question": "Pendekatan dalam audit SDM dengan cara melakukan benchmarking adalah pendekatan ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "otoritas luar"
+          },
+          {
+            "label": "B",
+            "text": "komparatif"
+          },
+          {
+            "label": "C",
+            "text": "statistik"
+          },
+          {
+            "label": "D",
+            "text": "ketaatan terhadap regulasi"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “komparatif” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 7,
+        "question": "Kompetensi teknis seperti kompetensi bidang marketing, bidang keuangan, manajemen karier, dan hubungan industrial yang harus dimiliki pegawai agar dapat melaksanakan pekerjaan dengan baik dan sesuai harapan adalah jenis kompetensi….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Managerial"
+          },
+          {
+            "label": "B",
+            "text": "Generik"
+          },
+          {
+            "label": "C",
+            "text": "Soft Competencies"
+          },
+          {
+            "label": "D",
+            "text": "Hard Competencies"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena istilah tersebut paling sesuai dengan audit berbasis kompetensi yang menilai kesesuaian kemampuan, perilaku, atau standar kompetensi SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 8,
+        "question": "Audit cost benefit analysis dapat dilakukan dengan metode menghitung ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Return on Investment"
+          },
+          {
+            "label": "B",
+            "text": "Breakeven cost"
+          },
+          {
+            "label": "C",
+            "text": "Net Present Value"
+          },
+          {
+            "label": "D",
+            "text": "Payback periode"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi ini paling sesuai dengan jenis biaya atau metrik biaya SDM yang sedang ditanyakan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 9,
+        "question": "Salah satu cakupan audit seleksi ketaatan asas terhadap kebijakan adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "audit integrasi seleksi dengan sistem SDM lainnya"
+          },
+          {
+            "label": "B",
+            "text": "audit terkait biaya dalam pelaksanaan program seleksi"
+          },
+          {
+            "label": "C",
+            "text": "audit kesesuaian praktik seleksi dengan SOP"
+          },
+          {
+            "label": "D",
+            "text": "audit terkait kesesuain jumlah dan kualifikasi SDM"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena fokus pertanyaan adalah kepatuhan terhadap kebijakan, SOP, atau regulasi, sehingga masuk cakupan ketaatan asas/compliance.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 10,
+        "question": "Dalam melakukan pendekatan terhadap isu disiplin sangat ditentukan oleh filosofi yang dianut oleh pimpinan di suatu perusahaan. Jika manajemen melakukan tindakan disiplin dengan tujuan untuk membentuk perilaku individu, maka audit yang diterapkan berdasarkan pendekatan ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "tradisional"
+          },
+          {
+            "label": "B",
+            "text": "sasaran kerja"
+          },
+          {
+            "label": "C",
+            "text": "sistem sosial"
+          },
+          {
+            "label": "D",
+            "text": "fungsional"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi “sistem sosial” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 11,
+        "question": "Pernyataan di bawah ini adalah paradigma baru audit kondisi lingkungan kerja dalam penerapan program K3, yaitu ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "mengacu pada prinsip penyempurnaan berkelanjutan"
+          },
+          {
+            "label": "B",
+            "text": "mengacu pada upaya pemenuhan peraturan"
+          },
+          {
+            "label": "C",
+            "text": "fokus pada hasil dan sistem K3 bersifat paralel"
+          },
+          {
+            "label": "D",
+            "text": "ukuran kinerja dipandang dari aspek biaya"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi “mengacu pada prinsip penyempurnaan berkelanjutan” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 12,
+        "question": "Audit yang dilakukan dengan cara mengevaluasi kesesuaian kompetensi pelamar dengan kebutuhan perusahaan adalah audit….",
+        "options": [
+          {
+            "label": "A",
+            "text": "perencanaan SDM-BK"
+          },
+          {
+            "label": "B",
+            "text": "perencanaan strategik SDM"
+          },
+          {
+            "label": "C",
+            "text": "penilaian kinerja berbasis kompetensi"
+          },
+          {
+            "label": "D",
+            "text": "pengembangan karier berbasis kompetensi"
+          }
+        ],
+        "correctLabels": [],
+        "explanation": "Audit menandai soal ini perlu revisi opsi. Secara konsep, mengevaluasi kesesuaian kompetensi pelamar dengan kebutuhan perusahaan adalah audit seleksi berbasis kompetensi. Opsi tersebut tidak tersedia. Opsi D “pengembangan karier berbasis kompetensi” tidak tepat karena pelamar belum berada pada tahap pengembangan karier internal.",
+        "needsReview": true,
+        "auditStatus": "Perlu Review/Opsi Bermasalah",
+        "originalKey": "D"
+      },
+      {
+        "number": 13,
+        "question": "Salah satu cakupan audit balas jasa berbasis kompetensi yaitu ketaatan asas yang dijalankan berdasarkan ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "kebijakan, Standard Operating Procedure (SOP) dan peraturan-peraturan"
+          },
+          {
+            "label": "B",
+            "text": "biaya-biaya yang dikeluarkan dalam pelaksanaan atau implementasi balas jasa"
+          },
+          {
+            "label": "C",
+            "text": "sistem informasi MSDM dalam penilaian kinerja dan pelatihan"
+          },
+          {
+            "label": "D",
+            "text": "proses analisis jabatan sebagai input standar kinerja"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena fokus pertanyaan adalah kepatuhan terhadap kebijakan, SOP, atau regulasi, sehingga masuk cakupan ketaatan asas/compliance.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 14,
+        "question": "Dalam menentukan kompensasi, mutasi, promosi, demosi, pemberhentian dan pemutusan hubungan kerja dapat dilakukan melalui proses evaluasi pegawai berbasis kompetensi. Hal ini menjadi dasar dalam audit ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "kompensasi"
+          },
+          {
+            "label": "B",
+            "text": "balas jasa"
+          },
+          {
+            "label": "C",
+            "text": "penilaian kinerja"
+          },
+          {
+            "label": "D",
+            "text": "jabatan"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena istilah tersebut paling sesuai dengan audit berbasis kompetensi yang menilai kesesuaian kemampuan, perilaku, atau standar kompetensi SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 15,
+        "question": "Audit tingkat kehadiran peserta pelatihan adalah audit persentase rasio dari ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Jumlah Peserta dan Kapasitas Ruangan"
+          },
+          {
+            "label": "B",
+            "text": "Jam Peserta Pelatihan dan Kapasitas Ruangan"
+          },
+          {
+            "label": "C",
+            "text": "Jumlah Peserta dan Jam Pelatihan"
+          },
+          {
+            "label": "D",
+            "text": "Jam Pelatihan Peserta dan Jumlah Peserta"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena konteksnya adalah pengembangan kompetensi, karier, atau program peningkatan kemampuan SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 16,
+        "question": "Berikut ini yang merupakan cakupan audit ketaatan internal adalah ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Proses Induksi dan regulasi"
+          },
+          {
+            "label": "B",
+            "text": "Proses seleksi dan hubungan industri"
+          },
+          {
+            "label": "C",
+            "text": "Proses penempatan pegawai dan kontrak kerja pegawai"
+          },
+          {
+            "label": "D",
+            "text": "SOP dan regulasi"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena fokus pertanyaan adalah kepatuhan terhadap kebijakan, SOP, atau regulasi, sehingga masuk cakupan ketaatan asas/compliance.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 17,
+        "question": "Audit survei kepuasan kerja, menurut Herzberg dilakukan pada 2 kebutuhan karyawan yaitu ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Motivator & Challenge"
+          },
+          {
+            "label": "B",
+            "text": "Hygiene & Sallary"
+          },
+          {
+            "label": "C",
+            "text": "Ketaatan"
+          },
+          {
+            "label": "D",
+            "text": "Hygiene & Motivator"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena opsi “Hygiene & Motivator” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 18,
+        "question": "Audit yang dilakukan untuk mengetahui tingkat karyawan yang mengundurkan diri dengan alasan bekerja di tempat lain, menikah, punya anak, melanjutkan sekolah atau ingin membuka usaha merupakan audit employee ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "retention"
+          },
+          {
+            "label": "B",
+            "text": "turnover"
+          },
+          {
+            "label": "C",
+            "text": "development"
+          },
+          {
+            "label": "D",
+            "text": "attraction"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “turnover” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 19,
+        "question": "Di sebuah perusahaan auditor menemukan seorang pegawai tidak memenuhi target produksi. Apa yang harus diperiksa oleh auditor dari aspek pengembangan diri? ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Reward & punishment dari perusahaan."
+          },
+          {
+            "label": "B",
+            "text": "Pembelajaran & Perubahan target."
+          },
+          {
+            "label": "C",
+            "text": "Perbaikan cara kerja & perubahan target."
+          },
+          {
+            "label": "D",
+            "text": "Umpan balik & perbaikan cara kerja."
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena pertanyaan mengarah pada pengukuran, perencanaan, atau pengendalian pencapaian kinerja terhadap standar.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 20,
+        "question": "Era yang menekankan pengelolaan SDM pada peningkatan kemampuan organisasi dalam mengambil keputusan adalah ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "personalia"
+          },
+          {
+            "label": "B",
+            "text": "human resource"
+          },
+          {
+            "label": "C",
+            "text": "talent management"
+          },
+          {
+            "label": "D",
+            "text": "human capital"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena opsi “human capital” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 21,
+        "question": "Hal yang harus dicermati auditor dalam penghitungan tingkat lowongan pekerjaan yang tinggi yaitu ketepatan metode yang digunakan untuk mengetahui ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "tingkat perputaran karyawan"
+          },
+          {
+            "label": "B",
+            "text": "formasi karyawan"
+          },
+          {
+            "label": "C",
+            "text": "jumlah karyawan yang terkena PHK"
+          },
+          {
+            "label": "D",
+            "text": "kualitas karyawan yang melamar"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi “tingkat perputaran karyawan” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal. Catatan: Kunci dokumen tetap dipakai, tetapi redaksi “tingkat lowongan pekerjaan” cukup dekat dengan vacancy/recruitment effectiveness sehingga bisa membingungkan bila dimaksudkan bukan turnover.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 22,
+        "question": "Pendekatan yang menekankan pada keberhasilan mendapatkan input sumber daya yang memiliki nilai tambah dalam audit efektivitas departemen / unit kerja SDM adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "resource approach"
+          },
+          {
+            "label": "B",
+            "text": "internal process apporach"
+          },
+          {
+            "label": "C",
+            "text": "goal approach"
+          },
+          {
+            "label": "D",
+            "text": "external process approach"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi “resource approach” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 23,
+        "question": "Paradigma lama pada sistem remunerasi / sistem penggajian, imbalan dirancang dan ditetapkan berdasarkan ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "pekerjaan, lingkup tugas, senioritas, dan kinerja individu"
+          },
+          {
+            "label": "B",
+            "text": "pekerjaan, keadilan internal, range gaji dan nilai individu"
+          },
+          {
+            "label": "C",
+            "text": "pekerjaan, lingkup tugas, senioritas, dan keadilan internal"
+          },
+          {
+            "label": "D",
+            "text": "kinerja, nilai individu, keadilan pasar dan fleksibilitas"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi “pekerjaan, lingkup tugas, senioritas, dan keadilan internal” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 24,
+        "question": "Audit momen of truth dilakukan pada industri... dan dilakukan pada langkah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "seluruh industri dan pada titik terjadinya layanan pada konsumen"
+          },
+          {
+            "label": "B",
+            "text": "industri produk dan di area customer services"
+          },
+          {
+            "label": "C",
+            "text": "jasa dan pada di area customer services"
+          },
+          {
+            "label": "D",
+            "text": "jasa dan pada titik terjadinya layanan pada konsumen"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena opsi “jasa dan pada titik terjadinya layanan pada konsumen” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 25,
+        "question": "Apa yang harus diperiksa dan dicermati oleh auditor dalam melakukan audit HR Information System pada fungsi pengembangan karier berbasis teknologi informasi, adalah ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "apakah telah memiliki model talent maping yang tepat"
+          },
+          {
+            "label": "B",
+            "text": "apakah efektif"
+          },
+          {
+            "label": "C",
+            "text": "apakah efisien"
+          },
+          {
+            "label": "D",
+            "text": "apakah dipahami karyawan & HR"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena konteksnya adalah pengembangan kompetensi, karier, atau program peningkatan kemampuan SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 26,
+        "question": "Dalam kuesioner Audit fungsi pengembangan dan pemeliharaan sumber daya manusia berbasis kompetensi, hal yang harus ditanyakan dalam pemetaan SDM adalah inventory….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Manajemen & Karyawan"
+          },
+          {
+            "label": "B",
+            "text": "Karyawan & Tenaga Profesional"
+          },
+          {
+            "label": "C",
+            "text": "Manajemen & Tenaga Profesional"
+          },
+          {
+            "label": "D",
+            "text": "Manajemen & Staff Lapangan"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena istilah tersebut paling sesuai dengan audit berbasis kompetensi yang menilai kesesuaian kemampuan, perilaku, atau standar kompetensi SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 27,
+        "question": "Sebuah perusahaan memiliki total jam kerja bulan tertentu 40.000 jam kerja. Total karyawan 200 orang, karyawan yang absen 50 orang dengan total jam kerja hilang 100 jam kerja. Tentukan berapa absence rate nya ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "0,1 %"
+          },
+          {
+            "label": "B",
+            "text": "0,2 %"
+          },
+          {
+            "label": "C",
+            "text": "0,25 %"
+          },
+          {
+            "label": "D",
+            "text": "0,5 %"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Absence rate dihitung dari jam kerja yang hilang dibandingkan total jam kerja, lalu dikalikan 100%.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 28,
+        "question": "Tingkat jabatan pelaksana dan profesional dalam audit biaya jabatan termasuk kedalam….",
+        "options": [
+          {
+            "label": "A",
+            "text": "struktural"
+          },
+          {
+            "label": "B",
+            "text": "pegawai nonstruktural"
+          },
+          {
+            "label": "C",
+            "text": "pimpinan puncak"
+          },
+          {
+            "label": "D",
+            "text": "pimpinan madya"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi ini paling sesuai dengan jenis biaya atau metrik biaya SDM yang sedang ditanyakan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 29,
+        "question": "Apa yang harus diaudit di perusahaan untuk mengetahui efektifitas menjaring aspirasi karyawan di portal karyawan? ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Jumlah pendekatan represif perusahaan"
+          },
+          {
+            "label": "B",
+            "text": "Jumlah keluhan dan aspirasi karyawan secara proaktif"
+          },
+          {
+            "label": "C",
+            "text": "Tingkat kepuasan karyawan"
+          },
+          {
+            "label": "D",
+            "text": "Tingkat ketidakpuasan karyawan"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “Jumlah keluhan dan aspirasi karyawan secara proaktif” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 30,
+        "question": "Audit informasi biaya pelatihan sangat dibutuhkan oleh perusahaan untuk ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "menentukan tujuan pelatihan"
+          },
+          {
+            "label": "B",
+            "text": "menetapkan SOP pelatihan"
+          },
+          {
+            "label": "C",
+            "text": "mengevaluasi proporsi biaya pengembangan, administrasi dan evaluasi pelatihan"
+          },
+          {
+            "label": "D",
+            "text": "mendesain program pelatihan"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi ini paling sesuai dengan jenis biaya atau metrik biaya SDM yang sedang ditanyakan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 31,
+        "question": "Pada saat dilakukan audit pengembangan organisasi departemen SDM dari perspektif individu, seorang auditor akan memeriksa keselarasan peningkatan kompetensi dengan….",
+        "options": [
+          {
+            "label": "A",
+            "text": "sistem prosedur SDM"
+          },
+          {
+            "label": "B",
+            "text": "peraturan SDM"
+          },
+          {
+            "label": "C",
+            "text": "bentuk organisasi SDM"
+          },
+          {
+            "label": "D",
+            "text": "efektivitas SDM"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena istilah tersebut paling sesuai dengan audit berbasis kompetensi yang menilai kesesuaian kemampuan, perilaku, atau standar kompetensi SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 32,
+        "question": "Audit terhadap seberapa besar perusahaan mengeluarkan biaya pengadaan SDM adalah audit ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Recruitment Cost"
+          },
+          {
+            "label": "B",
+            "text": "Cost per hire"
+          },
+          {
+            "label": "C",
+            "text": "Selection Cost"
+          },
+          {
+            "label": "D",
+            "text": "Turn Over Cost"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi ini paling sesuai dengan jenis biaya atau metrik biaya SDM yang sedang ditanyakan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 33,
+        "question": "Keadaan yang mencerminkan situasi serius dan dapat berdampak pada setiap individu di lingkungan perusahaan atau pada kualitas produk maupun pelayanan serta harus segera ditangani merupakan indikator….",
+        "options": [
+          {
+            "label": "A",
+            "text": "ketidaksesuaian major"
+          },
+          {
+            "label": "B",
+            "text": "ketidaksesuaian minor"
+          },
+          {
+            "label": "C",
+            "text": "temuan tingkat keseriusan major"
+          },
+          {
+            "label": "D",
+            "text": "temuan tingkat keseriusan minor"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi “ketidaksesuaian major” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 34,
+        "question": "Proses visualisasi dari strategi dan proses audit dalam perencanaan audit manajemen SDM berbasis kompetensi merupakan suatu ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "target audit"
+          },
+          {
+            "label": "B",
+            "text": "kebijakan audit"
+          },
+          {
+            "label": "C",
+            "text": "schedule audit"
+          },
+          {
+            "label": "D",
+            "text": "roadmap audit"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena istilah tersebut paling sesuai dengan audit berbasis kompetensi yang menilai kesesuaian kemampuan, perilaku, atau standar kompetensi SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 35,
+        "question": "Output manajemen SDM pada model strategik dalam audit SDM berbasis kompetensi, adalah ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "balas jasa"
+          },
+          {
+            "label": "B",
+            "text": "penilaian kinerja"
+          },
+          {
+            "label": "C",
+            "text": "kompeten"
+          },
+          {
+            "label": "D",
+            "text": "karier"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena istilah tersebut paling sesuai dengan audit berbasis kompetensi yang menilai kesesuaian kemampuan, perilaku, atau standar kompetensi SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 36,
+        "question": "Aktivitas audit Manajemen SDM meliputi jenjang karir, kesejahteraan dan hubungan industrial merupakan audit aktivitas MSDM….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Attraction"
+          },
+          {
+            "label": "B",
+            "text": "Retention"
+          },
+          {
+            "label": "C",
+            "text": "Developement"
+          },
+          {
+            "label": "D",
+            "text": "Administration"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “Retention” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 37,
+        "question": "Area utama audit fungsi manajemen SDM yang termasuk dalam fungsi pemeliharaan SDM adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "penilaian kinerja & karier"
+          },
+          {
+            "label": "B",
+            "text": "sistem informasi SDM & penilaian kinerja"
+          },
+          {
+            "label": "C",
+            "text": "pengembangan SDM & hubungan industrial"
+          },
+          {
+            "label": "D",
+            "text": "kinerja SDM & analisa jabatan"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi “pengembangan SDM & hubungan industrial” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal. Catatan: Kunci dokumen tetap dipakai, namun redaksi “fungsi pemeliharaan SDM” bisa dibuat lebih jelas agar tidak tercampur dengan fungsi pengembangan SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 38,
+        "question": "Melakukan audit terhadap hasil pencapaian kinerja karyawan kemudian membandingkan pada standar yang telah ditentukan oleh perusahaan merupakan audit fungsi ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "planning"
+          },
+          {
+            "label": "B",
+            "text": "organizing"
+          },
+          {
+            "label": "C",
+            "text": "leading"
+          },
+          {
+            "label": "D",
+            "text": "controlling"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena pertanyaan mengarah pada pengukuran, perencanaan, atau pengendalian pencapaian kinerja terhadap standar.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 39,
+        "question": "Informasi tentang laporan keuangan telah disusun dengan prinsip akuntansi yang berlaku umum, adalah norma yang harus dilaksanakan pada saat auditor melakukan….",
+        "options": [
+          {
+            "label": "A",
+            "text": "pandangan umum"
+          },
+          {
+            "label": "B",
+            "text": "pelaksanaan audit"
+          },
+          {
+            "label": "C",
+            "text": "pelaporan audit"
+          },
+          {
+            "label": "D",
+            "text": "pengumpulan data awal"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi “pelaporan audit” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 40,
+        "question": "Apa yang dimaksud dengan Analisis yang dilakukan secara kontekstual pada temuan audit, yaitu analisis pada ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "saat audit dilakukan"
+          },
+          {
+            "label": "B",
+            "text": "waktu pelaporan audit"
+          },
+          {
+            "label": "C",
+            "text": "waktu dan kondisi di mana antivitas yang diaudit terjadi"
+          },
+          {
+            "label": "D",
+            "text": "saat mencari bukti audit"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi “waktu dan kondisi di mana antivitas yang diaudit terjadi” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 41,
+        "question": "Audit terhadap cara perusahaan membangun relasi, mendapatkan referensi pegawai, referensi pemasok dan pelanggan, merupakan audit dalam proses memperluas ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "analisis jabatan"
+          },
+          {
+            "label": "B",
+            "text": "proses rekrutmen"
+          },
+          {
+            "label": "C",
+            "text": "candidate pools"
+          },
+          {
+            "label": "D",
+            "text": "proses seleksi"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi “candidate pools” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 42,
+        "question": "Audit perencanaan SDM berbasis kompetensi digunakan untuk memperkirakan permintaan dan ketersedian SDM di masa yang akan datang melalui analisa ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "auditor dan auditee"
+          },
+          {
+            "label": "B",
+            "text": "efesiensi dan efektivitas"
+          },
+          {
+            "label": "C",
+            "text": "output dan input"
+          },
+          {
+            "label": "D",
+            "text": "eksternal dan internal"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena istilah tersebut paling sesuai dengan audit berbasis kompetensi yang menilai kesesuaian kemampuan, perilaku, atau standar kompetensi SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 43,
+        "question": "Kompetensi auditor yang termasuk dalam kompetensi sistem manajemen untuk keberhasilan audit Manajemen SDM berbasis kompetensi adalah",
+        "options": [
+          {
+            "label": "A",
+            "text": "Memegang kerahasiaan informasi"
+          },
+          {
+            "label": "B",
+            "text": "Komunikasi efektif"
+          },
+          {
+            "label": "C",
+            "text": "Memahami berbagai proses bisnis"
+          },
+          {
+            "label": "D",
+            "text": "Memahami perbedaan berbagai standar referensi"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari A menjadi D. Kompetensi sistem manajemen auditor lebih tepat berkaitan dengan pemahaman standar/referensi sistem manajemen. “Memegang kerahasiaan informasi” lebih dekat ke karakteristik personal/etika auditor, bukan kompetensi sistem manajemen.",
+        "needsReview": false,
+        "auditStatus": "Dikoreksi",
+        "originalKey": "A"
+      },
+      {
+        "number": 44,
+        "question": "Apa yang harus ditanyakan dalam kuesioner audit fungsi rekrutmen ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Jumlah yang melamar"
+          },
+          {
+            "label": "B",
+            "text": "Efisiensi rekrutmen"
+          },
+          {
+            "label": "C",
+            "text": "Proses rekrutmen diawali dari permintaan pegawai dari user"
+          },
+          {
+            "label": "D",
+            "text": "Jumah yang mengikuti proses seleksi"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena proses yang dibahas berkaitan dengan pengadaan, penjaringan, atau pemilihan calon pegawai.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 45,
+        "question": "PT. Gembira Ria memperoleh benefit dari kebijakan oursourcing tenaga ahli IT sebesar 1,2 M, sedangkan biaya konsultasi yang harus dibayarkan bila kebijakan tersebut tidak diterapkan sebesar Rp750 juta, biaya transaction cost Rp100 juta maka besarnya ROI dari kebijakan outsourcing tersebut adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "50%"
+          },
+          {
+            "label": "B",
+            "text": "45%"
+          },
+          {
+            "label": "C",
+            "text": "40%"
+          },
+          {
+            "label": "D",
+            "text": "75%"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "ROI dihitung dengan rumus (manfaat - biaya) / biaya × 100%, sehingga pilihan final merupakan hasil perhitungan yang sesuai.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 46,
+        "question": "Model audit SDM sebaiknya merupakan model yang berbasis proses bisnis dan mengacu pada ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "tanggung jawab etika, tanggung jawab sosial, dan tanggung jawab kepada stakeholder"
+          },
+          {
+            "label": "B",
+            "text": "pertimbangan keselarasan dan konsistensi praktik Manajemen Sumber Daya Manusia"
+          },
+          {
+            "label": "C",
+            "text": "integrasi antara setiap subsistem Sumber Daya Manusia yang saling mendukung"
+          },
+          {
+            "label": "D",
+            "text": "subsistem Sumber Daya Manusia melalui pendekatan input-proses-output"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena opsi “subsistem Sumber Daya Manusia melalui pendekatan input-proses-output” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 47,
+        "question": "Kompetensi pegawai dan pejabat yang harus diperiksa auditor di era Hyperbrave New World adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "mempertahankan SOP saat ini"
+          },
+          {
+            "label": "B",
+            "text": "membangun spirit enterpreneur"
+          },
+          {
+            "label": "C",
+            "text": "membangun budaya statis"
+          },
+          {
+            "label": "D",
+            "text": "efisiensi Karyawan"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena istilah tersebut paling sesuai dengan audit berbasis kompetensi yang menilai kesesuaian kemampuan, perilaku, atau standar kompetensi SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 48,
+        "question": "Audit biaya umum dengan menggunakan metode Return on Investment program SDM mencerminkan keuntungan investasi di bidang SDM dengan mempertimbangkan ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Fixed cost dan non variable cost"
+          },
+          {
+            "label": "B",
+            "text": "Fixed cost dan variable cost"
+          },
+          {
+            "label": "C",
+            "text": "Variable cost dan administration cost"
+          },
+          {
+            "label": "D",
+            "text": "Accident cost"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi ini paling sesuai dengan jenis biaya atau metrik biaya SDM yang sedang ditanyakan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 49,
+        "question": "Untuk membuktikan apakah tes kognitif dilakukan, auditor harus menggalinya pada tahap tes ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "potensi"
+          },
+          {
+            "label": "B",
+            "text": "tertulis"
+          },
+          {
+            "label": "C",
+            "text": "keahlian profesi"
+          },
+          {
+            "label": "D",
+            "text": "wawancara"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi “potensi” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 50,
+        "question": "Proses audit pendekatan disiplin atas dasar sasaran kerja, dilakukan dengan memeriksa....",
+        "options": [
+          {
+            "label": "A",
+            "text": "keefektifan hukuman bagi yang melanggar"
+          },
+          {
+            "label": "B",
+            "text": "pembentukan perilaku disiplin kerja"
+          },
+          {
+            "label": "C",
+            "text": "corrective Discipline"
+          },
+          {
+            "label": "D",
+            "text": "propossional Hukuman"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “pembentukan perilaku disiplin kerja” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 51,
+        "question": "Perbedaan paradigm lama dan paradigma baru dalam audit kondisi lingkungan kerja pada aspek SDM adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "pada paradigma lama ukuran kinerja dipandang dari aspek biaya sedangkan paradigma baru program K3 merupakan bagian dari penilaian kinerja"
+          },
+          {
+            "label": "B",
+            "text": "pada paradigma lama mengacu pada upaya pemenuhan peraturan sedangkan paradigm baru mengacu pada prinsip penyempurnaan berkelanjutan"
+          },
+          {
+            "label": "C",
+            "text": "gaya manajemen pada paradigma lama cenderung menggunakan perintah dan control sedangkan pada paradigm baru bersifat partisipatif dan konsultatif"
+          },
+          {
+            "label": "D",
+            "text": "sistem manajemen pada paradigma lama lebih fokus pada hasil dan sistem K3 bersifat parallel sedangkan pada paradigm baru fokus pada proses"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “pada paradigma lama mengacu pada upaya pemenuhan peraturan sedangkan paradigm baru mengacu pada prinsip penyempurnaan berkelanjutan” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 52,
+        "question": "Analisa kebutuhan, perumusan sasaran pembinaan dan peningkatan kompetensi merupakan cakupan dari audit….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Perencanaan SDM-BK"
+          },
+          {
+            "label": "B",
+            "text": "Perencanaan strategik SDM"
+          },
+          {
+            "label": "C",
+            "text": "Karier berbasis kompetensi"
+          },
+          {
+            "label": "D",
+            "text": "Pelatihan dan pengembangan SDM-BK"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena istilah tersebut paling sesuai dengan audit berbasis kompetensi yang menilai kesesuaian kemampuan, perilaku, atau standar kompetensi SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 53,
+        "question": "Audit yang dilakukan terhadap proses sistematis untuk menentukan nilai relatif jabatan adalah ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "analisa jabatan"
+          },
+          {
+            "label": "B",
+            "text": "kriteria jabatan"
+          },
+          {
+            "label": "C",
+            "text": "evaluasi jabatan"
+          },
+          {
+            "label": "D",
+            "text": "tingkat jabatan"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi “evaluasi jabatan” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 54,
+        "question": "Sebagai seorang auditor perlu memeriksa apakah proses manajemen kinerja telah mencakup aktivitas perencanaan kinerja. Untuk itu auditor perlu memeriksa audit perencanaan kinerja tentang….",
+        "options": [
+          {
+            "label": "A",
+            "text": "komunikasi dua arah untuk memastikan pekerjaan berjalan pada rencana atau jalur yang telah ditentukan"
+          },
+          {
+            "label": "B",
+            "text": "pencarian informasi mengenai kinerja individu dan unit"
+          },
+          {
+            "label": "C",
+            "text": "kerjasama antara manajemen dan karyawan dalam mengidentifikasi, memahami, dan menyepakati apa yang harus dikerjakan"
+          },
+          {
+            "label": "D",
+            "text": "evaluasi kinerja seorang pegawai pada periode tertentu"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena pertanyaan mengarah pada pengukuran, perencanaan, atau pengendalian pencapaian kinerja terhadap standar.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 55,
+        "question": "Pengembangan SDM yang berfungsi untuk terus mempertahankan dan meningkatkan kompetensi karyawan, baik pengetahuan, keterampilan, sikap atau perilaku karyawan sehingga dapat menghasilkan kinerja yang maksimal adalah kepentingan dari sisi ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "perusahaan"
+          },
+          {
+            "label": "B",
+            "text": "pekerja"
+          },
+          {
+            "label": "C",
+            "text": "pekerja dan perusahaan"
+          },
+          {
+            "label": "D",
+            "text": "serikat pekerja"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena istilah tersebut paling sesuai dengan audit berbasis kompetensi yang menilai kesesuaian kemampuan, perilaku, atau standar kompetensi SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 56,
+        "question": "Audit ketaatan asas terkait dengan peran strategik SDM, teknikal, dan keuangan merupakan audit ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "kondisi lingkungan kerja"
+          },
+          {
+            "label": "B",
+            "text": "innovation"
+          },
+          {
+            "label": "C",
+            "text": "legal"
+          },
+          {
+            "label": "D",
+            "text": "compliance"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena fokus pertanyaan adalah kepatuhan terhadap kebijakan, SOP, atau regulasi, sehingga masuk cakupan ketaatan asas/compliance.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 57,
+        "question": "Hal yang perlu diperiksa oleh auditor dalam situasi dan lingkungan kerja, kecuali….",
+        "options": [
+          {
+            "label": "A",
+            "text": "aspek keamanan"
+          },
+          {
+            "label": "B",
+            "text": "kenyamanan"
+          },
+          {
+            "label": "C",
+            "text": "budaya perusahaan"
+          },
+          {
+            "label": "D",
+            "text": "cara berperilaku pegawai"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi “budaya perusahaan” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 58,
+        "question": "Berikut ini merupakan cara yang umum digunakan untuk menghitung tingkat perputaran karyawan adalah dengan ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "separation rate, resignation rate, avoidable turnover"
+          },
+          {
+            "label": "B",
+            "text": "separation rate, resignation rate, unavoidble turnover"
+          },
+          {
+            "label": "C",
+            "text": "resignation rate, unavoidable rate, talent management"
+          },
+          {
+            "label": "D",
+            "text": "separation rate, avoidable rate, talent management"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi “separation rate, resignation rate, avoidable turnover” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 59,
+        "question": "Upaya merangsang olah pikir pegawai untuk memenuhi kebutuhan realisasi diri dapat dilakukan dengan cara….",
+        "options": [
+          {
+            "label": "A",
+            "text": "memberikan tugas yang menantang"
+          },
+          {
+            "label": "B",
+            "text": "memberikan gaji dan upah yang adil"
+          },
+          {
+            "label": "C",
+            "text": "memahami sisi pribadi pegawai"
+          },
+          {
+            "label": "D",
+            "text": "mengakrabkan hubungan interpersonal atasan-bawahan"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi “memberikan tugas yang menantang” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 60,
+        "question": "Indikator yang diaudit sebagai ukuran keberhasilan investasi audit SDM adalah ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "internal talent strength"
+          },
+          {
+            "label": "B",
+            "text": "respone time per information request"
+          },
+          {
+            "label": "C",
+            "text": "employee development opportunities"
+          },
+          {
+            "label": "D",
+            "text": "employee competency growth"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena opsi “employee competency growth” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 61,
+        "question": "Terganggunya kegiatan operasional yang dapat menimbulkan potensi kerugian bagi perusahaan karena tidak memiliki jumlah dan kualifikasi SDM yang dibutuhkan merupakan salah satu bagian risiko ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "kekosongan jabatan"
+          },
+          {
+            "label": "B",
+            "text": "merekrut profesional dari luar"
+          },
+          {
+            "label": "C",
+            "text": "menurunnya produktivitas"
+          },
+          {
+            "label": "D",
+            "text": "meningkatnya jumlah kesalahan"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi “kekosongan jabatan” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 62,
+        "question": "Indikator untuk mengukur audit efektivitas organisasi dalam unit kerja SDM diantaranya adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "tingkat keluhan pegawai"
+          },
+          {
+            "label": "B",
+            "text": "tingkat kehadiran dan turnover pegawai"
+          },
+          {
+            "label": "C",
+            "text": "kemampuan kognitif pegawai"
+          },
+          {
+            "label": "D",
+            "text": "budaya perusahaan yang kuat dan iklim kerja yang positif"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena opsi “budaya perusahaan yang kuat dan iklim kerja yang positif” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 63,
+        "question": "Apa yang perlu diperhatikan auditor saat evaluasi besaran gaji pokok pada besaran gaji karyawan (Take Home Pay )? ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Keadilan eksternal"
+          },
+          {
+            "label": "B",
+            "text": "Salary index"
+          },
+          {
+            "label": "C",
+            "text": "Performance Index"
+          },
+          {
+            "label": "D",
+            "text": "Compa ratio"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena opsi “Compa ratio” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 64,
+        "question": "Menghitung rasio antara jumlah jam lembur dengan jumlah karyawan adalah audit metode menghitung tingkat….",
+        "options": [
+          {
+            "label": "A",
+            "text": "absensi"
+          },
+          {
+            "label": "B",
+            "text": "lembur"
+          },
+          {
+            "label": "C",
+            "text": "turnover"
+          },
+          {
+            "label": "D",
+            "text": "jam kerja"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “lembur” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 65,
+        "question": "Proses pemeriksaan interaksi pejabat SDM terkait dengan penggunaan internet dalam mengirim formulir pertanyaan terstandar kepada seluruh pegawai merupakan contoh salah satu kegiatan audit fungsi analisa jabatan berbasis teknologi informasi dengan menggunakan ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "metode penelitian"
+          },
+          {
+            "label": "B",
+            "text": "sumber media digital"
+          },
+          {
+            "label": "C",
+            "text": "media digital"
+          },
+          {
+            "label": "D",
+            "text": "perangkat penyampaian data"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi “media digital” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 66,
+        "question": "Ketersediaan SOP, portofolio SDM serta sarana dan prasarana pusat pelatihan yang baik merupakan indikator kunci keberhasilan audit fungsi ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "manajemen karier"
+          },
+          {
+            "label": "B",
+            "text": "pelatihan dan pengembangan"
+          },
+          {
+            "label": "C",
+            "text": "penilaian kinerja"
+          },
+          {
+            "label": "D",
+            "text": "kompensasi"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena fokus pertanyaan adalah kepatuhan terhadap kebijakan, SOP, atau regulasi, sehingga masuk cakupan ketaatan asas/compliance.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 67,
+        "question": "Metode menghitung tingkat kehadiran karyawan yang direkomendasikan oleh Productivity Council of Australia (PCA) adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "proses ban berjalan"
+          },
+          {
+            "label": "B",
+            "text": "total labour hours"
+          },
+          {
+            "label": "C",
+            "text": "frequency rate"
+          },
+          {
+            "label": "D",
+            "text": "zero defect"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “total labour hours” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 68,
+        "question": "Perhitungan gaji berdasarkan evaluasi jabatan dilakukan terhadap ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Tingkat jabatan"
+          },
+          {
+            "label": "B",
+            "text": "Nilai Jabatan"
+          },
+          {
+            "label": "C",
+            "text": "Golongan jabatan"
+          },
+          {
+            "label": "D",
+            "text": "Posisi jabatan"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “Nilai Jabatan” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 69,
+        "question": "Bagi perusahaan, mengetahui keluhan karyawan dan kemudian menindaklanjuti keluhan tersebut merupakan langkah penting. Sebab dengan demikian perusahaan dapat ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "mengukur tingkat absensi"
+          },
+          {
+            "label": "B",
+            "text": "mengetahui apa aspirasi karyawan"
+          },
+          {
+            "label": "C",
+            "text": "mengukur tingkat kesalahan"
+          },
+          {
+            "label": "D",
+            "text": "mengukur burnout"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “mengetahui apa aspirasi karyawan” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 70,
+        "question": "Audit biaya langsung dalam pelatihan mencakup biaya ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Instruktur, konsultan, perancangan program, ruangan, materi pelatihan, peralatan dan imbal jasa staf adminstrasi"
+          },
+          {
+            "label": "B",
+            "text": "Alat kantor, konsultan, perancangan program, ruangan, materi pelatihan, peralatan dan perjalanan"
+          },
+          {
+            "label": "C",
+            "text": "Instruktur, konsultan, perancangan program, ruangan, materi pelatihan, peralatan dan perjalanan"
+          },
+          {
+            "label": "D",
+            "text": "Alat kantor, konsultan, perancangan program, ruangan, materi pelatihan, peralatan dan imbal jasa staf administrasi"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi ini paling sesuai dengan jenis biaya atau metrik biaya SDM yang sedang ditanyakan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 71,
+        "question": "HR Functional apa yang diaudit pada dimensi fleksibilitas pola bentuk organisasi unit SDM? ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Tenaga Expert Bidang HR di perusahaan"
+          },
+          {
+            "label": "B",
+            "text": "Nilai Corporate"
+          },
+          {
+            "label": "C",
+            "text": "HR Corporate"
+          },
+          {
+            "label": "D",
+            "text": "Mandat dari sumber internal"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena opsi “Mandat dari sumber internal” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 72,
+        "question": "Core efficiency adalah audit MSDM yang mengukur….",
+        "options": [
+          {
+            "label": "A",
+            "text": "biaya pengadaan SDM"
+          },
+          {
+            "label": "B",
+            "text": "biaya pelatihan"
+          },
+          {
+            "label": "C",
+            "text": "biaya gaji dan tunjangan"
+          },
+          {
+            "label": "D",
+            "text": "biaya pengembangan SDM"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Audit mengoreksi kunci dokumen dari D menjadi A. Core efficiency dalam audit MSDM umumnya mengukur efisiensi inti fungsi SDM, seperti HR expenses per employee dan cost per hire. Karena itu opsi “biaya pengadaan SDM” paling dekat; opsi “biaya pengembangan SDM” terlalu sempit dan tidak konsisten dengan indikator core efficiency pada soal lain.",
+        "needsReview": false,
+        "auditStatus": "Dikoreksi",
+        "originalKey": "D"
+      },
+      {
+        "number": 73,
+        "question": "Pembahasan yang dilakukan antara sesama auditor maupun dengan pihak yang diaudit dalam prapelaporan audit adalah tahap ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "diskusi"
+          },
+          {
+            "label": "B",
+            "text": "klarifikasi"
+          },
+          {
+            "label": "C",
+            "text": "analisa temuan"
+          },
+          {
+            "label": "D",
+            "text": "rekomendasi"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi “diskusi” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 74,
+        "question": "Audit MSDM berbasis kompetensi mengungkap kemampuan atau kompetensi SDM yang ahli pada suatu departemen/unit kerja SDM secara individual maupun kemampuan departemen/unit kerja SDM secara keseluruhan (HR Capability). Salah satunya kompetensinya adalah kepemimpinan, yang termasuk dalam kompetensi ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "manajemen bisnis"
+          },
+          {
+            "label": "B",
+            "text": "profesional"
+          },
+          {
+            "label": "C",
+            "text": "teknis SDM"
+          },
+          {
+            "label": "D",
+            "text": "tim SDM"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena istilah tersebut paling sesuai dengan audit berbasis kompetensi yang menilai kesesuaian kemampuan, perilaku, atau standar kompetensi SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 75,
+        "question": "Audit terhadap penjabaran strategi korporat yang dirumuskan dengan mempertimbangkan arah dan transformasi bisnis perusahaan demi mewujudkan sasaran korporat dan memenangkan persaingan di lingkup industri merupakan strategi ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "grand strategy"
+          },
+          {
+            "label": "B",
+            "text": "competitive strategy"
+          },
+          {
+            "label": "C",
+            "text": "functional strategy"
+          },
+          {
+            "label": "D",
+            "text": "performance’s strategy"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi “functional strategy” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal. Catatan: Kunci dokumen tetap dipakai karena konteksnya penjabaran strategi korporat ke strategi fungsional SDM, meskipun frasa “memenangkan persaingan industri” dapat membuat pembaca mengira competitive strategy.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 76,
+        "question": "Pergeseran paradigma SDM telah mengalami perubahan mulai dari personalia, human resources hingga talentship. Pergeseran tersebut berpengaruh terhadap audit, dimana audit SDM saat ini berbasis kompetensi dan fokus pada proses rekrutmen ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "sistem pemberian gaji"
+          },
+          {
+            "label": "B",
+            "text": "sistem kompensasi, sistem pelatihan dan pengembangan karier"
+          },
+          {
+            "label": "C",
+            "text": "pengembangan dan mempertahankan orang-orang yang memilki keahlian"
+          },
+          {
+            "label": "D",
+            "text": "komunikasi dan pelayanan untuk kesehatan dan kesejahteraan pegawai"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena istilah tersebut paling sesuai dengan audit berbasis kompetensi yang menilai kesesuaian kemampuan, perilaku, atau standar kompetensi SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 77,
+        "question": "Audit Sumber Daya Manusia (SDM) merupakan pemeriksaan dan penilaian secara sistematis, objektif, dan terdokumentasi terhadap ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "kualitas fungsi SDM secara menyeluruh dalam suatu departemen, divisi atau perusahaan"
+          },
+          {
+            "label": "B",
+            "text": "kontribusi departemen SDM dalam perusahaan"
+          },
+          {
+            "label": "C",
+            "text": "efektifitas SDM dalam mengenali aspek-aspek yang perlu diperbaiki"
+          },
+          {
+            "label": "D",
+            "text": "proses pengumpulan dan pengevaluasian bahan bukti tentang informasi SDM yang dapat diukur"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi “kualitas fungsi SDM secara menyeluruh dalam suatu departemen, divisi atau perusahaan” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 78,
+        "question": "Penempatan personil pada jabatan yang tepat adalah aktivitas POLC pada langkah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Planning"
+          },
+          {
+            "label": "B",
+            "text": "Organizing"
+          },
+          {
+            "label": "C",
+            "text": "Leading"
+          },
+          {
+            "label": "D",
+            "text": "Controlling"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “Organizing” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 79,
+        "question": "Beberapa karakteristik personal yang penting dimiliki oleh seorang auditor, antara lain….",
+        "options": [
+          {
+            "label": "A",
+            "text": "akuntabel, memiliki filosofi, dan kompleksitas"
+          },
+          {
+            "label": "B",
+            "text": "integritas, reliabilitas, dan empati"
+          },
+          {
+            "label": "C",
+            "text": "bijaksana, fleksibel, dan reliabilitas"
+          },
+          {
+            "label": "D",
+            "text": "simpati, komprehensif, dan profesional"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “integritas, reliabilitas, dan empati” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 80,
+        "question": "Aktivitas di bawah ini yang tidak termasuk dalam aktivitas pada tahap pelaksanaan audit adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Analisis Dokumen"
+          },
+          {
+            "label": "B",
+            "text": "Mewawancarai Auditee"
+          },
+          {
+            "label": "C",
+            "text": "Audit Pendahuluan"
+          },
+          {
+            "label": "D",
+            "text": "Mencari Bukti"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi “Audit Pendahuluan” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 81,
+        "question": "Dibawah ini yang tidak termasuk dalam lingkup model audit rekrutmen adalah audit .…",
+        "options": [
+          {
+            "label": "A",
+            "text": "ketaatan asas terhadap kebijakan, Standar Operasional Baku dan peraturanperaturan penerimaan pegawai."
+          },
+          {
+            "label": "B",
+            "text": "integrasi penerimaan pegawai dengan sistem SDM lainnya antara lain dengan sistem seleksi."
+          },
+          {
+            "label": "C",
+            "text": "integrasi analisa jabatan dengan sistem SDM lainnya."
+          },
+          {
+            "label": "D",
+            "text": "biaya yang dikeluarkan dalam pelaksanaan atau implementasi program penerimaan pegawai."
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena proses yang dibahas berkaitan dengan pengadaan, penjaringan, atau pemilihan calon pegawai.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 82,
+        "question": "Estimasi ketersediaan eksternal dalam memperkirakan ketersediaan SDM terdiri dari….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Analisis Pasar Tenaga Kerja & Rencana Suksesi"
+          },
+          {
+            "label": "B",
+            "text": "Perilaku Masyarakat & Demografi"
+          },
+          {
+            "label": "C",
+            "text": "Rencana Suksesi & Perilaku Masyarakat"
+          },
+          {
+            "label": "D",
+            "text": "Efektivitas SDM & Audit Pegawai"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “Perilaku Masyarakat & Demografi” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 83,
+        "question": "Instrumen mengenai uraian dan spesifikasi jabatan, SOP rekrutmen dan seleksi, evaluasi hasil pelatihan dan formulir penilaian kinerja merupakan instrumen yang digunakan untuk melakukan riset audit SDM berdasarkan analisis ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "histori"
+          },
+          {
+            "label": "B",
+            "text": "eksperimen"
+          },
+          {
+            "label": "C",
+            "text": "survey"
+          },
+          {
+            "label": "D",
+            "text": "dokumen"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena fokus pertanyaan adalah kepatuhan terhadap kebijakan, SOP, atau regulasi, sehingga masuk cakupan ketaatan asas/compliance.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 84,
+        "question": "Pemeriksaan terhadap proses pengadaan SDM dan memastikan proses pengadaan tersebut telah sesuai dengan seluruh indikator kunci keberhasilan adalah audit fungsi....",
+        "options": [
+          {
+            "label": "A",
+            "text": "analisa jabatan"
+          },
+          {
+            "label": "B",
+            "text": "perencanaan SDM"
+          },
+          {
+            "label": "C",
+            "text": "rekrutmen"
+          },
+          {
+            "label": "D",
+            "text": "seleksi"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi “rekrutmen” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 85,
+        "question": "Berapakah ROI jika biaya program pelatihan sebesar Rp 100 juta; manfaat program pelatihan sebesar Rp 200 juta....",
+        "options": [
+          {
+            "label": "A",
+            "text": "100 %"
+          },
+          {
+            "label": "B",
+            "text": "125 %"
+          },
+          {
+            "label": "C",
+            "text": "150 %"
+          },
+          {
+            "label": "D",
+            "text": "200 %"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "ROI dihitung dengan rumus (manfaat - biaya) / biaya × 100%, sehingga pilihan final merupakan hasil perhitungan yang sesuai.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 86,
+        "question": "Pendekatan dalam audit SDM dengan cara dilakukan oleh asosiasi adalah pendekatan ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "otoritas luar"
+          },
+          {
+            "label": "B",
+            "text": "komparatif"
+          },
+          {
+            "label": "C",
+            "text": "statistik"
+          },
+          {
+            "label": "D",
+            "text": "ketaatan terhadap regulasi"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi “otoritas luar” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 87,
+        "question": "Dimensi budaya bangsa yang mencerminkan seberapa jauh seseorang menerima pendistribusian tidak seimbang, yaitu dimensi ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "collectivism"
+          },
+          {
+            "label": "B",
+            "text": "uncentainly avoidance"
+          },
+          {
+            "label": "C",
+            "text": "long term"
+          },
+          {
+            "label": "D",
+            "text": "power distance"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena opsi “power distance” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 88,
+        "question": "Audit biaya yang tidak terpengaruh oleh tingkat produksi atau output adalah audit….",
+        "options": [
+          {
+            "label": "A",
+            "text": "fixed cost"
+          },
+          {
+            "label": "B",
+            "text": "variable cost"
+          },
+          {
+            "label": "C",
+            "text": "cost per hire"
+          },
+          {
+            "label": "D",
+            "text": "cost per trainee hours"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi ini paling sesuai dengan jenis biaya atau metrik biaya SDM yang sedang ditanyakan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 89,
+        "question": "Audit SDM berbasis kompetensi yang dilakukan pada suatu proses sistematis rekrutmen untuk sejumlah kandidat yang direkrut dalam rangka memutuskan kandidat yang akan diterima sebagai calon pegawai merupakan audit fungsi ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Jabatan"
+          },
+          {
+            "label": "B",
+            "text": "Rekruitmen"
+          },
+          {
+            "label": "C",
+            "text": "Seleksi"
+          },
+          {
+            "label": "D",
+            "text": "personalia"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena istilah tersebut paling sesuai dengan audit berbasis kompetensi yang menilai kesesuaian kemampuan, perilaku, atau standar kompetensi SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 90,
+        "question": "Asesmen terhadap usaha yang dilakukan menajemen setelah kesalahan atau terjadinya penyimpangan adalah definisi dari audit….",
+        "options": [
+          {
+            "label": "A",
+            "text": "traditional approach"
+          },
+          {
+            "label": "B",
+            "text": "output approach"
+          },
+          {
+            "label": "C",
+            "text": "corrective discipline"
+          },
+          {
+            "label": "D",
+            "text": "preventif discipline"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi “corrective discipline” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 91,
+        "question": "Audit current indicators metrik kinerja program K3 adalah....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Statistik pegawai yang berobat & tindak lanjut"
+          },
+          {
+            "label": "B",
+            "text": "Analisa & Laporan penyelidikan penyebab kecelakaan"
+          },
+          {
+            "label": "C",
+            "text": "Keterlibatan pekerja dalam sistem K3 dan hasil kajian K3"
+          },
+          {
+            "label": "D",
+            "text": "Biaya pengganti kecelakaan kerja & kualitas program K3"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena pertanyaan mengarah pada pengukuran, perencanaan, atau pengendalian pencapaian kinerja terhadap standar.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 92,
+        "question": "Input dari model audit karier berbasis kompetensi adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Aspirasi Pegawai & Peningkatan Kinerja"
+          },
+          {
+            "label": "B",
+            "text": "Perencanaan Karir & Optimalisasi Potensi"
+          },
+          {
+            "label": "C",
+            "text": "Perencanaan Strategik SDM & Minat Pegawai"
+          },
+          {
+            "label": "D",
+            "text": "Assesment & Peningkatan Kinerja"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena istilah tersebut paling sesuai dengan audit berbasis kompetensi yang menilai kesesuaian kemampuan, perilaku, atau standar kompetensi SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 93,
+        "question": "Yang termasuk dalam cakupan audit efektifitas balas jasa berbasis kompetensi adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Nilai jabatan untuk setiap posisi"
+          },
+          {
+            "label": "B",
+            "text": "Biaya program balas jasa"
+          },
+          {
+            "label": "C",
+            "text": "Program survei gaji"
+          },
+          {
+            "label": "D",
+            "text": "Evaluasi jabatan"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena istilah tersebut paling sesuai dengan audit berbasis kompetensi yang menilai kesesuaian kemampuan, perilaku, atau standar kompetensi SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 94,
+        "question": "Berikut ini urutan yang tepat dalam perencanaan kinerja adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Target Karyawan, Target Perusahaan, Target Unit Kerja"
+          },
+          {
+            "label": "B",
+            "text": "Target Karyawan, Target Unit Kerja, Perusahaan"
+          },
+          {
+            "label": "C",
+            "text": "Target Unit Kerja, Target Karyawan, Target Perusahaan"
+          },
+          {
+            "label": "D",
+            "text": "Target Perusahaan, Target Unit Kerja, Target Karyawan"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena pertanyaan mengarah pada pengukuran, perencanaan, atau pengendalian pencapaian kinerja terhadap standar.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 95,
+        "question": "Pengembangan SDM merupakan salah satu kebutuhan untuk kemajuan karier dimasa yang mendatang, hal ini merupakan kepentingan dari sisi....",
+        "options": [
+          {
+            "label": "A",
+            "text": "perusahaan"
+          },
+          {
+            "label": "B",
+            "text": "pekerja"
+          },
+          {
+            "label": "C",
+            "text": "pemilik perusahaan"
+          },
+          {
+            "label": "D",
+            "text": "serikat pekerja"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena konteksnya adalah pengembangan kompetensi, karier, atau program peningkatan kemampuan SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 96,
+        "question": "Penilaian menyeluruh terhadap kemampuan, aktivitas, dan praktik upaya mencari terobosan baru pada suatu organisasi merupakan lingkup dari audit….",
+        "options": [
+          {
+            "label": "A",
+            "text": "kondisi lingkungan kerja"
+          },
+          {
+            "label": "B",
+            "text": "innovation"
+          },
+          {
+            "label": "C",
+            "text": "legal"
+          },
+          {
+            "label": "D",
+            "text": "compliance"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “innovation” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 97,
+        "question": "Apa yang harus diperhatikan auditor untuk menganalisis reaksi ”neglect” karyawan yang tidak puas terhadap perusahaan….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Reaksi keluar dari perusahaan"
+          },
+          {
+            "label": "B",
+            "text": "Reaksi pasif dan membiarkan perusahaan memburuk"
+          },
+          {
+            "label": "C",
+            "text": "Reaksi melakukan aksi protes yang konstruktif ke perusahaan"
+          },
+          {
+            "label": "D",
+            "text": "Reaksi memberikan reaksi positif terhadap kritik dari pihak luar perusahaan"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “Reaksi pasif dan membiarkan perusahaan memburuk” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 98,
+        "question": "Pengukuran avoidable rate bulanan dilakukan dengan mengukur persentase rasio antara jumlah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Karyawan PHK secara alami dan Total Karyawan Akhir Bulan"
+          },
+          {
+            "label": "B",
+            "text": "Karyawan resign dan Total Karyawan Tengah Bulan"
+          },
+          {
+            "label": "C",
+            "text": "Karyawan yang pensiun dan Total Karyawan Akhir Bulan"
+          },
+          {
+            "label": "D",
+            "text": "Karyawan PHK secara tidak alami dan Total Karyawan Tengah Bulan"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena opsi “Karyawan PHK secara tidak alami dan Total Karyawan Tengah Bulan” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 99,
+        "question": "Untuk mendapatkan SDM yang efektif, perusahaan harus memperhatikan aspek motivasi agar dapat meningkatkan kinerja perusahaan. Berdasarkan teori Maslow, urutan kebutuhan manusia sebagai karyawan adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "kebutuhan fisiologis – rasa aman – sosial – aktualisasi diri dan penghargaan"
+          },
+          {
+            "label": "B",
+            "text": "kebutuhan rasa aman – fisiologis – sosial – penghargaan dan aktualisasi diri"
+          },
+          {
+            "label": "C",
+            "text": "kebutuhan fisiologis – rasa aman – sosial – penghargaan dan aktualisasi diri"
+          },
+          {
+            "label": "D",
+            "text": "kebutuhan rasa aman – fisiologis – aktualisasi diri – penghargaan dan sosial"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena pertanyaan mengarah pada pengukuran, perencanaan, atau pengendalian pencapaian kinerja terhadap standar.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 100,
+        "question": "Berikut ini yang termasuk dalam ukuran konsistensi sikap manajemen dan audit SDM dalam mencapai target strategis adalah mengukur persentase….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Improvement in KPI Customer Satisfaction"
+          },
+          {
+            "label": "B",
+            "text": "Revenue from New Customer"
+          },
+          {
+            "label": "C",
+            "text": "Share value due to customer referrals"
+          },
+          {
+            "label": "D",
+            "text": "Recurring Customer Complaints"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena pertanyaan mengarah pada pengukuran, perencanaan, atau pengendalian pencapaian kinerja terhadap standar.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 101,
+        "question": "Saat melakukan audit, jika di sebuah perusahaan ditemukan tingkat lowongan pekerjaan yang tinggi. Maka yang harus dicermati auditor adalah ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Efisiensi"
+          },
+          {
+            "label": "B",
+            "text": "Beban Kerja"
+          },
+          {
+            "label": "C",
+            "text": "Kompetensi"
+          },
+          {
+            "label": "D",
+            "text": "Efektivitas"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena opsi “Efektivitas” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 102,
+        "question": "Audit yang mengukur efektivitas organisasi SDM sebagai suatu proses transformasi dari input menjadi output menggunakan pendekatan ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "contingency"
+          },
+          {
+            "label": "B",
+            "text": "system"
+          },
+          {
+            "label": "C",
+            "text": "resource"
+          },
+          {
+            "label": "D",
+            "text": "modern"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “system” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 103,
+        "question": "Audit paradigma baru dalam sistem remunerasi / sistem penggajian, imbalan dirancang dan ditetapkan berdasarkan….",
+        "options": [
+          {
+            "label": "A",
+            "text": "pekerjaan, lingkup tugas, senioritas, dan kinerja individu"
+          },
+          {
+            "label": "B",
+            "text": "keadilan internal, range gaji , pekerjaan dan nilai individu"
+          },
+          {
+            "label": "C",
+            "text": "pekerjaan, lingkup tugas, senioritas, dan keadilan internal"
+          },
+          {
+            "label": "D",
+            "text": "kinerja, nilai individu, keadilan pasar dan fleksibilitas"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena opsi “kinerja, nilai individu, keadilan pasar dan fleksibilitas” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 104,
+        "question": "Metode menghitung tingkat kesalahan dapat dilakukan dengan cara menghitung rasio antara ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "jumlah produk/layanan & jumlah produk/layanan yang salah"
+          },
+          {
+            "label": "B",
+            "text": "keluhan pelanggan & jumlah produk/layanan"
+          },
+          {
+            "label": "C",
+            "text": "jumlah produk/layanan yang salah & jumlah produk/layanan"
+          },
+          {
+            "label": "D",
+            "text": "keluhan pelanggan & jumlah produk/layanan yang salah"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi “jumlah produk/layanan yang salah & jumlah produk/layanan” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 105,
+        "question": "Rekrutmen berbasis teknologi informasi atau e-recruitment dengan memanfaatkan sosial media sudah sangat populer saat ini. Untuk itu sebagai auditor perlu memeriksa apakah penerapan e-recruitment telah teruji dan dapat ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "mempercepat proses dan kualifikasi pelamar yang terjaring lebih tepat sasaran"
+          },
+          {
+            "label": "B",
+            "text": "menaikan biaya pelaksanan rekrutmen dibanding pelaksanaan secara tradisional"
+          },
+          {
+            "label": "C",
+            "text": "meningkatkan kreatifitas calon karyawan"
+          },
+          {
+            "label": "D",
+            "text": "menerapkan self-assessment dengan mengisi online resume pribadi"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena proses yang dibahas berkaitan dengan pengadaan, penjaringan, atau pemilihan calon pegawai.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 106,
+        "question": "Proses untuk mengevaluasi dan mengidentifikasi kelemahan dalam pengelolaan karier di sebuah perusahaan adalah audit fungsi ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "pelatihan dan pengembangan karier"
+          },
+          {
+            "label": "B",
+            "text": "kompensasi"
+          },
+          {
+            "label": "C",
+            "text": "manajemen karier"
+          },
+          {
+            "label": "D",
+            "text": "penilaian kinerja"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena konteksnya adalah pengembangan kompetensi, karier, atau program peningkatan kemampuan SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 107,
+        "question": "Pada perusahaan manufaktur apabila terdapat satu pekerja yang tidak masuk pasti akan mengganggu keseluruhan proses produksi, sehingga kehadiran karyawan mutlak diperlukan. Hal ini terjadi karena ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "tingkat penggunaan SDM sudah optimal"
+          },
+          {
+            "label": "B",
+            "text": "tingginya absence rate"
+          },
+          {
+            "label": "C",
+            "text": "tingginya frequency rate"
+          },
+          {
+            "label": "D",
+            "text": "adanya zero defect"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi “tingkat penggunaan SDM sudah optimal” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 108,
+        "question": "Audit tingkat jabatan non-struktural di perusahaan dilakukan dengan mengaudit ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "Manajer & staff"
+          },
+          {
+            "label": "B",
+            "text": "Pelaksana & Petugas Lapangan"
+          },
+          {
+            "label": "C",
+            "text": "Pelaksana dan tenaga ahli"
+          },
+          {
+            "label": "D",
+            "text": "Supervisor & Tenaga Ahli"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi “Pelaksana dan tenaga ahli” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 109,
+        "question": "Dalam proses audit tingkat keluhan dan pengaduan karyawan, suatu perusahaan tidak disarankan untuk menggunakan pola ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "mitra"
+          },
+          {
+            "label": "B",
+            "text": "opinion"
+          },
+          {
+            "label": "C",
+            "text": "survey"
+          },
+          {
+            "label": "D",
+            "text": "refresif"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena opsi “refresif” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 110,
+        "question": "Audit biaya yang tidak memiliki keterkaitan langsung dengan perancangan, pengembangan, dan pelaksanaan pelatihan adalah audit….",
+        "options": [
+          {
+            "label": "A",
+            "text": "direct cost"
+          },
+          {
+            "label": "B",
+            "text": "indirect cost"
+          },
+          {
+            "label": "C",
+            "text": "potential benefit"
+          },
+          {
+            "label": "D",
+            "text": "benefit cost analysis"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi ini paling sesuai dengan jenis biaya atau metrik biaya SDM yang sedang ditanyakan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 111,
+        "question": "Cakupan biaya pengembangan organisasi unit kerja SDM yang diaudit adalah biaya ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "suksesi"
+          },
+          {
+            "label": "B",
+            "text": "rekrutmen"
+          },
+          {
+            "label": "C",
+            "text": "penyempurnaan SOP SDM"
+          },
+          {
+            "label": "D",
+            "text": "implementasi manajemen SDM"
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi ini paling sesuai dengan jenis biaya atau metrik biaya SDM yang sedang ditanyakan.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 112,
+        "question": "Cakupan audit core efficiency adalah ....",
+        "options": [
+          {
+            "label": "A",
+            "text": "HR Expenses per Employee & Cost Per Hire"
+          },
+          {
+            "label": "B",
+            "text": "Cost per hire & Benefit Cost as percentage of Hire"
+          },
+          {
+            "label": "C",
+            "text": "Worker’s Compensation per Employee & Benefit Cost as percentage of Hire"
+          },
+          {
+            "label": "D",
+            "text": "Percentage of Correct Entries HRIS & Cost per Trainee hour"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi “HR Expenses per Employee & Cost Per Hire” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 113,
+        "question": "Agar penyusunan laporan audit MSDM-BK dilakukan dengan benar dan efektif maka ada beberapa hal yang harus diperhatikan, antara lain tahap klarifikasi dalam pra pelaporan audit yaitu ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "melakukan pembahasan antara sesama auditor maupun dengan pihak yang diaudit"
+          },
+          {
+            "label": "B",
+            "text": "menginformasikan kembali dengan pihak auditee hasil temuan agar mendapat kesamaan persepsi atas hasil temuan"
+          },
+          {
+            "label": "C",
+            "text": "menyajikan temuan audit yang memuat data-data dan bukti-bukti objektif"
+          },
+          {
+            "label": "D",
+            "text": "merekomendasikan saran-saran berdasarkan hasil temuan audit kepada pihak auditee"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “menginformasikan kembali dengan pihak auditee hasil temuan agar mendapat kesamaan persepsi atas hasil temuan” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 114,
+        "question": "Salah satu manfaat audit MSDM-BK bagi suatu organisasi adalah ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Mempertajam temuan terutama yang bersifat material atau penting"
+          },
+          {
+            "label": "B",
+            "text": "Berperan dalam mengaitkan praktik dan strategi sumber daya manusia dengan strategi bisnis"
+          },
+          {
+            "label": "C",
+            "text": "Memastikan kepatuhan terhadap berbagai regulasi dan peraturan perundangundangan"
+          },
+          {
+            "label": "D",
+            "text": "Memberikan kontribusi dalam proses transformasi dan perubahan yang terjadi dalam organisasi."
+          }
+        ],
+        "correctLabels": [
+          "C"
+        ],
+        "explanation": "Jawaban final adalah C karena opsi “Memastikan kepatuhan terhadap berbagai regulasi dan peraturan perundangundangan” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal. Catatan: Kunci dokumen tetap dipakai, tetapi beberapa opsi lain juga merupakan manfaat audit SDM secara umum; soal sebaiknya menekankan “manfaat dari sisi compliance” bila ingin hanya satu jawaban.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "C"
+      },
+      {
+        "number": 115,
+        "question": "Faktor realitas eksternal dalam upaya membangun praktik audit SDM yang berbasis kompetensi adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "investor"
+          },
+          {
+            "label": "B",
+            "text": "kompetensi"
+          },
+          {
+            "label": "C",
+            "text": "pelanggan"
+          },
+          {
+            "label": "D",
+            "text": "teknologi"
+          }
+        ],
+        "correctLabels": [
+          "D"
+        ],
+        "explanation": "Jawaban final adalah D karena istilah tersebut paling sesuai dengan audit berbasis kompetensi yang menilai kesesuaian kemampuan, perilaku, atau standar kompetensi SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "D"
+      },
+      {
+        "number": 116,
+        "question": "Peran departemen SDM agar setiap orang di perusahaan memberikan kontribusi adalah sebagai .....",
+        "options": [
+          {
+            "label": "A",
+            "text": "change agent"
+          },
+          {
+            "label": "B",
+            "text": "employee champion"
+          },
+          {
+            "label": "C",
+            "text": "administrative expert"
+          },
+          {
+            "label": "D",
+            "text": "strategic partner"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “employee champion” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
+      },
+      {
+        "number": 117,
+        "question": "Audit penilaian efisiensi terhadap pemberian tunjangan dan perhitungan bonus di perusahaan merupakan contoh audit ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Operasional SDM"
+          },
+          {
+            "label": "B",
+            "text": "Fungsi SDM"
+          },
+          {
+            "label": "C",
+            "text": "Ketaatan SDM"
+          },
+          {
+            "label": "D",
+            "text": "Kinerja SDM"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi “Operasional SDM” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 118,
+        "question": "Perusahaan yang bergerak dibidang manufaktur ingin menilai apakah kegiatan operasional yang dilakukan telah memenuhi standar dan regulasi yang berlaku. Jenis audit yang paling tepat untuk tujuan Perusahaan tersebut adalah audit ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "Ketaatan"
+          },
+          {
+            "label": "B",
+            "text": "Pengendalian"
+          },
+          {
+            "label": "C",
+            "text": "Perencanaan"
+          },
+          {
+            "label": "D",
+            "text": "Operasional"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena opsi “Ketaatan” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 119,
+        "question": "Auditor harus memiliki sikap mental independen, mahir dan ahli dalam bidang audit SDM berbasis kompetensi untuk memenuhi norma ….",
+        "options": [
+          {
+            "label": "A",
+            "text": "umum"
+          },
+          {
+            "label": "B",
+            "text": "khusus"
+          },
+          {
+            "label": "C",
+            "text": "pra audit"
+          },
+          {
+            "label": "D",
+            "text": "post audit"
+          }
+        ],
+        "correctLabels": [
+          "A"
+        ],
+        "explanation": "Jawaban final adalah A karena istilah tersebut paling sesuai dengan audit berbasis kompetensi yang menilai kesesuaian kemampuan, perilaku, atau standar kompetensi SDM.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "A"
+      },
+      {
+        "number": 120,
+        "question": "Kegiatan yang tidak termasuk dalam hasil audit pendahuluan, adalah….",
+        "options": [
+          {
+            "label": "A",
+            "text": "perumusan tujuan audit yang lebih rinci dan atau spesifik"
+          },
+          {
+            "label": "B",
+            "text": "analisis dokumen"
+          },
+          {
+            "label": "C",
+            "text": "pencarian bukti-bukti yang perlu diperoleh atau didalami pada audit selanjutnya"
+          },
+          {
+            "label": "D",
+            "text": "temuan sementara terkait objek audit dan kriteria yang telah ditentukan"
+          }
+        ],
+        "correctLabels": [
+          "B"
+        ],
+        "explanation": "Jawaban final adalah B karena opsi “analisis dokumen” paling sesuai dengan konsep audit SDM yang ditanyakan pada soal.",
+        "needsReview": false,
+        "auditStatus": "Sesuai",
+        "originalKey": "B"
       }
     ]
   }
